@@ -1,0 +1,47 @@
+/* background and colors */
+
+.bg-alice-blue {
+
+    background: aliceblue;
+}
+
+/* cypher classes */
+.cypher {
+    background: mistyrose;
+    padding: .1rem .4rem;
+    transition: ease-in;
+}
+
+.decypher {
+    background: honeydew;
+    padding: .1rem .4rem;
+}
+
+/* font styling */
+.capital {
+    font-size: 4rem;
+}
+
+.Footnote {
+    background: plum;
+    font-style: italic;
+    display: inline-block;
+    /* This isn't what I actually want, I'm just flagging them for now: I ultimately want what the Milton Reading Room has, where footnoted text has an href and a unique id, and the footnote content shows up upon click */
+}
+
+.SectionTitle {
+    font-style: normal;
+}
+
+.SectionSummary {
+    font-variant:small-caps;
+}
+
+.speaker {
+    font-weight:bold;
+    display:block;
+}
+
+.speech-act {
+    font-variant: normal;
+}
