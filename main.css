@@ -1,21 +1,59 @@
-/* background and colors */
-
-.bg-alice-blue {
-
-    background: aliceblue;
-}
-
-/* cypher classes */
-.cypher {
+:root {
+    /* root color variables allows you to use the name instead of hex values */
+    --bright-blue: #007bff;
+    --light-grey-body: #fafafa;
+    --ghost-white: #f5f5fA;
+    --alice-blue: aliceblue;
+    --slate-gray: lightslategray;
+    --silver: silver;
+    --graphite: #506578;
+    --trench-blue: #406885;
+    --light-blue: #d0e9fe;
+    --chocolate: rgb(210, 105, 30);
+    --maroon: #9c2b33;
+    --nd-blue: #20364c;
+    --nd-gold: #c99700;
+    --page-bg: #f7f9fa;
+    --light-gray: #e2e6ea;
+  }
+  
+  body {
+    box-sizing: border-box;
+    font-size: 1rem;
+    background: var(--light-grey-body);
+  }
+  
+  #tab-content,
+  #toc,
+  #page-header 
+  {
+    font-family: 'Noto Serif', serif;
+  }
+  
+  /* background and colors */
+  .bg-alice-blue {
+    background: #f6f7fb;
+  }
+  
+  /* cypher classes  */
+  .cypher {
     background: mistyrose;
-    padding: .1rem .4rem;
-    transition: ease-in;
-}
-
-.decypher {
+    padding: .1rem .4rem .1rem .4rem;
+    border-bottom: 1px dashed gray;
+  }
+  
+  .decypher {
     background: honeydew;
-    padding: .1rem .4rem;
-}
+    padding: .1rem .4rem .1rem .4rem;
+    border-bottom: 1px dashed gray;
+    cursor: help;
+  }
+  
+  #tab-content h5 {
+    color: maroon;
+    font-size: 1.4rem;
+  }
+
 
 /* font styling */
 .capital {
@@ -23,17 +61,16 @@
 }
 
 .Footnote {
-    background: plum;
-    font-style: italic;
-    display: inline-block;
+    text-decoration-line: underline;
+    cursor:pointer;
     /* This isn't what I actually want, I'm just flagging them for now: I ultimately want what the Milton Reading Room has, where footnoted text has an href and a unique id, and the footnote content shows up upon click */
 }
 
-.SectionTitle {
+.section-title {
     font-style: normal;
 }
 
-.SectionSummary {
+.summary {
     font-variant:small-caps;
 }
 
@@ -43,5 +80,5 @@
 }
 
 .speech-act {
-    font-variant: normal;
+    font-variant: italic;
 }
