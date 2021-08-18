@@ -13,7 +13,7 @@ $(document).ready( function(){
       // Hide all the things with class of decypher
       $(".decypher").addClass("d-none").css("display", "none");
       // change the text in the button to hide all
-      $("#toggle-cypher-button").text("Show all");
+      $("#toggle-cypher-button").text("Decypher all");
     }
 
   });

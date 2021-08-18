@@ -29,6 +29,12 @@
   {
     font-family: 'Noto Serif', serif;
   }
+
+  div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
   
   /* background and colors */
   .bg-alice-blue {
