@@ -40,13 +40,14 @@
     background: mistyrose;
     padding: .1rem .4rem .1rem .4rem;
     border-bottom: 1px dashed gray;
+    cursor: pointer;
   }
   
   .decypher {
     background: honeydew;
     padding: .1rem .4rem .1rem .4rem;
     border-bottom: 1px dashed gray;
-    cursor: help;
+    
   }
   
   #tab-content h5 {
@@ -60,7 +61,7 @@
     font-size: 4rem;
 }
 
-.Footnote {
+.footnote {
     text-decoration-line: underline;
     cursor:pointer;
     /* This isn't what I actually want, I'm just flagging them for now: I ultimately want what the Milton Reading Room has, where footnoted text has an href and a unique id, and the footnote content shows up upon click */
