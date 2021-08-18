@@ -38,7 +38,6 @@ $(document).ready( function(){
     "animation": true,
     "html": true,
     "placement": 'top',
-    "trigger": 'focus'
   });
 
   // Use this to allow popover to dismiss on clicking any element
