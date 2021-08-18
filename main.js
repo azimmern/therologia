@@ -43,7 +43,7 @@ $(document).ready( function(){
 
   // Use this to allow popover to dismiss on clicking any element
   $('.popover-dismiss').popover({
-    trigger: 'focus'
+    "trigger": 'focus'
   });
 
 });
