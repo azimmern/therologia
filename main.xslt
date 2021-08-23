@@ -12,7 +12,7 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <!--Make HTML head matter-->
+    <!--Make HTML head and navigation bar, "Decypher all" button, and pills/tabs for Therologia's sections-->
     <xsl:template match="tei:TEI">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;
         </xsl:text>
@@ -194,6 +194,7 @@
                             <div class="tab-content" id="tab-Contentundefined">
 
 
+
                                 <!--                                Now run a loop on each div in the "front" part of the text, and store it's div-type as a variable to iterate on in a choose-when loop-->
                                 <xsl:for-each select="/tei:TEI/tei:text/tei:front/tei:div">
 
@@ -201,12 +202,14 @@
                                     <xsl:choose>
 
                                         <xsl:when test="matches($div_type, 'title_page')">
+
                                             <div class="mt-3 ml-2 tab-pane fade show active"
                                                 id="panel3733645" role="tabpanel"
                                                 aria-labelledby="...">
 
                                                 <xsl:apply-templates/>
                                             </div>
+
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'summary')">
@@ -383,21 +386,12 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                     </xsl:choose>
-
-
                                 </xsl:for-each>
-
-
-
-
                             </div>
-
                         </div>
-
                     </div>
                 </div>
 
@@ -454,6 +448,62 @@
 
     <xsl:template match="tei:p">
         <xsl:apply-templates/>
+        <br/>
+    </xsl:template>
+
+    <xsl:template match="tei:l">
+        <xsl:apply-templates/>
+        <br/>
+    </xsl:template>
+
+    <xsl:template match="tei:q">
+        <span>
+            <xsl:attribute name="class">w3-panel</xsl:attribute>
+        </span>
+    </xsl:template>
+
+    <xsl:template match="tei:quote">
+        <xsl:variable name="quote_type" select="@corresp"/>
+
+        <xsl:choose>
+            <xsl:when test="matches($quote_type, '#proverb')">
+                <span>
+                    <xsl:attribute name="class">proverb</xsl:attribute>
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            
+            <xsl:when test="matches($quote_type, '#citation')">
+                <span>
+                    <xsl:attribute name="class">citation</xsl:attribute>
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            
+            <xsl:when test="matches($quote_type, '#fable')">
+                <span>
+                    <xsl:attribute name="class">fable</xsl:attribute>
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            
+            <xsl:when test="matches($quote_type, '#receipt')">
+                <span>
+                    <xsl:attribute name="class">receipt</xsl:attribute>
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="tei:pb">
+        <br/>
+            page <xsl:value-of select="@n"/>
         <br/>
     </xsl:template>
 

@@ -88,5 +88,23 @@
 }
 
 .speech-act {
-    font-weight: italic;
+    font-weight: normal;
 }
+
+.proverb{
+  background: var(--light-grey-body)
+}
+
+.citation{
+  background: var(--light-blue)
+}
+
+.fable{
+  background: var(--nd-gold)
+}
+
+.receipt{
+  background: var(--trench-blue)
+}
+
+
