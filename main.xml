@@ -151,7 +151,7 @@
                         target="http://www.textcreationpartnership.org/docs/.">Text Creation
                         Partnership web site</ref>. </p>
             </editorialDecl>
-            <!--            <listPrefixDef>
+                        <!--<listPrefixDef>
                 <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
                     replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2"
                 <prefixDef ident="char" matchPattern="(.+)"
@@ -159,11 +159,11 @@
             </listPrefixDef>-->
 
 
-            <!--<classDecl>
-                <!-\- I want to build a taxonomy of genres: a genreography of sorts, that would use <seg ana="" source=""> and <bibl> tags
+            <classDecl>
+                <!-- I want to build a taxonomy of genres: a genreography of sorts, that would use <seg ana="" source=""> and <bibl> tags
                     to capture and then color-scheme or otherwise indicate the various genres. But that is a down-the-road project
                     
-                    A basic taxonomy might look like this -\->
+                    A basic taxonomy might look like this -->
 
                 <taxonomy
                     corresp="https://docs.google.com/document/d/1j99yixZGQZ__TDU1haH-9FU6nNWSJ93EOA5zwHUUE0I/edit#">
@@ -205,7 +205,7 @@
                     </category>
                 </taxonomy>
 
-            </classDecl>-->
+            </classDecl>
         </encodingDesc>
       
         <profileDesc>
@@ -219,7 +219,7 @@
                 <language ident="gr">Greek</language>
             </langUsage>
             
-            <!--<particDesc>
+            <particDesc>
                 <listPerson>
 
                     <person xml:id="Aesop">
@@ -314,7 +314,7 @@
                     </person>
                     
                 </listPerson>
-            </particDesc>-->
+            </particDesc>
             
             
             <settingDesc>
@@ -612,17 +612,17 @@
                 <p>With Reflexes upon the present State of most Countries in Christendom.</p>
                 <p> Divided into a <hi>XI</hi> Sections. </p>
                 <p> By <hi>
-                        <persName corresp="#HowellJames">JAM HOWELL</persName>
+                        <note type="foot" corresp="#HowellJames">JAM HOWELL</note>
                         <abbr>Esq</abbr>
                     </hi>
                 </p>
-                <q xml:lang="la"> Senesco, non Segnesco.</q>
+                <q xml:lang="la"> <note type="foot" corresp="senesco" ana="Some stuff about this phrase.">Senesco, non Segnesco</note> .</q>
                 <p> The First <hi>TOME.</hi>
                 </p>
                 <p>
-                    <hi>London,</hi> Printed by <hi><persName corresp="#WilsonWilliam">W.
-                        Wilson</persName></hi> for <hi><persName corresp="#PalmerWilliam">William
-                        Palmer</persName>,</hi> at the <hi>Palm-Tree</hi> in <hi>Fleet-street</hi> near
+                    <hi>London,</hi> Printed by <hi><note type="foot" corresp="#WilsonWilliam">W.
+                        Wilson</note></hi> for <hi><note type="foot" corresp="#PalmerWilliam">William
+                        Palmer</note>,</hi> at the <hi>Palm-Tree</hi> in <hi>Fleet-street</hi> near
                             <hi>St. Dunstan</hi>'s Church, 1660. </p>
             </div>
 <!--            END OF TITLE PAGE-->
@@ -630,7 +630,7 @@
             
             
             
-            <div type="introductory_poem">
+            <div type="introductory_verses">
                 <pb facs="tcp:98502:2"/>
                 <pb facs="tcp:98502:2"/>
                 <head>MORPHANDRA, OR QUEEN OF THE Inchanted Iland.</head>
@@ -787,10 +787,10 @@
                     from the middle Region; He can make the vast <hi>Leviathan,</hi> though a
                     hundred times bigger than himself, to flounce from the deep to do him homage on
                     the Shore; He can make the <hi>Elephant,</hi> though forty times stronger than
-                    himself, to draw up his Ships on the Carine<note>From the latin "carina" and
-                        French "carine," meaning the keel of a boat. Howell added the word to Thomas
+                    himself, to draw up his Ships on the <note type="foot" corresp="carine" ana="From the latin 'carina' and
+                        French 'carine,' meaning the keel of a boat. Howell added the word to Thomas
                         Blount's 1656 dictionary Glossographia and may have been intent on getting
-                        it into common use. It is now obsolete.</note>, and do other drudgeries;
+                        it into common use. It is now obsolete.">Carine</note>, and do other drudgeries;
                     This appears also out of that <hi>Awe,</hi> which by a kind of naturall instinct
                     all other <hi>Animals</hi> use to shew <hi>Him;</hi> Insomuch that tryall hath
                     been made, how if a <hi>Man</hi> should go naked and with a confidence through
@@ -806,11 +806,11 @@
                     Opinions <pb facs="tcp:98502:6"/> have bin hatch'd of late times, both in
                         <hi>Divinity</hi> and in the Idaeas of holy things, as well as in all other
                         <hi>Sciences,</hi> specially in the Art of <hi>Policy,</hi> wherin such poor
-                        <hi>Sciolists</hi><note>From the latin "sciolus," a person, usually an
+                    <note type="foot" corresp="sciolist" ana="From the latin 'sciolus,' a person, usually an
                         editor, of superficial knowledge; a pretender to knowledge. Used with some
-                        irony here, as Thomas Blount's preface to <hi>Glossographia</hi> (To Reader,
-                        sig. A4) complains about "Every..homebred Sciolist being at liberty..to coyn
-                        and innovate new Words."</note> are crept up, that wold turn antient
+                        irony here, as Thomas Blount's preface to Glossographia (To Reader,
+                        sig. A4) complains about 'Every..homebred Sciolist being at liberty..to coyn
+                        and innovate new Words.'"><hi>Sciolists</hi></note> are crept up, that wold turn antient
                         <hi>Monarchies</hi> into new popular <hi> Commonwealths, </hi> and so set a
                         <hi>Hydra</hi>'s head upon an old <hi>Lion</hi>'s neck, or make a Child's
                     shoo to fit a Giant's foot. </p>
@@ -832,24 +832,24 @@
                     touching these <hi>Northwest Ilands,</hi> they have out-gon all the rest: These
                     metamorphos'd Animals do point at all these, and other degenerations of the
                         <hi>Human</hi> Creture: Nor is it the first time that Beasts did speak, for
-                    we read of <quote type="allusion" corresp="#scripture">one in the <hi>Sacred
-                            Code</hi> who spoke</quote>
-                    <note>Howell alludes repeatedly to Balaam's Ass</note>; and besides, <persName
+                    we read of <note type="foot" corresp="balaam" ana="Howell alludes repeatedly to Balaam's Ass">one in the <hi>Sacred
+                            Code</hi> who spoke</note>
+                    ; and besides, <persName
                         corresp="#Solomon"><hi>Solomon</hi></persName> sends in to som of
                         <hi>Them</hi> for <hi>Instruction:</hi>
-                    <persName corresp="#Aesop"> The <hi>Phrygian</hi> Fabler</persName> was one of
+                    <note type="foot" corresp="#Aesop"> The <hi>Phrygian</hi> Fabler</note> was one of
                     the first who taught them their <hi>Abcee,</hi> then <hi><persName
                             corresp="#Avianus" cert="low">Anian</persName>, <persName
                             corresp="#BaarlandAdriaanVan" cert="high">Barlandus</persName>,</hi> and others
                     taught Them Their <hi>Primer,</hi> and the two ingenious <hi> Florentines,
-                            <persName corresp="#BraccioliniPoggio" cert="high"
-                        >Poggius</persName></hi> and <hi><persName corresp="#GelliGiambattista"
-                            cert="high">Gelli</persName></hi> may be said to have taught
+                            <note type="foot" corresp="#BraccioliniPoggio" cert="high"
+                        >Poggius</note></hi> and <hi><note type="foot" corresp="#GelliGiambattista"
+                            cert="high">Gelli</note></hi> may be said to have taught
                         <hi>Them</hi> their <hi>Grammer:</hi> But these transmuted <hi>Beasts</hi>
                     speak in a louder Dialect, who having tryed both Natures, they tell the <hi>
                         Human</hi> Creture his own, and how he growes daily from bad to worse,
-                    according to the <persName corresp="#Horace">
-                        <hi>Propheticall Lyric</hi> Poet,</persName>
+                    according to the <note type="foot" corresp="#Horace">
+                        <hi>Propheticall Lyric</hi> Poet,</note>
                     <quote type="citation" corresp="#Horace"><q xml:lang="la">
                         <l>Aetas Parentum, pejor avis, tulit</l>
                         <l>Nos nequiores, mox daturos</l>
@@ -900,7 +900,7 @@
                         <hi>This</hi> is an Age of <hi>Wonders,</hi> every Clime </l>
                     <l> Abounds with <hi>Prodigies,</hi> Ther is no Crime, </l>
                     <l>Not a notorious Villany or Fact,</l>
-                    <l>No foul Infandous<note>Formed from latin "infans" meaning speechless, this is one of Howell's favorite neologisms, meaning "unable to be spoken of; nefarious". C.f. <hi>Epistolæ Ho-elianæ</hi> (1645) v. xii. 15: "This infandous custom of swearing..raignes in England lately more then any wher els."</note> Thing, or ugly Act</l>
+                    <l>No foul <note type="foot" corresp="infandous" ana="A neologism, meaning 'unspeakable' or 'nefarious'; Howell uses it throughout his texts, especially in Epistolae Ho-Elianae.">Infandous</note> Thing, or ugly Act</l>
                     <l> That ever <hi>Adam</hi>'s sons did perpetrate, </l>
                     <l>
                         <pb facs="tcp:98502:7"/> But we have flagrant Instances of late. </l>
@@ -937,7 +937,7 @@
                 </epigraph>
                 <closer>
                     <signed>
-                        <persName corresp="#HowellJames">J.H.</persName>
+                        <note type="foot" corresp="#HowellJames">J.H.</note>
                     </signed>
                 </closer>
             </div>
@@ -1032,7 +1032,7 @@
                     <p> A Dialog 'twixt <hi>Morphandra,<name>Pererius</name>,</hi> and a
                             <hi>Soland-Goose,</hi> a <hi><persName corresp="#Carboncia">Carboncian</persName></hi> born, who was transmuted to
                         that shape for his foolishnes in rebelling against his own
-                        <hi>Conterranean</hi><note>Another neologism of Howell's coinage, meaning "Earth-sharing." C.f. J. Howell, <hi>Familiar Letters</hi>, 4th Vol. (1656), vii. 16: "He said, that if Women were not conterranean and mingled with men, Angels would descend and dwell among us."</note> King, and so jugling himself into a
+                        <hi><note type="foot" corresp="conterranean" ana="A neologism meaning 'Earth-sharing'">Conterranean</note></hi> King, and so jugling himself into a
                             <hi>Slavery</hi> from that <hi>Free-Government</hi> he was formerly
                         under, &amp;c. </p>
                 </div>
@@ -1064,9 +1064,9 @@
                         <head>M</head>
                         <head>P</head>
                         <p>
-                            <persName corresp="#BarloweFrancis"> F Barlowe </persName>
+                            <note type="foot" corresp="#BarloweFrancis"> F Barlowe </note>
                         </p>
-                        <p><persName corresp="#GaywoodRichard">R Gaywood</persName>
+                        <p><note type="foot" corresp="#GaywoodRichard">R Gaywood</note>
                             <w xml:lang="la">fecit</w>
                         </p>
                     </figure>
@@ -1143,8 +1143,8 @@
                     <item>
                         <hi>The</hi> <placeName corresp="#Cinqfoyl">Cinqfoyl</placeName> Portugal 
                     </item>
-                    <item><persName corresp="#MazarinCardinalRobert"
-                            ><hi>Cardinal</hi>Mazarine</persName>, p. 21
+                    <item><note type="foot" corresp="#MazarinCardinalRobert"
+                            ><hi>Cardinal</hi>Mazarine</note>, p. 21
                     </item>
                     <item><hi>The Coppices represents the common Peeple.</hi>
                     </item>
@@ -1158,13 +1158,13 @@
                 <list>
                     <head>D</head>
                     <item>
-                        <persName corresp="#Diogenes">Diogenes</persName>, <hi>p.</hi> 56 
+                        <note type="foot" corresp="#Diogenes">Diogenes</note>, <hi>p.</hi> 56 
                     </item>
                     <item><hi>Sir</hi>
-                        <persName corresp="#DigbyKenelm">Kenelm Digby</persName>, 148 
+                        <note type="foot" corresp="#DigbyKenelm">Kenelm Digby</note>, 148 
                     </item>
                     <item><hi>Dr.</hi>
-                        <persName corresp="#HarveyWilliam">Harvey</persName>, 141 
+                        <note type="foot" corresp="#HarveyWilliam">Harvey</note>, 141 
                     </item>
                 </list>
                 <list>
@@ -1214,7 +1214,7 @@
                     <head>M</head>
                     <item>
                         <placeName corresp="#Marcopolis">Marcopolis</placeName>, <hi>the City of S.</hi>
-                        <persName corresp="#StMarkEvangelist">Mark</persName>, <hi>represents</hi> Venice
+                        <note type="foot" corresp="#StMarkEvangelist">Mark</note>, <hi>represents</hi> Venice
                         <hi>of</hi>
                         <w xml:lang="gr">πόλις</w>
                         <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">Μᾶρκος</w>. 
@@ -1256,35 +1256,35 @@
                         <w xml:lang="la">sanguis</w>. 
                     </item>
                     <item>
-                        <persName corresp="#Midas"><hi>The</hi> Phrygian <hi>King,</hi> Mydas.</persName>
+                        <note type="foot" corresp="#Midas"><hi>The</hi> Phrygian <hi>King,</hi> Mydas.</note>
                     </item>
                     <item>
-                        <persName corresp="#Aesop"><hi>The</hi> Phrygian <hi>Fabler,</hi>
-                            Aesop.</persName>
+                        <note type="foot" corresp="#Aesop"><hi>The</hi> Phrygian <hi>Fabler,</hi>
+                            Aesop.</note>
                     </item>
                     <item>
-                        <persName corresp="#Charles1England"><hi>The late</hi> K. <hi>of</hi>
-                            Engl.</persName> p. 35
+                        <note type="foot" corresp="#Charles1England"><hi>The late</hi> K. <hi>of</hi>
+                            Engl.</note> p. 35
                     </item>
                     <item>
-                        <persName corresp="#Charles2England"><hi>The present K.</hi> Ch.</persName>
+                        <note type="foot" corresp="#Charles2England"><hi>The present K.</hi> Ch.</note>
                         <hi>p.</hi> 39 </item>
                 </list>
                 <list>
                     <head>Q</head>
                     <item>
-                        <persName corresp="#Christina1Sweden"
-                            ref="https://www.wikidata.org/wiki/Q52937" xml:id="Q52937"><hi>The Queen of</hi> Sweden</persName>, p. 114 
+                        <note type="foot" corresp="#Christina1Sweden"
+                            target="https://www.wikidata.org/wiki/Q52937" xml:id="Q52937"><hi>The Queen of</hi> Sweden</note>, p. 114 
                     </item>
                     <item>
-                        <persName corresp="#Elizabeth1England"><hi>Queen</hi> Elizabeth</persName>, p. 57 
+                        <note type="foot" corresp="#Elizabeth1England"><hi>Queen</hi> Elizabeth</note>, p. 57 
                     </item>
                 </list>
                 <list>
                     <head>R</head>
                     <item>
-                        <persName corresp="#FredericVPalatine"
-                            >Rinarchus</persName>, <rs corresp="#FredericVPalatine"
+                        <note type="foot" corresp="#FredericVPalatine"
+                            >Rinarchus</note>, <rs corresp="#FredericVPalatine"
                                 ><hi>the Palsgrave of the</hi> Rhine</rs>, <hi>of</hi>
                         <w xml:lang="gr">αρχων</w> , princeps, &amp;c. 
                     </item>
@@ -1293,15 +1293,15 @@
                         </hi>
                     </item>
                     <item>
-                        <persName corresp="#RainsboroughWilliam" cert="low"
-                            ref="https://www.wikidata.org/wiki/Q6639738" xml:id="Q6639738"
-                            >Rainsborough</persName>, <hi>and</hi>
-                        <persName corresp="#DeaneRichard"
-                            ref="https://www.wikidata.org/wiki/Q7325150" xml:id="Q7325150"
-                                ><hi>Admirall</hi><pb facs="tcp:98502:12"/>Dean</persName>, 40 
+                        <note type="foot" corresp="#RainsboroughWilliam" cert="low"
+                            target="https://www.wikidata.org/wiki/Q6639738" xml:id="Q6639738"
+                            >Rainsborough</note>, <hi>and</hi>
+                        <note type="foot" corresp="#DeaneRichard"
+                            target="https://www.wikidata.org/wiki/Q7325150" xml:id="Q7325150"
+                                ><hi>Admirall</hi><pb facs="tcp:98502:12"/>Dean</note>, 40 
                     </item>
                     <item>
-                        <hi>Roundheads<note>A common term for anti-Royalist Puritans; Howell was a committed royalist.</note> variously tormented in
+                        <hi><note type="foot" corresp="roundhead" ana="A common term for anti-Royalist Puritans; Howell was a committed royalist.">Roundheads</note> variously tormented in
                             Hell,</hi> ibid. 
                     </item>
                     <item><placeName corresp="#Rovena">Rovena</placeName>, <hi>the City
@@ -1332,7 +1332,7 @@
                     <item><placeName corresp="#Tarragon">Tarragon</placeName>, Catalunia
                         <hi>in</hi> Spaine, <hi>the ancientest town whereof is</hi> Tarragona.
                     </item>
-                    <item><persName corresp="#LutherMartin">Therlu</persName>, <hi>the Anagram of</hi> Luther.
+                    <item><note type="foot" corresp="#LutherMartin">Therlu</note>, <hi>the Anagram of</hi> Luther.
                     </item>
                     <item> Therologia, <hi> the language of Beasts; of </hi>
                         <w xml:lang="gr">θερ</w> , <w xml:lang="la">fera</w>; &amp; <w xml:lang="gr"
@@ -1473,14 +1473,14 @@
                         Advertisement before-hand, that ther are no wild or ferocious devouring
                         cretures within the Circumference of this Ile; they live all in a gentle and
                         general community, in an innocuous freedom, and sociableness: The Panther,
-                        Bear, and Tyger, put off their belluine<note>Obsolete word, pertaining to or characteristic of beasts</note> fierce nature here; the Lamb will
+                        Bear, and Tyger, put off their <note type="foot" corresp="belluine" ana="Obsolete word, pertaining to or characteristic of beasts">belluine</note> fierce nature here; the Lamb will
                         play with the Lion without any apprehensions of fear; the Hart fears not the
                         Hound, nor the Hare the Greyhound, nor the Bore the Lime-hound; the silly
                         Sheep fear not the Wolf or the Butcher's knife; nor Fish nor Fowl fear here
-                        the Dragnet or Tramell<note>Instruments used to capture fish: a dragnet was used to enclose all the fish at the bottom of a river, and a trammel was a long narrow net set vertically with floats and sinkers</note>: but all Animals, both of Air, Earth, and Water, live
+                        the <note type="foot" corresp="tramnell" ana="Instruments used to capture fish. A dragnet was used to enclose all the fish at the bottom of a river, and a trammel was a long narrow net set vertically with floats and sinkers.">Dragnet or Tramell</note>: but all Animals, both of Air, Earth, and Water, live
                         in an innocent security; the reason being, that we neither kill, much lesse
                         feed upon any Creture here that hath blood, and a sensitive life, but upon
-                        fruits, pulse, roots, rice, with other nourishing and manducable<note>Eatable or chewable</note> things,
+                        fruits, pulse, roots, rice, with other nourishing and <note type="foot" corresp="manducable" ana="Eatable or chewable">manducable</note> things,
                         that come forth gently, by the general benignity of indulgent Nature, from
                         the bowels of our common Mother the Earth; And though we make Butter
                         sometimes our aliment, we abhorre Cheese, because the cawle of a sensitive
@@ -1871,7 +1871,7 @@
             <div n="2" type="section">
                 <head type="chapter"> θηρολογια The Second Section.</head>
                 <head type="sub"> Containing an Interlocutory Discourse 'twixt
-                        Morphandra,<name>Pererius</name>, and an Asse, who had bin once an <name type="adj" corresp="#Artonia">Artorian</name>
+                        Morphandra,<name>Pererius</name>, and an Asse, who had bin once an <persName corresp="#Artonia">Artorian</persName>
                     Peasan; wherin ther are some glances upon the Country it self, and upon the
                     present Government thereof. But though Prince<name>Pererius</name> us'd all the
                     perswasions he could, and re-inforc'd Argument upon Argument, to induce him to
@@ -1923,12 +1923,12 @@
                 </sp>
                 <sp>
                     <speaker>Morphandra.</speaker>
-                    <p> Yet I have been told, that one of your greatest Philosophers <hi><persName corresp="#AlexandrinusAmmonius">Ammonius
-                            Alexandrinus</persName>,</hi> whose Disciple <hi><persName corresp="#Origen">Origen</persName></hi> was, hath it upon
+                    <p> Yet I have been told, that one of your greatest Philosophers <hi><note type="foot" corresp="#AlexandrinusAmmonius">Ammonius
+                            Alexandrinus</note>,</hi> whose Disciple <hi><note type="foot" corresp="#Origen">Origen</note></hi> was, hath it upon
                         record, That an <hi>Asse</hi> was once an Auditor of Wisdom. But touching
                         that <hi>Asse</hi> you mentioned before, I hear, the <hi>Lawyers</hi> of
                         your Country have somthing of his nature in them, for they will not speak
-                        unlesse <hi>Angels</hi><note>Angels were a common currency</note> appear unto them. </p>
+                        unlesse <hi><note type="foot" corresp="angels" ana="Angels were a common currency">Angels</note></hi> appear unto them. </p>
                 </sp>
                 <sp>
                     <pb n="17" facs="tcp:98502:20"/>
@@ -2083,7 +2083,7 @@
                         bowells of their own Country, which I confesse are frequent, whence som
                         observe, that though the air of <hi><placeName corresp="#Artonia">Artonia</placeName></hi> be not so hot as that of
                         her next neighbour <hi><placeName corresp="#Tumontia">Tumontia</placeName>,</hi> yet she is more subject to distempers,
-                        Calentures, and <hi> Tovardillios;<note>Tovardillios is an unknown word.</note></hi> Therefore 'tis one of the prime
+                        Calentures, and <hi> <note type="foot" corresp="tovardillios" ana="Tovardillios is an unidentified word of unknown origin.">Tovardillios</note>;</hi> Therefore 'tis one of the prime
                         policies of <hi><placeName corresp="#Artonia">Artonia</placeName></hi> to find her Gentry some work abroad, and employ
                         them ever and anon in forraign Warrs; And ther have been of late two fiery
                             <hi>Flamines,</hi> one after the other, who have put this policy in
@@ -4429,7 +4429,7 @@
                         perpetual shadowy darknesse or <hi>adumbration,</hi> whence the whole
                         Province takes its denomination; Ther's no Clime under the convex of Heven
                         where Meteors and fulgurations are more impetuous and violent. </p>
-                    <p> Touching the second, which was my former <hi> Condi tion, </hi> ther's a
+                    <p> Touching the second, which was my former <hi> Condition, </hi> ther's a
                         thing called <hi>Conscience</hi> which us'd to tyrannize and torture me when
                         I was a <hi>Man,</hi> I often found within me a gnawing worm, I often felt
                         sore stings, sore pricks, and remorses of the said Consci ence, which the
@@ -5625,8 +5625,8 @@
                         neither the warm Sun nor Gods blessing, it were a punishment for the worst
                         peeple upon earth to be removed thither; Rather then I shold return to
                                 <hi><placeName corresp="#Carboncia">Carboncia</placeName>,</hi> my
-                        wishes shall be that of <rs corresp="Horace">the Poet</rs>, <quote
-                            ana="Carmina, Liber 1, 22"><q xml:lang="la">
+                        wishes shall be that of <note type="foot" corresp="horace" ana="Horace. The following citation is Carmina, Liber 1, line 22">the Poet</note>, <quote
+                            ><q xml:lang="la">
                                 <l>Pone me pigris ubi nulla campis</l>
                                 <l>Arbor aestiva recreatur aurâ,</l>
                                 <l> Quod latus mundi, nebulae, malus <expan>
@@ -6115,7 +6115,7 @@
                         solemnity; At the Kings death ther is a generall mourning and fasting, with
                         a cessation from labour, and we use to go about his body with a sad murmur
                         for many daies; When we are sick we have attendants appointed us, and the
-                        symptoms when we be sick are infallible, according to <persName corresp="#Pliny">the honest plain Poet</persName>, <quote corresp="#verse_couplets"><q>
+                        symptoms when we be sick are infallible, according to <note type="foot" corresp="#Pliny">the honest plain Poet</note>, <quote corresp="#verse_couplets"><q>
                                 <l> If <hi>Bees</hi> be sick (for all that live must die) </l>
                                 <l>
                                     <hi>That</hi> may be known by signes most certainly, </l>
@@ -6366,8 +6366,8 @@
                     <p> Know, Sir, that <hi>we</hi> have also a <hi>Religion,</hi> as well as so
                         exact a <hi>Government</hi> among us here; Our <hi>Hummings</hi> you speak
                         of are as so many <hi>Hymns</hi> to the great God of Nature; And ther is a
-                        miraculous example in <persName corresp="#HeisterbachCaesarius"
-                                ><hi>Caesarius Cisterniensis,</hi></persName> how som of the holy
+                        miraculous example in <note type="foot" corresp="#HeisterbachCaesarius"
+                                ><hi>Caesarius Cisterniensis,</hi></note> how som of the holy
                         Eucharist being let fall in a medow by a Priest, as he was returning from
                         visiting a sick body, a Swarm of <hi>Bees</hi> being hard by took it up, and
                         in a solemn kind of procession carried it to their Hive, and there erected
@@ -6598,8 +6598,8 @@
                         fleshly contentments; One drop of those abstracted, those pure, permanent;
                             <pb n="150" facs="tcp:98502:87"/> &amp; immarcescible delights is
                         infinitly more sweet, than all those mix'd and muddy streams of corporeall
-                        and mundan plesures, then all those no other then <hi>Utopian</hi> delights
-                            <note>This may be a reference to Thomas More's Utopia</note> of this
+                        and mundan plesures, then all those no other then <note type="foot" corresp="utopian" ana="This may be a reference to Thomas More's Utopia"><hi>Utopian</hi> delights</note>
+                         of this
                         transitory world, were they all cast into a Limbeck, and the very Elixir of
                         them distill'd into one vessell. </p>
                 </sp>
