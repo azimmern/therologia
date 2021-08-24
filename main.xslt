@@ -75,12 +75,12 @@
                     </div>
                 </nav>
 
-                <div class="container-fluid p-3 sticky" id="buttons">
+                <div class="container-fluid p-3" id="buttons">
                     <div class="container py-4 px-2">
                         <!-- HEADING ROW -->
                         <div class="row">
                             <div class="col-12" id="page-header">
-                                <div class="btn-group float-right" role="group"
+                                <div class="btn-group float-right sticky" role="group"
                                     aria-label="Button Group">
                                     <button type="button float-right" class="btn btn-primary"
                                         id="toggle-cypher-button">Decypher all</button>
@@ -191,8 +191,8 @@
 
 
                         <!--                        First, build the div container-->
-                        <div class="col-sm-8 sticky">
-                            <div class="tab-content" id="tab-Contentundefined">
+                        <div class="col-sm-8">
+                            <div class="tab-content" id="tablist">
 
 
 
