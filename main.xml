@@ -1157,11 +1157,11 @@
                     <item>
                         <note type="foot" corresp="#Diogenes">Diogenes</note>, <hi>p.</hi> 56 
                     </item>
-                    <item><hi>Sir</hi> 
+                    <item><hi>Sir </hi> 
                         <note type="foot" corresp="#DigbyKenelm">Kenelm Digby</note>, 148 
                     </item>
-                    <item><hi>Dr.</hi> 
-                        <note type="foot" corresp="#HarveyWilliam">Harvey</note>, 141 
+                    <item><hi>Dr. </hi> 
+                    <note type="foot" corresp="#HarveyWilliam">Harvey</note>, 141 
                     </item>
                 </list>
                 <list>
@@ -1291,10 +1291,10 @@
                     <item>
                         <note type="foot" corresp="#RainsboroughWilliam" cert="low"
                             target="https://www.wikidata.org/wiki/Q6639738" xml:id="Q6639738"
-                            >Rainsborough</note>, <hi>and</hi>
+                            >Rainsborough</note>, <hi>and</hi> 
                         <note type="foot" corresp="#DeaneRichard"
                             target="https://www.wikidata.org/wiki/Q7325150" xml:id="Q7325150"
-                                ><hi>Admirall</hi><pb facs="tcp:98502:12"/>Dean</note>, 40 
+                                ><hi>Admirall</hi> <pb facs="tcp:98502:12"/>Dean</note>, 40 
                     </item>
                     <item>
                         <hi><note type="foot" corresp="roundhead" ana="A common term for anti-Royalist Puritans; Howell was a committed royalist.">Roundheads</note> variously tormented in
@@ -1321,8 +1321,8 @@
                 <list>
                     <head>T</head>
                     <item><placeName corresp="#Tumontia">Tumontia</placeName>, <hi>a
-                                Countrey swelling with huge Hills, represents</hi> Spain
-                        <placeName corresp="#Tomanto_Empire">Tomanto Empire</placeName>, <hi>the Dominions of the Great</hi> Turk;
+                                Countrey swelling with huge Hills, represents</hi> Spain</item>
+                        <item><placeName corresp="#Tomanto_Empire">Tomanto Empire</placeName>, <hi>the Dominions of the Great</hi> Turk;
                         Tomanto <hi>being</hi> Ottoman, <hi> anagrammatiz'd.</hi>
                     </item>
                     <item><placeName corresp="#Tarragon">Tarragon</placeName>, Catalunia
@@ -1331,7 +1331,7 @@
                     <item><note type="foot" corresp="#LutherMartin">Therlu</note>, <hi>the Anagram of</hi> Luther.
                     </item>
                     <item> Therologia, <hi> the language of Beasts; of </hi>
-                        <w xml:lang="gr">θερ</w> , <w xml:lang="la">fera</w>; &amp; <w xml:lang="gr"
+                        <w xml:lang="gr">θερ</w>, <w xml:lang="la">fera</w>; &amp; <w xml:lang="gr"
                             >λογοσ</w>, <w xml:lang="lat">sermo</w>. 
                     </item>
                 </list>
