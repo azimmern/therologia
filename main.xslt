@@ -80,7 +80,7 @@
                         <!-- HEADING ROW -->
                         <div class="row">
                             <div class="col-12" id="page-header">
-                                <div class="btn-group float-right sticky" role="group"
+                                <div class="btn-group float-right" role="group"
                                     aria-label="Button Group">
                                     <button type="button float-right" class="btn btn-primary"
                                         id="toggle-cypher-button">Decypher all</button>
@@ -92,7 +92,7 @@
                     <div class="row">
 
                         <!--                        Make the Tablist of Pills  -->
-                        <div class="col-sm-4">
+                        <div class="col-sm-4 sticky">
 
                             <ul class="nav flex-column nav-pills" role="tablist">
 
@@ -190,7 +190,7 @@
 
 
                         <!--                        First, build the div container-->
-                        <div class="col-sm-8">
+                        <div class="col-sm-8 sticky">
                             <div class="tab-content" id="tab-Contentundefined">
 
 
@@ -209,7 +209,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'summary')">
@@ -219,9 +218,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
-
-
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'dedication')">
@@ -231,7 +227,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'to_the_reader')">
@@ -241,7 +236,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'poem')">
@@ -251,7 +245,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'index')">
@@ -261,7 +254,6 @@
 
                                                 <xsl:apply-templates/>
                                             </div>
-
                                         </xsl:when>
 
                                     </xsl:choose>
@@ -394,9 +386,6 @@
                         </div>
                     </div>
                 </div>
-
-
-                <!--                <div></div>-->
 
             </body>
 
