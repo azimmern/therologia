@@ -503,7 +503,7 @@
     
     <xsl:template match="tei:pb">
         <br/>
-            page <xsl:value-of select="@n"/>
+        <span class="page_number">page <xsl:value-of select="@n"/></span>
         <br/>
     </xsl:template>
 
