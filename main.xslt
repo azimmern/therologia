@@ -80,7 +80,7 @@
                         <!-- HEADING ROW -->
                         <div class="row">
                             <div class="col-12" id="page-header">
-                                <div class="btn-group float-right sticky" role="group"
+                                <div class="btn-group float-right" role="group"
                                     aria-label="Button Group">
                                     <button type="button float-right" class="btn btn-primary"
                                         id="toggle-cypher-button">Decypher all</button>
@@ -92,7 +92,7 @@
                     <div class="row">
 
                         <!--                        Make the Tablist of Pills  -->
-                        <div class="col-sm-4 sticky">
+                        <div class="col-sm-4">
 
                             <ul class="nav flex-column nav-pills" role="tablist">
 
@@ -374,7 +374,7 @@
                 
                 
                 <footer class="bg-primary text-light pt-5 pb-2 px-5">
-                    <div class="row" position="bottom">
+                    <div class="row">
                         <div class="col-md-12">
                             <h2 class="mb-1">Dr. Arnaud Zimmern</h2>
                             <p class="mb-5">
