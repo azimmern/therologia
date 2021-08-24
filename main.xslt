@@ -348,7 +348,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '10')">
+                                        <xsl:when test="contains($div_number, '10')">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel43714029"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -357,7 +357,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '11')">
+                                        <xsl:when test="contains($div_number, '11')">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel45252367"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -372,8 +372,9 @@
                     </div>
                 </div>
                 
+                
                 <footer class="bg-primary text-light pt-5 pb-2 px-5">
-                    <div class="row">
+                    <div class="row" position="bottom">
                         <div class="col-md-12">
                             <h2 class="mb-1">Dr. Arnaud Zimmern</h2>
                             <p class="mb-5">
