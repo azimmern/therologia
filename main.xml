@@ -706,7 +706,7 @@
                     <salute>MADAME,</salute>
                 </opener>
                 <p>
-                    <seg rend="decorInit">T</seg> His <hi>Fancy</hi> bearing in the <hi>Front</hi>
+                    <seg rend="decorInit">T</seg>His <hi>Fancy</hi> bearing in the <hi>Front</hi>
                     the name of a Rare <hi>Female,</hi> I thought it might well stand with the rules
                     of <hi>Congruity</hi> to make the <hi>Dedication</hi> correspond with the
                         <hi>Title;</hi> And after many revolutions of <hi>Thoughts</hi> who shold be
@@ -1867,13 +1867,13 @@
             <div n="2" type="section">
                 <head type="chapter"> θηρολογια The Second Section.</head>
                 <head type="sub"> Containing an Interlocutory Discourse 'twixt
-                        Morphandra,<name>Pererius</name>, and an Asse, who had bin once an <persName corresp="#Artonia">Artorian</persName>
+                        Morphandra,Pererius, and an Asse, who had bin once an <persName corresp="#Artonia"><sic>Artorian</sic></persName><corr>Artonian</corr>
                     Peasan; wherin ther are some glances upon the Country it self, and upon the
                     present Government thereof. But though Prince<name>Pererius</name> us'd all the
                     perswasions he could, and re-inforc'd Argument upon Argument, to induce him to
                     re-assume Human shape, and so return to his Country, Kindred, and Calling: Yet
                     the Asse utterly refus'd it, and his reasons why, &amp;c. </head>
-                <stage>Morphandra,<name>Pererius</name>, and an Asse.</stage>
+                <stage>Morphandra, Pererius, and an Asse.</stage>
                 <sp>
                     <speaker>Pererius.</speaker>
                     <p> INcomparable Lady, you have dilated my heart with a great deal of

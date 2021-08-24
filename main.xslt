@@ -75,7 +75,7 @@
                     </div>
                 </nav>
 
-                <div class="container-fluid p-3" id="buttons">
+                <div class="container-fluid p-3 sticky" id="buttons">
                     <div class="container py-4 px-2">
                         <!-- HEADING ROW -->
                         <div class="row">
@@ -184,6 +184,7 @@
                                 </li>
                             </ul>
                         </div>
+                    </div>
 
                         <!-- Make the Individual "div" Sections by linking them to appropriate pill href-->
 
@@ -212,7 +213,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'summary')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel20004647" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -221,7 +222,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'dedication')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel49745562" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -230,7 +231,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'to_the_reader')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel78977376" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -239,7 +240,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'poem')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel99852470" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -248,7 +249,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_type, 'index')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel23760128" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -271,7 +272,7 @@
                                     <xsl:choose>
 
                                         <xsl:when test="matches($div_number, '1')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel93292357" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -281,7 +282,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '2')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel10659227" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -291,7 +292,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '3')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel57932679" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -301,7 +302,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '4')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel74614908" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -311,7 +312,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '5')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel28290943" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -321,7 +322,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '6')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel73800567" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -332,7 +333,7 @@
 
 
                                         <xsl:when test="matches($div_number, '7')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel2199029" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -342,7 +343,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '8')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel27895915" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -352,7 +353,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '9')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel64930735" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -362,7 +363,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '10')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel43714029" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -372,7 +373,7 @@
                                         </xsl:when>
 
                                         <xsl:when test="matches($div_number, '11')">
-                                            <div class="mt-3 ml-2 tab-pane fade show active"
+                                            <div class="mt-3 ml-2 tab-pane fade"
                                                 id="panel45252367" role="tabpanel"
                                                 aria-labelledby="...">
 
@@ -384,9 +385,8 @@
                                 </xsl:for-each>
                             </div>
                         </div>
-                    </div>
                 </div>
-
+            
             </body>
 
         </html>
@@ -451,7 +451,9 @@
     </xsl:template>
     
     <xsl:template match="tei:hi">
-        <span class="original_italics"><xsl:apply-templates/></span>
+        <span class="original_italics">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
 
     <xsl:template match="tei:q">

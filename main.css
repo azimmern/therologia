@@ -42,6 +42,16 @@
     background: #f6f7fb;
   }
   
+/* font styling */
+.capital {
+  font-size: 4rem;
+}
+
+  .citation{
+    background: var(--light-blue);
+  }
+  
+
   /* cypher classes  */
   .cypher {
     background: mistyrose;
@@ -56,17 +66,16 @@
     border-bottom: 1px dashed gray;
     
   }
+
+  .fable{
+    background: var(--nd-gold);
+  }
   
   #tab-content h5 {
     color: maroon;
     font-size: 1.4rem;
   }
 
-
-/* font styling */
-.capital {
-    font-size: 4rem;
-}
 
 .footnote {
     text-decoration-line: underline;
@@ -78,13 +87,26 @@
   font-style:italic;
 }
 
+.page_number{
+  color: var(--graphite);
+  font-size: 1rem;
+  float: right;
+  display: block;
+}
+
+.proverb{
+  background: var(--light-grey-body);
+}
+
+
+.receipt{
+  background: var(--chocolate);
+}
+
 .section-title {
     font-style:normal;
 }
 
-.summary {
-    font-variant:small-caps;
-}
 
 .speaker {
     font-weight:bold;
@@ -95,27 +117,11 @@
     font-weight:normal;
 }
 
-.proverb{
-  background: var(--light-grey-body);
+.summary {
+  font-variant:small-caps;
 }
 
-.page_number{
-  color: var(--graphite);
-  font-size: 1rem;
-  float: right;
-  display: block;
-}
 
-.citation{
-  background: var(--light-blue);
-}
 
-.fable{
-  background: var(--nd-gold);
-}
-
-.receipt{
-  background: var(--chocolate);
-}
 
 
