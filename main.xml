@@ -583,7 +583,6 @@
             
             
             <div type="frontispiece">
-                <pb facs="tcp:98502:1"/>
                 <p>
                     <figure>
                         <head xml:lang="la">Heic tutus obumbrer</head>
@@ -632,7 +631,6 @@
             
             <div type="introductory_verses">
                 <pb facs="tcp:98502:2"/>
-                <pb facs="tcp:98502:2"/>
                 <head>MORPHANDRA, OR QUEEN OF THE Inchanted Iland.</head>
                 <l>
                     <hi rend="sup">m</hi> I am <hi>Morphandra</hi> can turn <hi>Man</hi> to
@@ -657,7 +655,6 @@
 <!--            END OF INTRODUCTORY POEM & EPIGRAPH-->
             
             <div type="summary">
-                <pb facs="tcp:98502:3"/>
                 <pb facs="tcp:98502:3"/>
                 <head> The Scope and Substance of the ensuing SECTIONS. </head>
 
@@ -1115,19 +1112,19 @@
                     <head>A</head>
                     <item>
                         <placeName corresp="#Aetonia">AEtonia</placeName>, <hi> the Eagles Countrey,
-                            represents </hi> High Germany, <hi>of</hi> <w xml:lang="gr">αετοσ</w> <w xml:lang="la">aquila</w>.
+                            represents </hi> High Germany, <hi>of</hi> <w xml:lang="gr"> αετοσ </w> <w xml:lang="la"> aquila </w>.
                     </item>
                     <item>
                         <placeName corresp="#Alpiana">Alpiana</placeName>
-                        <hi>represents</hi> Savoy, <hi>being a Countrey indented among the</hi>Alps.
+                        <hi>represents</hi> Savoy, <hi>being a Countrey indented among the </hi>Alps.
                     </item>
                     <item>
                         <placeName corresp="#Artonia">Artonia</placeName>, <hi>the Countrey of Bread
-                            and Wine, represents</hi> France, <hi>of</hi>
-                        <w xml:lang="gr">αρτοσ</w>
-                        <w xml:lang="la">panis</w> &amp; 
-                        <w xml:lang="gr">οινοσ</w>
-                        <w xml:lang="la">vinum</w>. 
+                            and Wine, represents </hi>France,<hi> of </hi>
+                         <w xml:lang="gr">αρτοσ</w> 
+                         <w xml:lang="la">panis</w> &amp; 
+                         <w xml:lang="gr">οινοσ</w> 
+                         <w xml:lang="la">vinum</w>. 
                     </item>
                 </list>
                 <list>
@@ -1144,14 +1141,14 @@
                         <hi>The</hi> <placeName corresp="#Cinqfoyl">Cinqfoyl</placeName> Portugal 
                     </item>
                     <item><note type="foot" corresp="#MazarinCardinalRobert"
-                            ><hi>Cardinal</hi>Mazarine</note>, p. 21
+                            ><hi>Cardinal</hi> Mazarine</note>, p. 21
                     </item>
                     <item><hi>The Coppices represents the common Peeple.</hi>
                     </item>
                     <item>
                         <placeName corresp="#Cerano">Cerano</placeName>, <hi>the Anagram
-                            of</hi>
-                        <settlement>Nocera</settlement>, <hi>an ancient town in</hi>
+                            of</hi> 
+                        <settlement>Nocera</settlement>, <hi>an ancient town in </hi>
                         <country>Italy</country>. 
                     </item>
                 </list>
@@ -1160,10 +1157,10 @@
                     <item>
                         <note type="foot" corresp="#Diogenes">Diogenes</note>, <hi>p.</hi> 56 
                     </item>
-                    <item><hi>Sir</hi>
+                    <item><hi>Sir</hi> 
                         <note type="foot" corresp="#DigbyKenelm">Kenelm Digby</note>, 148 
                     </item>
-                    <item><hi>Dr.</hi>
+                    <item><hi>Dr.</hi> 
                         <note type="foot" corresp="#HarveyWilliam">Harvey</note>, 141 
                     </item>
                 </list>
@@ -1171,10 +1168,10 @@
                     <head>G</head>
                     <item>
                         <placeName corresp="#Gheriona">Gheriona</placeName>, <hi>the Countrey of Wool,
-                            represents</hi>
+                            represents</hi> 
                         <country>England</country>, <hi>of</hi>
-                        <w xml:lang="gr">γη</w>
-                        <w xml:lang="la">terra</w> &amp; <w xml:lang="gr">εριον</w>
+                        <w xml:lang="gr">γη</w> 
+                        <w xml:lang="la">terra</w> &amp; <w xml:lang="gr">εριον</w> 
                         <w xml:lang="en">lana</w>. 
                     </item>
                 </list>
@@ -1183,11 +1180,11 @@
                     <item>
                         <placeName corresp="#Hydraulia">Hydraulia</placeName>, <hi>the Countrey of
                             Waters, represents</hi> Holland, <hi>with the Confederate
-                                Provinces, of </hi>
-                        <w xml:lang="gr">ύδωρ</w>
+                                Provinces, of</hi> 
+                        <w xml:lang="gr">ύδωρ</w> 
                         <w xml:lang="la">Aqua</w>, <hi>and</hi>
-                        <w xml:lang="gr">λαός</w>
-                        <w xml:lang="la">populus</w>. 
+                        <w xml:lang="gr">λαός</w> 
+                        <w xml:lang="la">populus</w>.
                     </item>
                     <item>
                         <placeName corresp="#Hebrinia">Hebrinia</placeName>, Ireland, <hi>being</hi>
@@ -1203,7 +1200,7 @@
                 <list>
                     <head>L</head>
                     <item>
-                        <placeName corresp="#Laroni">Laroni</placeName>, <hi>the D. of</hi>
+                        <placeName corresp="#Laroni">Laroni</placeName>, <hi>the D. of</hi> 
                         <country>Lorrain</country>. 
                     </item>
                     <item>
@@ -1215,21 +1212,21 @@
                     <item>
                         <placeName corresp="#Marcopolis">Marcopolis</placeName>, <hi>the City of S.</hi>
                         <note type="foot" corresp="#StMarkEvangelist">Mark</note>, <hi>represents</hi> Venice
-                        <hi>of</hi>
-                        <w xml:lang="gr">πόλις</w>
+                        <hi>of</hi> 
+                        <w xml:lang="gr">πόλις</w> 
                         <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">Μᾶρκος</w>. 
                     </item>
                     <item>
                         <rs type="fictional">Morphandra</rs>, <hi>a Queen that can transmute Men
-                            into Beasts, of</hi>
-                        <w xml:lang="gr">μορφεω</w>
-                        <w xml:lang="la">formo</w> &amp; <w xml:lang="gr">ανδρα</w>
+                            into Beasts, of</hi> 
+                        <w xml:lang="gr">μορφεω</w> 
+                        <w xml:lang="la">formo</w> &amp; <w xml:lang="gr">ανδρα</w> 
                         <w xml:lang="la">hominem</w>. </item>
                 </list>
                 <list>
                     <head>N</head>
                     <item>
-                        <placeName corresp="#Nopolia">Nopolia</placeName>, Polonia,
+                        <placeName corresp="#Nopolia">Nopolia</placeName>, Polonia, 
                             <hi>anagrammatiz'd.</hi>
                     </item>
                 </list>
@@ -1245,14 +1242,14 @@
                 </list>
                 <list>
                     <head>P</head>
-                    <item>Pererius, <hi>a wandring Prince of</hi>
+                    <item>Pererius, <hi>a wandring Prince of</hi> 
                         <w xml:lang="la">pererrando</w>. 
                     </item>
                     <item>
                         <placeName corresp="#Polyhaima">Polyhaima</placeName>, <hi>the City of</hi>
                         Bloud, <hi>represents</hi> London, <hi>of</hi>
-                        <w xml:lang="gr">πόλις</w>
-                        <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">αἷμα</w>
+                        <w xml:lang="gr">πόλις</w> 
+                        <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">αἷμα</w> 
                         <w xml:lang="la">sanguis</w>. 
                     </item>
                     <item>
@@ -1263,7 +1260,7 @@
                             Aesop.</note>
                     </item>
                     <item>
-                        <note type="foot" corresp="#Charles1England"><hi>The late</hi> K. <hi>of</hi>
+                        <note type="foot" corresp="#Charles1England"><hi>The late</hi> K. <hi>of</hi> 
                             Engl.</note> p. 35
                     </item>
                     <item>
@@ -1284,11 +1281,10 @@
                     <head>R</head>
                     <item>
                         <note type="foot" corresp="#FredericVPalatine"
-                            >Rinarchus</note>, <rs corresp="#FredericVPalatine"
-                                ><hi>the Palsgrave of the</hi> Rhine</rs>, <hi>of</hi>
-                        <w xml:lang="gr">αρχων</w> , princeps, &amp;c. 
+                            >Rinarchus</note>, <hi>the Palsgrave of the</hi> Rhine, <hi>of</hi>
+                        <w xml:lang="gr">αρχων</w>, princeps, &amp;c. 
                     </item>
-                    <item><placeName corresp="#Rugilia">Rugilia</placeName>, <hi>the State of</hi>
+                    <item><placeName corresp="#Rugilia">Rugilia</placeName>, <hi>the State of</hi> 
                         Genoa, <hi>the Anagram of</hi> Liguria, <hi>the ancient appellation of that Territory.
                         </hi>
                     </item>

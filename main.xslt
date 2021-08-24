@@ -455,6 +455,15 @@
         <xsl:apply-templates/>
         <br/>
     </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <xsl:apply-templates/>
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi">
+        <span class="original_italics"><xsl:apply-templates/></span>
+    </xsl:template>
 
     <xsl:template match="tei:q">
         <span>
@@ -472,39 +481,43 @@
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            
+
             <xsl:when test="matches($quote_type, '#citation')">
                 <span>
                     <xsl:attribute name="class">citation</xsl:attribute>
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            
+
             <xsl:when test="matches($quote_type, '#fable')">
                 <span>
                     <xsl:attribute name="class">fable</xsl:attribute>
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            
+
             <xsl:when test="matches($quote_type, '#receipt')">
                 <span>
                     <xsl:attribute name="class">receipt</xsl:attribute>
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            
+
             <xsl:otherwise>
                 <xsl:apply-templates/>
             </xsl:otherwise>
 
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template match="tei:pb">
-        <br/>
-        <span class="page_number">page <xsl:value-of select="@n"/></span>
-        <br/>
+
+        <xsl:variable name="page_number" select="@n"/>
+        <xsl:if test="$page_number > 0">
+            <br/>
+            <span class="page_number">page <xsl:value-of select="@n"/></span>
+            <br/>
+        </xsl:if>
     </xsl:template>
 
     <xsl:template match="tei:sic">

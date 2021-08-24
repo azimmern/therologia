@@ -26,7 +26,7 @@ $(document).ready( function(){
       $(this).next().fadeIn("fast").removeClass("d-none").css("display", "inline");
     } else {
       $(this).next().fadeOut("fast", function() {
-        $(this).addClass("d-none").css("display", "none");
+        $(this).next().addClass("d-none").css("display", "none");
       });
     }
 
