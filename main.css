@@ -24,10 +24,6 @@
     background: var(--light-grey-body);
   }
   
-  p {
-    text-indent: 100px;
-  }
-  
   #toc,
   #page-header 
   {
@@ -90,7 +86,7 @@
 .footnote {
   display: block;
   padding: .1rem, .4rem;
-  background-color: blanchedalmond;
+  background: lightgrey;
 }
 
 .original_italics {
@@ -154,6 +150,7 @@
   border-bottom: 20px solid #555;
   border-top: 20px solid transparent;
   cursor: pointer;
+  display: inline;
 
 }
 

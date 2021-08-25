@@ -91,7 +91,7 @@
                     <div class="row">
 
                         <!--                        Make the Tablist of Pills  -->
-                        <div class="col-sm-4">
+                        <div class="col-sm-2">
 
                             <ul class="nav flex-column nav-pills" role="tablist">
 
@@ -190,7 +190,7 @@
 
 
                         <!--                        First, build the div container-->
-                        <div class="col-sm-8">
+                        <div class="col-sm-6">
                             <div class="tab-content" id="tablist">
 
 
@@ -368,14 +368,26 @@
                                 </xsl:for-each>
                             </div>
                         </div>
+                        <div class="col-sm-4 float-right visible" role="footnotelist">
+                            <ul>
+                                <li> 
+                                    <div class="footnote" id="carine">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium illo modi nostrum corrupti alias distinctio libero voluptatum voluptatem! Eveniet non vero commodi veniam laudantium explicabo odio quia. Voluptatibus, ex pariatur! Go check out stuff at https://azimmern.github.io</div>
+                                </li>
+                                
+                            </ul>
+                            
+                        </div>
                     </div>
+                    
+                    
+                    
                 </div>
                 
                 
                 <footer class="bg-primary text-light pt-5 pb-2 px-5">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="mb-1">Dr. Arnaud Zimmern</h2>
+                            <h4 class="mb-1">Dr. Arnaud Zimmern</h4>
                             <p class="mb-5">
                                 <small>
                                     <em>
@@ -419,7 +431,7 @@
         <xsl:choose>
             <xsl:when test="matches($currentNoteType, 'foot')">
                 <span>
-                    <xsl:attribute name="class">footnote-btn</xsl:attribute>
+                    <xsl:attribute name="class">footnote_btn toggle-footnote-button</xsl:attribute>
                     <xsl:attribute name="id">
                         <xsl:text>#</xsl:text>
                         <xsl:value-of select="@corresp"/>
