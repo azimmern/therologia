@@ -39,8 +39,7 @@
                     rel="stylesheet"/>
 
 
-                <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-                                                </script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
                                                 </script>
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
@@ -82,7 +81,7 @@
                             <div class="col-12" id="page-header">
                                 <div class="btn-group float-right" role="group"
                                     aria-label="Button Group">
-                                    <button type="button float-right" class="btn btn-primary"
+                                    <button type="button float-right" class="btn btn-primary toggle-cypher-button"
                                         id="toggle-cypher-button">Decypher all</button>
                                 </div>
                             </div>
@@ -474,7 +473,7 @@
 
     <xsl:template match="tei:q">
         <span>
-            <xsl:attribute name="class">w3-panel</xsl:attribute>
+            <xsl:attribute name="class">q</xsl:attribute>
         </span>
     </xsl:template>
 

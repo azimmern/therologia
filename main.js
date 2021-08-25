@@ -1,7 +1,7 @@
 $(document).ready( function(){
 
  // Show all and hide all
- $("#toggle-cypher-button").on("click", function() {
+ $(".toggle-cypher-button").on("click", function() {
 
     // if anything with class of "decypher" is invisible...
     if ($(".decypher").hasClass("d-none")) {
@@ -25,10 +25,8 @@ $(document).ready( function(){
     if ($(this).next().hasClass("d-none")) {
       $(this).next().fadeIn("fast").removeClass("d-none").css("display", "inline");
     } else {
-      $(this).next().fadeOut("fast", function() {
-        $(this).next().addClass("d-none").css("display", "none");
-      });
-    }
+      $(this).next().fadeOut("fast").addClass("d-none").css("display", "none");
+      }
 
   });
 
@@ -45,5 +43,12 @@ $(document).ready( function(){
     "trigger": 'focus'
   });
 
+  $('.')
+
+
+
+
 });
+
+
 // document ready

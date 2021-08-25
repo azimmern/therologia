@@ -95,9 +95,14 @@
 }
 
 .proverb{
-  background: var(--light-grey-body);
+  background: var(--graphite);
 }
 
+.q{
+  display: block;
+  padding: .1rem .4rem;
+  border-bottom: 1px gray;
+}
 
 .receipt{
   background: var(--chocolate);
@@ -109,9 +114,9 @@
 
 .sic {
   font-family:'Courier New', Courier, monospace;
+  cursor:pointer;
 
 }
-
 
 .speaker {
     font-weight:bold;
