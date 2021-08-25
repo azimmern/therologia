@@ -24,6 +24,9 @@
     background: var(--light-grey-body);
   }
   
+  p {
+    text-indent: 100px;
+  }
   
   #toc,
   #page-header 
@@ -35,6 +38,7 @@
   {
     font-family:'Garamond';
   }
+
 
   
   /* background and colors */
@@ -77,10 +81,16 @@
   }
 
 
-.footnote {
+.footnote_btn {
     text-decoration-line: underline;
     cursor:pointer;
     /* This isn't what I actually want, I'm just flagging them for now: I ultimately want what the Milton Reading Room has, where footnoted text has an href and a unique id, and the footnote content shows up upon click */
+}
+
+.footnote {
+  display: block;
+  padding: .1rem, .4rem;
+  background-color: blanchedalmond;
 }
 
 .original_italics {
@@ -95,7 +105,7 @@
 }
 
 .proverb{
-  background: var(--graphite);
+  text-decoration:dotted;
 }
 
 .q{
@@ -127,10 +137,25 @@
     font-weight:normal;
 }
 
+.stage{
+  display:block;
+
+}
+
 .summary {
   font-variant:small-caps;
 }
 
+.triangle-up {
+  width:0;
+  height:0;
+  border-left:10px solid transparent;
+  border-right:10px solid transparent;
+  border-bottom: 20px solid #555;
+  border-top: 20px solid transparent;
+  cursor: pointer;
+
+}
 
 
 

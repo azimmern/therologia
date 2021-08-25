@@ -419,8 +419,9 @@
         <xsl:choose>
             <xsl:when test="matches($currentNoteType, 'foot')">
                 <span>
-                    <xsl:attribute name="class">footnote</xsl:attribute>
+                    <xsl:attribute name="class">footnote-btn</xsl:attribute>
                     <xsl:attribute name="id">
+                        <xsl:text>#</xsl:text>
                         <xsl:value-of select="@corresp"/>
                     </xsl:attribute>
                     <xsl:attribute name="data-content">
@@ -448,6 +449,12 @@
         <h3>
             <xsl:apply-templates/>
         </h3>
+    </xsl:template>
+    
+    <xsl:template match="tei:stage">
+        <span>
+            <xsl:attribute name="class">stage</xsl:attribute>
+        </span>
     </xsl:template>
 
     <xsl:template match="tei:p">

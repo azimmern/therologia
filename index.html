@@ -9,7 +9,7 @@
       <link rel="stylesheet" href="main.css">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com">
-      <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet"><script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script><script src="main.js"></script></head>
+      <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet"><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script><script src="main.js"></script></head>
    <body>
       <nav class="navbar navbar-expand-lg bg-dark navbar-dark"><a class="navbar-brand" href="#">Therologia by James Howell</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-body" aria-controls="navbar-body" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbar-body">
             <ul class="navbar-nav mr-auto"></ul>
@@ -24,12 +24,17 @@
          <div class="container py-4 px-2">
             <div class="row">
                <div class="col-12" id="page-header">
-                  <div class="btn-group float-right" role="group" aria-label="Button Group"><button type="button float-right" class="btn btn-primary toggle-cypher-button" id="toggle-cypher-button">Decypher all</button></div>
+                  <div class="btn-group float-right" role="group" aria-label="Button Group">
+                      
+                    <button type="button float-right" class="btn btn-primary toggle-cypher-button" id="toggle-cypher-button">Decypher all</button>
+                    <button type="button float-right" class="btn btn-primary toggle-footnotes-button"id="toggle-footnotes-button">SHOW FOOTNOTES</button>
+                
+                </div>
                </div>
             </div>
          </div>
          <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-2">
                <ul class="nav flex-column nav-pills" role="tablist">
                   <li class="nav-item bg-alice-blue"><a class="nav-link active" href="#panel3733645" data-toggle="tab">Title Page</a></li>
                   <li class="nav-item bg-alice-blue"><a class="nav-link" href="#panel20004647" data-toggle="tab">Scope and Substance</a></li>
@@ -53,7 +58,7 @@
                   <li class="nav-item"><a class="nav-link" href="#panel45252367" data-toggle="tab">Section 11 - Bees</a></li>
                </ul>
             </div>
-            <div class="col-sm-8">
+            <div class="col-sm-6">
                <div class="tab-content" id="tablist">
                   <div class="mt-3 ml-2 tab-pane fade show active" id="panel3733645" role="tabpanel" aria-labelledby="...">
                      <h3>Θηρολογια.</h3><br><h3>THE PARLY <span class="original_italics">OF</span> BEASTS; OR MORPHANDRA Queen of the <span class="original_italics">INCHANTED
@@ -273,13 +278,12 @@
                      <br></div>
                   <hr>
                   <div class="mt-3 ml-2 tab-pane fade" id="panel93292357" role="tabpanel" aria-labelledby="..."><br><h5 class="section-title"> θηρολογια The First Section.</h5><br><span class="summary"> Consisting of divers Interlocutions 'twixt Morphandra,Pererius, and an Otter,
-                        who had been first an <span class="cypher" type="button">Amstelian</span><span class="decypher d-none">Dutch</span>
+                        who had been first an <span class="cypher">Amstelian</span><span class="decypher d-none">Dutch</span>
                         Mariner, and being proffer'd to be transmuted to his first nature by
                         Morphandra, and to be transported by Pererius to his own Countrey, yet he would hearken
                         to
                         neither, alledging the strange Chimeraes, and extravagant Opinions which Human
-                        brains have been subject unto, in this latter Age of the World, &amp;c. </span>Pererius, Morphandra, an Otter.
-                     <p class="speech-act">
+                        brains have been subject unto, in this latter Age of the World, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Pererius.<br></h6>MAy those <span class="original_italics">starres</span> be ever propitious
                         which guided my cours to this coast! may those <span class="original_italics">Winds</span> be ever
                         prosperous which fill'd my sayls, and blew me to this rare Iland, this
@@ -700,8 +704,7 @@
                         present Government thereof. But though Prince Pererius us'd all the
                         perswasions he could, and re-inforc'd Argument upon Argument, to induce him to
                         re-assume Human shape, and so return to his Country, Kindred, and Calling: Yet
-                        the Asse utterly refus'd it, and his reasons why, &amp;c. </span>Morphandra, Pererius, and an Asse.
-                     <p class="speech-act">
+                        the Asse utterly refus'd it, and his reasons why, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Pererius.<br></h6> INcomparable Lady, you have dilated my heart with a great deal of
                         contentment, by admitting me to the sight of that transmuted Animal I spoke
                         withall last, and that you made him capable all the while to entertain
@@ -1059,8 +1062,7 @@
                         who had been once a Preachman in <span class="cypher">Gheriona</span><span class="decypher d-none">England</span>, who having been carried away with
                         every wind of Doctrine, and following any fanatic new-fangl'd opinion, was
                         transmuted to that mimicall shape; In which Dialog ther is an account given of
-                        the sad case and confusion, wherein <span class="cypher">Gheriona</span><span class="decypher d-none">England</span> is involv'd at present, &amp;c. </span>Morphandra, Pererius, an Ape.
-                     <p class="speech-act">
+                        the sad case and confusion, wherein <span class="cypher">Gheriona</span><span class="decypher d-none">England</span> is involv'd at present, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> I Saw you somwhat earnest in banding arguments with that <span class="original_italics">Asse,</span> but
                         how have you sped? doth he desire to be <span class="original_italics">disasinated,</span> and becom
                         <span class="original_italics">Man</span> again, as I promised he should be, provided his
@@ -1709,8 +1711,7 @@
                   <div class="mt-3 ml-2 tab-pane fade" id="panel74614908" role="tabpanel" aria-labelledby="..."><br><span class="page_number">page 51</span><br><br><h5 class="section-title">θηρολογια The Fourth Section.</h5><br><span class="summary"> A Colloquy 'twixt Morphandra, Pererius, and a Hinde,
                         who had bin once one of the gretest Bewties in <span class="cypher">Marcopolis</span><span class="decypher d-none">Venice</span>, and for som youthfull
                         levities and wildnes was transmuted to that shape; In this Section ther are
-                        various discourses of the state and nature of Women pro &amp; con, &amp;c. </span>Morphandra, Pererius, and a Hinde.
-                     <p class="speech-act">
+                        various discourses of the state and nature of Women pro &amp; con, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> IT seems, most princely <span class="original_italics">Pererius,</span> by that clowd I perceive waving
                         in your countenance, that you cannot prevail with any of those transformed
                         cretures with whom you have hitherto conferrd, to comply with your so
@@ -2155,8 +2156,7 @@
                         who in his Manhood had bin a Doctor of Physic in <span class="cypher">Tumontia</span><span class="decypher d-none">Spain</span>, whom for som Quacking tricks he had plaid, and for som other resons, Morphandra
                         turn'd to a Mule; In this Section
                         there be discourses of the Art of Physic, of the various complexions of Mankind,
-                        and of the nomberlesse diseases that are incident un to Human Bodies, &amp;c. </span>Morphandra, Pererius, and a Mule.
-                     <p class="speech-act">
+                        and of the nomberlesse diseases that are incident un to Human Bodies, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> I Took notice that you courted and complemented that female creture more
                         then ordinary, but how have you prevail'd? have you made her inclinable to a
                         resumption of her former nature? Is she willing to go back to that Syrenian
@@ -2733,8 +2733,7 @@
                         his cunning dealings, and Mountebankish wily tricks, she transform'd from a
                         Merchant to that species; This Section treats of divers things, and particularly how
                         the Art of tru Policy is degenerated, and what poor Sciolists or Smatterers are cried
-                        up in that Art of late years, &amp;c. </span>Morphandra, Pererius, and a Fox.
-                     <p class="speech-act">
+                        up in that Art of late years, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Pererius.<br></h6> MOst admired Queen, I render you my most humble acknowledgments for the
                         continuance of your great favors towards me, which I am now in half-despair
                         that I shall not be able to make use of for perfecting my designs upon these
@@ -3185,8 +3184,7 @@
                   <div class="mt-3 ml-2 tab-pane fade" id="panel2199029" role="tabpanel" aria-labelledby="..."><br><h5 class="section-title"> θηρολογια The Seventh Section.</h5><br><span class="summary">A Dialog 'twixt Morphandra, Pererius, and a Boar,
                         wherin ther are various Discourses, and particularly of the rare Sympatheticall
                         Powder that is lately found out, which works sudden and certain Cures without
-                        any topicall application of Medicines to the part affected, &amp;c.</span>Morphandra, Pererius, and a Boar.
-                     <p class="speech-act">
+                        any topicall application of Medicines to the part affected, &amp;c.</span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> HOw came you off from that cunning <span class="original_italics">Merchant</span> you dealt withall last?
                         hath he accepted of the Bill of <span class="original_italics">Exchange</span> you presented unto him?
                         <br></p>
@@ -3531,8 +3529,7 @@
                   </div>
                   <div class="mt-3 ml-2 tab-pane fade" id="panel27895915" role="tabpanel" aria-labelledby="..."><br><h5 class="section-title">θηρολογια The Eighth Section.</h5><br><span class="summary">A Dialog 'twixt Morphandra, Pererius, and a Wolf, who
                         had bin a <span class="cypher">Cuprinian</span><span class="decypher d-none">Swedish</span> Soldier, whom for his Plunderings, Rapines, and Spoyles, she
-                        transfigur'd to that shape.</span> Morphandra, Pererius, <span class="original_italics">and a</span> Wolf. 
-                     <p class="speech-act">
+                        transfigur'd to that shape.</span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> HOw did you bear up with that <span class="original_italics">Boar?</span> could you not get him into the
                         toyl, and make him turn <span class="original_italics">Man</span> again? <br></p>
                      <p class="speech-act">
@@ -3641,8 +3638,7 @@
                   </div>
                   <div class="mt-3 ml-2 tab-pane fade" id="panel64930735" role="tabpanel" aria-labelledby="..."><br><span class="page_number">page 117</span><br><br><h5 class="section-title">θηρολογια The Ninth Section.</h5><br><span class="summary">A Dialog 'twixt Morphandra, Pererius, and a Goat,
                         consisting of many quaint Discourses both Naturall and Metaphysicall, with other
-                        Criticisms, &amp;c.</span> Morphandra, Pererius, <span class="original_italics">and a</span> Goat. 
-                     <p class="speech-act">
+                        Criticisms, &amp;c.</span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Pererius.<br></h6> MAdame, I could not take that <span class="original_italics">VVolf</span> by the ears to lead him home to
                         his own Country, which he bitterly inveighs against; and against the humor
                         of the peeple, as also against his former profession of a Souldier, tacitly
@@ -3841,8 +3837,7 @@
                         Soland-Goose, a <span class="cypher">Carboncian</span><span class="decypher d-none">Scotsman</span> born, who
                         was transmuted to that shape for his foolishnes in rebelling against his own
                         Conterranean King, and so by jugling himself into a Slavery from that Free
-                        Government he was formerly under, &amp;c. </span>Morphandra, Pererius, a Goose.
-                     <p class="speech-act">
+                        Government he was formerly under, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6> I Saw you in hot discourse a good while with that bearded Beast, how did you
                         feel his pulse beat? will he return to live among those <span class="original_italics">Mountains</span>
                         where he first breath'd air, and put on his primitive nature again? <br></p>
@@ -4056,8 +4051,7 @@
                         and a Hive of Bees, who had bin once a Monastery of Nuns, and were transmuted to
                         those small Insects, because that after a yeers Probation, and their own
                         praevious free Election, they murmur'd at that Reclus'd Claustrall life, and
-                        wish'd themselves un cloyster'd again, &amp;c. </span>Morphandra, Pererius, a Bee.
-                     <p class="speech-act">
+                        wish'd themselves un cloyster'd again, &amp;c. </span><span class="stage"></span><p class="speech-act">
                         <h6 class="speaker">Morphandra.<br></h6>I Belive your perswasions could prevail little with that <span class="original_italics">Volatil</span>
                         Creture, that <span class="original_italics">Soland-Goose,</span> in regard I observ'd how she took wing,
                         and flutter'd away from you in a kind of hast. <br></p>
@@ -4587,8 +4581,15 @@
                      untill the year 2867. <br>—Heic Terminus esto.</div>
                </div>
             </div>
+            
+            <div class="col-sm-4 float-right invisible" role="footnotelist">
+                
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium illo modi nostrum corrupti alias distinctio libero voluptatum voluptatem! Eveniet non vero commodi veniam laudantium explicabo odio quia. Voluptatibus, ex pariatur!
+            </div>
          </div>
+         
       </div>
+      
       <footer class="bg-primary text-light pt-5 pb-2 px-5">
          <div class="row">
             <div class="col-md-12">

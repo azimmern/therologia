@@ -45,7 +45,20 @@ $(document).ready( function(){
 
   $('.')
 
+$(".toggle-footnotes-button").on("click", function(){
+  if ($("#footnotelist").hasClass("invisible")) {
+    // show all the things with class of decypher
+    $("#footnotelist").removeClass("invisible").addClass("visible");
+    // change the text in the button to hide all
+    $("#footnotelist").text("A Footnote Goes Here!");
+    
+  } else {
+    $("#footnotelist").removeClass("visible").addClass("invisible");
 
+  }
+
+
+});
 
 
 });
