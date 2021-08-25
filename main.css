@@ -17,26 +17,25 @@
     --light-gray: #e2e6ea;
   }
   
+  
   body {
     box-sizing: border-box;
-    font-family: 'Garamond';
     font-size: 1rem;
     background: var(--light-grey-body);
   }
   
-  #tab-content,
+  
   #toc,
   #page-header 
   {
     font-family: 'Noto Serif', serif;
   }
 
-
-  div.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 50px;
+  #tab-content
+  {
+    font-family:'Cormorant Garamond';
   }
+
   
   /* background and colors */
   .bg-alice-blue {
