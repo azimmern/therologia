@@ -632,7 +632,7 @@
         <xsl:variable name="currentPersName" select="@corresp"/>
         <xsl:variable name="currentPersNametype" select="@type"/>
 
-        <xsl:apply-templates/>
+        <!--<xsl:apply-templates/>-->
         <xsl:for-each
             select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc/tei:listPlace/tei:place/@xml:id">
 
@@ -644,6 +644,7 @@
                         <span>
                             <xsl:attribute name="class">cypher</xsl:attribute>
                             <xsl:value-of select="$origPersName"/>
+                            <xsl:apply-templates/>
                         </span>
                         <span>
                             <xsl:attribute name="class">decypher d-none</xsl:attribute>
@@ -657,6 +658,7 @@
                         <span>
                             <xsl:attribute name="class">cypher</xsl:attribute>
                             <xsl:value-of select="$origPersName"/>
+                            <xsl:apply-templates/>
                         </span>
                         <span>
                             <xsl:attribute name="class">decypher d-none</xsl:attribute>

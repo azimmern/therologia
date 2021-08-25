@@ -104,7 +104,12 @@
 }
 
 .section-title {
-    font-style:normal;
+  font-family: 'Garamond';
+}
+
+.sic {
+  font-family:'Courier New', Courier, monospace;
+
 }
 
 

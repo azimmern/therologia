@@ -1,7 +1,7 @@
 $(document).ready( function(){
 
  // Show all and hide all
- $(".toggle-cypher-button").on("click", function() {
+ $("#toggle-cypher-button").on("click", function() {
 
     // if anything with class of "decypher" is invisible...
     if ($(".decypher").hasClass("d-none")) {
