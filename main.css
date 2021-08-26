@@ -84,9 +84,9 @@
 }
 
 .footnote {
-  display: block;
   padding: .1rem, .4rem;
   background: lightgrey;
+  width:200px;
 }
 
 .original_italics {

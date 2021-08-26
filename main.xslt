@@ -39,7 +39,7 @@
                     rel="stylesheet"/>
 
 
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"/>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
                                                 </script>
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
@@ -81,7 +81,8 @@
                             <div class="col-12" id="page-header">
                                 <div class="btn-group float-right" role="group"
                                     aria-label="Button Group">
-                                    <button type="button float-right" class="btn btn-primary toggle-cypher-button"
+                                    <button type="button float-right"
+                                        class="btn btn-primary toggle-cypher-button"
                                         id="toggle-cypher-button">Decypher all</button>
                                 </div>
                             </div>
@@ -265,7 +266,7 @@
                                     <xsl:variable name="div_number" select="@n"/>
                                     <xsl:choose>
 
-                                        <xsl:when test="matches($div_number, '1')">
+                                        <xsl:when test="$div_number = '1'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel93292357"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -274,7 +275,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '2')">
+                                        <xsl:when test="$div_number = '2'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel10659227"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -283,7 +284,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '3')">
+                                        <xsl:when test="$div_number = '3'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel57932679"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -292,7 +293,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '4')">
+                                        <xsl:when test="$div_number = '4'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel74614908"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -301,7 +302,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '5')">
+                                        <xsl:when test="$div_number = '5'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel28290943"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -310,7 +311,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '6')">
+                                        <xsl:when test="$div_number = '6'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel73800567"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -320,7 +321,7 @@
                                         </xsl:when>
 
 
-                                        <xsl:when test="matches($div_number, '7')">
+                                        <xsl:when test="$div_number = '7'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel2199029"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -329,7 +330,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '8')">
+                                        <xsl:when test="$div_number = '8'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel27895915"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -338,7 +339,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="matches($div_number, '9')">
+                                        <xsl:when test="$div_number = '9'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel64930735"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -347,7 +348,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="contains($div_number, '10')">
+                                        <xsl:when test="$div_number = '10'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel43714029"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -356,7 +357,7 @@
 
                                         </xsl:when>
 
-                                        <xsl:when test="contains($div_number, '11')">
+                                        <xsl:when test="$div_number = '11'">
                                             <div class="mt-3 ml-2 tab-pane fade" id="panel45252367"
                                                 role="tabpanel" aria-labelledby="...">
 
@@ -368,50 +369,59 @@
                                 </xsl:for-each>
                             </div>
                         </div>
-                        <div class="col-sm-4 float-right visible" role="footnotelist">
+
+
+                        <div class="col-sm-4" role="footnotelist">
                             <ul>
-                                <li> 
-                                    <div class="footnote" id="carine">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium illo modi nostrum corrupti alias distinctio libero voluptatum voluptatem! Eveniet non vero commodi veniam laudantium explicabo odio quia. Voluptatibus, ex pariatur! Go check out stuff at https://azimmern.github.io</div>
-                                </li>
-                                
+
+                                <xsl:for-each select="/tei:TEI/tei:text/*/*/*/*/tei:note">
+                                    <xsl:variable name="currentNoteType" select="@type"/>
+
+
+                                    <xsl:choose>
+                                        <xsl:when test="matches($currentNoteType, 'foot')">
+                                            <li class="footnote d-none"> 
+                                                <xsl:attribute name="id">
+                                                    <xsl:value-of select="@corresp"/>
+                                                </xsl:attribute>
+                                                <h5><xsl:value-of select="@corresp"/></h5>
+                                                <p><xsl:value-of select="@ana"/></p>
+                                            </li>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                </xsl:for-each>
                             </ul>
-                            
+
                         </div>
                     </div>
-                    
-                    
-                    
+
+
+
                 </div>
-                
-                
+
+
                 <footer class="bg-primary text-light pt-5 pb-2 px-5">
                     <div class="row">
                         <div class="col-md-12">
                             <h4 class="mb-1">Dr. Arnaud Zimmern</h4>
                             <p class="mb-5">
                                 <small>
-                                    <em>
-                                        Postdoctoral Fellow,
-                                        <br/>
-                                            Navari Family Center for Digital Scholarship
-                                            <br/>
-                                                University of Notre Dame
-                                    </em>
+                                    <em> Postdoctoral Fellow, <br/> Navari Family Center for Digital
+                                        Scholarship <br/> University of Notre Dame </em>
                                 </small>
                             </p>
                             <p> Acknowledgements </p>
-                                <p>
-                                    My thanks go to Dr. Dan Johnson, Dr. Sarah Connell, &amp; Dr. Randall Harrison!
-                                </p>
+                            <p> My thanks go to Dr. Dan Johnson, Dr. Sarah Connell, &amp; Dr.
+                                Randall Harrison! </p>
                         </div>
                     </div>
-                    
+
                     <hr/>
-                        <div class="row mt-4">
-                            <div class="col-sm-12">
-                                <p>TEI-XML edition provided by the Oxford Text Archive</p>
-                            </div>
+                    <div class="row mt-4">
+                        <div class="col-sm-12">
+                            <p>TEI-XML edition provided by the Oxford Text Archive</p>
                         </div>
+                    </div>
                 </footer>
 
             </body>
@@ -432,23 +442,16 @@
             <xsl:when test="matches($currentNoteType, 'foot')">
                 <span>
                     <xsl:attribute name="class">footnote_btn toggle-footnote-button</xsl:attribute>
-                    <xsl:attribute name="id">
-                        <xsl:text>#</xsl:text>
-                        <xsl:value-of select="@corresp"/>
-                    </xsl:attribute>
-                    <xsl:attribute name="data-content">
-                        <xsl:value-of select="@ana"/>
-                    </xsl:attribute>
                     <xsl:attribute name="href">
-                        <xsl:value-of select="@target"/>
+                        <xsl:text>#</xsl:text><xsl:value-of select="@corresp"/>
                     </xsl:attribute>
-                    <xsl:attribute name="data-toggle">popover</xsl:attribute>
+                    <!--<xsl:attribute name="data-toggle">popover</xsl:attribute>
                     <xsl:attribute name="data-html">true</xsl:attribute>
                     <xsl:attribute name="data-placement">top</xsl:attribute>
-                    <xsl:attribute name="data-animation">true</xsl:attribute>
-                    <xsl:attribute name="data-trigger">focus</xsl:attribute>
-                    <xsl:attribute name="tabindex">0</xsl:attribute>
-                    <xsl:attribute name="data-offset">0, 0</xsl:attribute>
+                    <xsl:attribute name="data-animation">true</xsl:attribute>-->
+                    <xsl:attribute name="data-trigger">click</xsl:attribute>
+                    <!--<xsl:attribute name="tabindex">0</xsl:attribute>
+                    <xsl:attribute name="data-offset">0, 0</xsl:attribute>-->
                     <xsl:apply-templates/>
                 </span>
 
@@ -462,7 +465,7 @@
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
-    
+
     <xsl:template match="tei:stage">
         <span>
             <xsl:attribute name="class">stage</xsl:attribute>
@@ -650,7 +653,6 @@
         <xsl:variable name="currentPersName" select="@corresp"/>
         <xsl:variable name="currentPersNametype" select="@type"/>
 
-        <!--<xsl:apply-templates/>-->
         <xsl:for-each
             select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc/tei:listPlace/tei:place/@xml:id">
 

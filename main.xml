@@ -1919,12 +1919,12 @@
                 </sp>
                 <sp>
                     <speaker>Morphandra.</speaker>
-                    <p> Yet I have been told, that one of your greatest Philosophers <hi><note type="foot" corresp="#AlexandrinusAmmonius">Ammonius
-                            Alexandrinus</note>,</hi> whose Disciple <hi><note type="foot" corresp="#Origen">Origen</note></hi> was, hath it upon
+                    <p> Yet I have been told, that one of your greatest Philosophers <note type="foot" corresp="#AlexandrinusAmmonius"><hi>Ammonius
+                            Alexandrinus</hi></note>, whose Disciple <note type="foot" corresp="#Origen"><hi>Origen</hi></note> was, hath it upon
                         record, That an <hi>Asse</hi> was once an Auditor of Wisdom. But touching
                         that <hi>Asse</hi> you mentioned before, I hear, the <hi>Lawyers</hi> of
                         your Country have somthing of his nature in them, for they will not speak
-                        unlesse <hi><note type="foot" corresp="angels" ana="Angels were a common currency">Angels</note></hi> appear unto them. </p>
+                        unlesse <note type="foot" corresp="angels" ana="Angels were a common currency"><hi>Angels</hi></note> appear unto them. </p>
                 </sp>
                 <sp>
                     <pb n="17" facs="tcp:98502:20"/>
@@ -2079,7 +2079,7 @@
                         bowells of their own Country, which I confesse are frequent, whence som
                         observe, that though the air of <hi><placeName corresp="#Artonia">Artonia</placeName></hi> be not so hot as that of
                         her next neighbour <hi><placeName corresp="#Tumontia">Tumontia</placeName>,</hi> yet she is more subject to distempers,
-                        Calentures, and <hi> <note type="foot" corresp="tovardillios" ana="Tovardillios is an unidentified word of unknown origin.">Tovardillios</note>;</hi> Therefore 'tis one of the prime
+                        Calentures, and <note type="foot" corresp="tovardillios" ana="Tovardillios is an unidentified word of unknown origin."><hi>Tovardillios</hi></note>; Therefore 'tis one of the prime
                         policies of <hi><placeName corresp="#Artonia">Artonia</placeName></hi> to find her Gentry some work abroad, and employ
                         them ever and anon in forraign Warrs; And ther have been of late two fiery
                             <hi>Flamines,</hi> one after the other, who have put this policy in
@@ -2504,7 +2504,7 @@
                         the <hi><persName corresp="#Zundania">Zoundanian</persName>,</hi> the <hi><persName corresp="#Tarragon">Tarragon</persName>,</hi> and <hi><persName corresp="#Cinqfoyl">Cinqfoyl</persName></hi> upon
                         the <hi><persName corresp="#Tumontia">Tumontian</persName>,</hi> the <hi>Tartar</hi> upon the <hi>Chinois,</hi> the
                             <hi><persName corresp="#Selenia">Selenian</persName></hi> upon the <hi><persName corresp="#Marcopolis">Marcopolist</persName>,</hi> the <hi>Cosaque</hi>
-                        upon the <hi>Pole,</hi> the <hi><persName corresp="#Carboncia"><sic>Carboneian</sic><corr>Carboncian</corr></persName></hi> upon the
+                        upon the <hi>Pole,</hi> the <hi><persName corresp="#Carboncia"><sic>Carboneian</sic></persName></hi><corr>Carboncian</corr> upon the
                             <hi><persName corresp="#Gheriona">Gherionian</persName>;</hi> We have continued a bloody lingring Warr in the
                         bowells of <hi><placeName corresp="#Artonia">Artonia</placeName></hi> for thirty years to gether, we have thrust
                         divers Princes out of their antient Inheritances, among others the Duke of
