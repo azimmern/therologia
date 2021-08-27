@@ -44,6 +44,7 @@
                                                 </script>
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
                                                 </script>
+                <script src="https://hypothes.is/embed.js"></script>
 
                 <script src="main.js">
                                                 </script>
@@ -92,7 +93,7 @@
                     <div class="row">
 
                         <!--                        Make the Tablist of Pills  -->
-                        <div class="col-sm-2">
+                        <div class="col-sm-3">
 
                             <ul class="nav flex-column nav-pills" role="tablist">
 
@@ -371,8 +372,8 @@
                         </div>
 
 
-                        <div class="col-sm-4" role="footnotelist">
-                            <ul>
+                        <div class="col-sm-3 sticky-top h-100" id="footnotelist">
+                            <ul class="list-group list-group-flush">
 
                                 <xsl:for-each select="/tei:TEI/tei:text/*/*/*/*/tei:note">
                                     <xsl:variable name="currentNoteType" select="@type"/>
@@ -380,11 +381,13 @@
 
                                     <xsl:choose>
                                         <xsl:when test="matches($currentNoteType, 'foot')">
-                                            <li class="footnote d-none"> 
+                                            <li class="footnote list-group-item d-none"> 
                                                 <xsl:attribute name="id">
                                                     <xsl:value-of select="@corresp"/>
                                                 </xsl:attribute>
-                                                <h5><xsl:value-of select="@corresp"/></h5>
+                                                <p type="button" class="footnote-close float-right ml-3">x</p>
+                                                
+                                                <h5 class="d-inline-block"><xsl:value-of select="."/></h5>
                                                 <p><xsl:value-of select="@ana"/></p>
                                             </li>
                                         </xsl:when>
@@ -441,17 +444,10 @@
         <xsl:choose>
             <xsl:when test="matches($currentNoteType, 'foot')">
                 <span>
-                    <xsl:attribute name="class">footnote_btn toggle-footnote-button</xsl:attribute>
-                    <xsl:attribute name="href">
+                    <xsl:attribute name="class">footnote_btn</xsl:attribute>
+                    <xsl:attribute name="data-footnote">
                         <xsl:text>#</xsl:text><xsl:value-of select="@corresp"/>
                     </xsl:attribute>
-                    <!--<xsl:attribute name="data-toggle">popover</xsl:attribute>
-                    <xsl:attribute name="data-html">true</xsl:attribute>
-                    <xsl:attribute name="data-placement">top</xsl:attribute>
-                    <xsl:attribute name="data-animation">true</xsl:attribute>-->
-                    <xsl:attribute name="data-trigger">click</xsl:attribute>
-                    <!--<xsl:attribute name="tabindex">0</xsl:attribute>
-                    <xsl:attribute name="data-offset">0, 0</xsl:attribute>-->
                     <xsl:apply-templates/>
                 </span>
 

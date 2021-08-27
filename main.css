@@ -21,7 +21,8 @@
   body {
     box-sizing: border-box;
     font-size: 1rem;
-    background: var(--light-grey-body);
+    background-color: whitesmoke;
+    /* background: var(--light-grey-body); */
   }
   
   #toc,
@@ -67,6 +68,10 @@
     
   }
 
+  div {
+    box-shadow: small;
+  }
+
   .fable{
     background: var(--nd-gold);
   }
@@ -80,7 +85,7 @@
 .footnote_btn {
     text-decoration-line: underline;
     cursor:pointer;
-    /* This isn't what I actually want, I'm just flagging them for now: I ultimately want what the Milton Reading Room has, where footnoted text has an href and a unique id, and the footnote content shows up upon click */
+    
 }
 
 .footnote {
@@ -103,6 +108,8 @@
 .proverb{
   text-decoration:dotted;
 }
+
+
 
 .q{
   display: block;

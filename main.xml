@@ -611,7 +611,7 @@
                 <p>With Reflexes upon the present State of most Countries in Christendom.</p>
                 <p> Divided into a <hi>XI</hi> Sections. </p>
                 <p> By <hi>
-                        <note type="foot" corresp="#HowellJames">JAM HOWELL</note>
+                        <note type="foot" corresp="James Howell">JAM HOWELL</note>
                         <abbr>Esq</abbr>
                     </hi>
                 </p>
@@ -619,8 +619,8 @@
                 <p> The First <hi>TOME.</hi>
                 </p>
                 <p>
-                    <hi>London,</hi> Printed by <hi><note type="foot" corresp="#WilsonWilliam">W.
-                        Wilson</note></hi> for <hi><note type="foot" corresp="#PalmerWilliam">William
+                    <hi>London,</hi> Printed by <hi><note type="foot" corresp="William Wilson" ana="Some stuff about William Wilson.">W.
+                        Wilson</note></hi> for <hi><note type="foot" corresp="William Palmer" ana="Some stuff about William Palmer.">William
                         Palmer</note>,</hi> at the <hi>Palm-Tree</hi> in <hi>Fleet-street</hi> near
                             <hi>St. Dunstan</hi>'s Church, 1660. </p>
             </div>
@@ -834,20 +834,20 @@
                     ; and besides, <persName
                         corresp="#Solomon"><hi>Solomon</hi></persName> sends in to som of
                         <hi>Them</hi> for <hi>Instruction:</hi>
-                    <note type="foot" corresp="#Aesop"> The <hi>Phrygian</hi> Fabler</note> was one of
+                    <note type="foot" corresp="Aesop" ana="The Phyrgian Fabler refers to Aesop"> The <hi>Phrygian</hi> Fabler</note> was one of
                     the first who taught them their <hi>Abcee,</hi> then <hi><persName
-                            corresp="#Avianus" cert="low">Anian</persName>, <persName
-                            corresp="#BaarlandAdriaanVan" cert="high">Barlandus</persName>,</hi> and others
+                            corresp="Avianus" cert="low" ana="'Anian' may be a reference to Avianus. We're not sure.">Anian</persName>, <persName
+                                corresp="Adriaan Van Baarland" ana="A famous fabler, van Baarland may have been another source for some of Howell's fables." cert="high">Barlandus</persName>,</hi> and others
                     taught Them Their <hi>Primer,</hi> and the two ingenious <hi> Florentines,
-                            <note type="foot" corresp="#BraccioliniPoggio" cert="high"
-                        >Poggius</note></hi> and <hi><note type="foot" corresp="#GelliGiambattista"
-                            cert="high">Gelli</note></hi> may be said to have taught
+                        <note type="foot" corresp="Poggio Bracciolini" cert="high" ana="Bracciolini, clearly held in high esteem as one of two 'ingenious' Florentines who inspired the Therologia."
+                        >Poggius</note></hi> and <hi><note type="foot" corresp="Giambattista Gelli"
+                            cert="high" ana="Gelli, more than any other fabler, inspired the form of Therologia. His tale of Circe closely resembles this one of Morphandra.">Gelli</note></hi> may be said to have taught
                         <hi>Them</hi> their <hi>Grammer:</hi> But these transmuted <hi>Beasts</hi>
                     speak in a louder Dialect, who having tryed both Natures, they tell the <hi>
                         Human</hi> Creture his own, and how he growes daily from bad to worse,
-                    according to the <note type="foot" corresp="#Horace">
+                    according to the <note type="foot" corresp="Horace" ana="This passage by the 'Propheticall Lyric Poet' Horace is from 'I don't actually know what but I'll find out for you soon.'">
                         <hi>Propheticall Lyric</hi> Poet,</note>
-                    <quote type="citation" corresp="#Horace"><q xml:lang="la">
+                    <quote type="citation" corresp="Horace"><q xml:lang="la">
                         <l>Aetas Parentum, pejor avis, tulit</l>
                         <l>Nos nequiores, mox daturos</l>
                         <l>Progeniem Vitiosiorem.</l>
@@ -865,8 +865,10 @@
             
             <div type="poem">
                 <pb facs="tcp:98502:6"/>
+                <!--
                 <head xml:lang="gr"> Δενδρολογια; </head>
-                <head xml:lang="gr"> Θηρολογια; </head>
+                <head xml:lang="gr"> Θηρολογια; </head>-->
+                
                 <head xml:lang="la">Poema <hi>Tempestivum.</hi></head>
                 <lg>
                     <l>
@@ -934,7 +936,7 @@
                 </epigraph>
                 <closer>
                     <signed>
-                        <note type="foot" corresp="#HowellJames">J.H.</note>
+                        J.H.
                     </signed>
                 </closer>
             </div>
@@ -1061,9 +1063,9 @@
                         <head>M</head>
                         <head>P</head>
                         <p>
-                            <note type="foot" corresp="#BarloweFrancis"> F Barlowe </note>
+                            <note type="foot" corresp="Francis Barlowe" ana="A famous artisan, often worked with Howell. More to be said here."> F Barlowe </note>
                         </p>
-                        <p><note type="foot" corresp="#GaywoodRichard">R Gaywood</note>
+                        <p><note type="foot" corresp="Richard Gaywood" ana="Another famous artisan who often worked with Howell. More to be said here.">R Gaywood</note>
                             <w xml:lang="la">fecit</w>
                         </p>
                     </figure>
@@ -1140,8 +1142,8 @@
                     <item>
                         <hi>The</hi> <placeName corresp="#Cinqfoyl">Cinqfoyl</placeName> Portugal 
                     </item>
-                    <item><note type="foot" corresp="#MazarinCardinalRobert"
-                            ><hi>Cardinal</hi> Mazarine</note>, p. 21
+                    <item><note type="foot" corresp="Cardinal Robert Mazarine"
+                            ana="Italian Cardinal, diplomat, and chief minister to France's Kings Louis XIII and Louis XIV after serving as papal diplomat to Pope Urban VIII and serving under Cardinal Richelieu. "><hi>Cardinal</hi> Mazarine</note>, p. 21
                     </item>
                     <item><hi>The Coppices represents the common Peeple.</hi>
                     </item>
@@ -1155,13 +1157,13 @@
                 <list>
                     <head>D</head>
                     <item>
-                        <note type="foot" corresp="#Diogenes">Diogenes</note>, <hi>p.</hi> 56 
+                        <note type="foot" corresp="Diogenes" ana="Famous cynic philosopher, seen in Shakespeare's Timon of Athens">Diogenes</note>, <hi>p.</hi> 56 
                     </item>
                     <item><hi>Sir </hi> 
-                        <note type="foot" corresp="#DigbyKenelm">Kenelm Digby</note>, 148 
+                        <note type="foot" corresp="Kenelm Digby" ana="Cavalier romantic adventurer and natural philosopher, Digby was immensely influential in Howell's life, practicing one of the first successful treatments with the 'powder of sympathy' after Howell injured himself intervening in a duell. ">Kenelm Digby</note>, 148 
                     </item>
                     <item><hi>Dr. </hi> 
-                    <note type="foot" corresp="#HarveyWilliam">Harvey</note>, 141 
+                    <note type="foot" corresp="William Harvey" ana="England's major physician, discoverer of the circulation of the heart, he famously treated a young Howell and left a major impression on the young writer's life.">Harvey</note>, 141 
                     </item>
                 </list>
                 <list>
@@ -1211,7 +1213,7 @@
                     <head>M</head>
                     <item>
                         <placeName corresp="#Marcopolis">Marcopolis</placeName>, <hi>the City of S.</hi>
-                        <note type="foot" corresp="#StMarkEvangelist">Mark</note>, <hi>represents</hi> Venice
+                        <note type="foot" corresp="St. Mark the Evangelist" ana="Howell's choice to associate Venice with St. Mark may be of some significance.">Mark</note>, <hi>represents</hi> Venice
                         <hi>of</hi> 
                         <w xml:lang="gr">πόλις</w> 
                         <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">Μᾶρκος</w>. 
@@ -1253,24 +1255,24 @@
                         <w xml:lang="la">sanguis</w>. 
                     </item>
                     <item>
-                        <note type="foot" corresp="#Midas"><hi>The</hi> Phrygian <hi>King,</hi> Mydas.</note>
+                        <note type="foot" corresp="Midas" ana="Mythical king famed for his golden thumb and avarice"><hi>The</hi> Phrygian <hi>King,</hi> Mydas.</note>
                     </item>
                     <item>
-                        <note type="foot" corresp="#Aesop"><hi>The</hi> Phrygian <hi>Fabler,</hi>
+                        <note type="foot" corresp="Aesop" ana="See 'To the Reader.'"><hi>The</hi> Phrygian <hi>Fabler,</hi>
                             Aesop.</note>
                     </item>
                     <item>
-                        <note type="foot" corresp="#Charles1England"><hi>The late</hi> K. <hi>of</hi> 
+                        <note type="foot" corresp="Charles 1 of England"><hi>The late</hi> K. <hi>of</hi> 
                             Engl.</note> p. 35
                     </item>
                     <item>
-                        <note type="foot" corresp="#Charles2England"><hi>The present K.</hi> Ch.</note>
+                        <note type="foot" corresp="Charles 2 of England"><hi>The present K.</hi> Ch.</note>
                         <hi>p.</hi> 39 </item>
                 </list>
                 <list>
                     <head>Q</head>
                     <item>
-                        <note type="foot" corresp="#Christina1Sweden"
+                        <note type="foot" corresp="Christina 1 ofSweden"
                             target="https://www.wikidata.org/wiki/Q52937" xml:id="Q52937"><hi>The Queen of</hi> Sweden</note>, p. 114 
                     </item>
                     <item>
@@ -1280,7 +1282,7 @@
                 <list>
                     <head>R</head>
                     <item>
-                        <note type="foot" corresp="#FredericVPalatine"
+                        <note type="foot" corresp="Frederic V Palatine"
                             >Rinarchus</note>, <hi>the Palsgrave of the</hi> Rhine, <hi>of</hi>
                         <w xml:lang="gr">αρχων</w>, princeps, &amp;c. 
                     </item>
@@ -1289,11 +1291,11 @@
                         </hi>
                     </item>
                     <item>
-                        <note type="foot" corresp="#RainsboroughWilliam" cert="low"
-                            target="https://www.wikidata.org/wiki/Q6639738" xml:id="Q6639738"
+                        <note type="foot" corresp="William Rainsborough" cert="low"
+                            ana="https://www.wikidata.org/wiki/Q6639738"
                             >Rainsborough</note>, <hi>and</hi> 
-                        <note type="foot" corresp="#DeaneRichard"
-                            target="https://www.wikidata.org/wiki/Q7325150" xml:id="Q7325150"
+                        <note type="foot" corresp="Richard Deane"
+                            ana="https://www.wikidata.org/wiki/Q7325150"
                                 ><hi>Admirall</hi> <pb facs="tcp:98502:12"/>Dean</note>, 40 
                     </item>
                     <item>
@@ -1328,7 +1330,7 @@
                     <item><placeName corresp="#Tarragon">Tarragon</placeName>, Catalunia
                         <hi>in</hi> Spaine, <hi>the ancientest town whereof is</hi> Tarragona.
                     </item>
-                    <item><note type="foot" corresp="#LutherMartin">Therlu</note>, <hi>the Anagram of</hi> Luther.
+                    <item><note type="foot" corresp="Martin Luther" ana="It's not clear why Howell chooses to anagramatize Luther's name, but, as he states elsewhere, the answer may lie in the Greek of 'ther' (meaning 'beast,' as in Therologia), associating Luther with the beasts, perhaps as a source of division">Therlu</note>, <hi>the Anagram of</hi> Luther.
                     </item>
                     <item> Therologia, <hi> the language of Beasts; of </hi>
                         <w xml:lang="gr">θερ</w>, <w xml:lang="la">fera</w>; &amp; <w xml:lang="gr"
@@ -5621,7 +5623,7 @@
                         neither the warm Sun nor Gods blessing, it were a punishment for the worst
                         peeple upon earth to be removed thither; Rather then I shold return to
                                 <hi><placeName corresp="#Carboncia">Carboncia</placeName>,</hi> my
-                        wishes shall be that of <note type="foot" corresp="horace" ana="Horace. The following citation is Carmina, Liber 1, line 22">the Poet</note>, <quote
+                        wishes shall be that of <note type="foot" corresp="Horace" ana="The following citation is fromCarmina, Liber 1, line 22">the Poet</note>, <quote
                             ><q xml:lang="la">
                                 <l>Pone me pigris ubi nulla campis</l>
                                 <l>Arbor aestiva recreatur aurâ,</l>
@@ -6111,7 +6113,7 @@
                         solemnity; At the Kings death ther is a generall mourning and fasting, with
                         a cessation from labour, and we use to go about his body with a sad murmur
                         for many daies; When we are sick we have attendants appointed us, and the
-                        symptoms when we be sick are infallible, according to <note type="foot" corresp="#Pliny">the honest plain Poet</note>, <quote corresp="#verse_couplets"><q>
+                        symptoms when we be sick are infallible, according to <note type="foot" corresp="Pliny" ana="The honest plain Poet, Pliny, as contrasted with the 'Propheticall Lyric Poet' Horace, gives us some sense of Howell's categories and values.">the honest plain Poet</note>, <quote corresp="#verse_couplets"><q>
                                 <l> If <hi>Bees</hi> be sick (for all that live must die) </l>
                                 <l>
                                     <hi>That</hi> may be known by signes most certainly, </l>
@@ -6362,7 +6364,7 @@
                     <p> Know, Sir, that <hi>we</hi> have also a <hi>Religion,</hi> as well as so
                         exact a <hi>Government</hi> among us here; Our <hi>Hummings</hi> you speak
                         of are as so many <hi>Hymns</hi> to the great God of Nature; And ther is a
-                        miraculous example in <note type="foot" corresp="#HeisterbachCaesarius"
+                        miraculous example in <note type="foot" corresp="Caesarius of Heisterbach" ana="An unusual reference to the late Cistercian monk and writer."
                                 ><hi>Caesarius Cisterniensis,</hi></note> how som of the holy
                         Eucharist being let fall in a medow by a Priest, as he was returning from
                         visiting a sick body, a Swarm of <hi>Bees</hi> being hard by took it up, and
@@ -6594,7 +6596,7 @@
                         fleshly contentments; One drop of those abstracted, those pure, permanent;
                             <pb n="150" facs="tcp:98502:87"/> &amp; immarcescible delights is
                         infinitly more sweet, than all those mix'd and muddy streams of corporeall
-                        and mundan plesures, then all those no other then <note type="foot" corresp="utopian" ana="This may be a reference to Thomas More's Utopia"><hi>Utopian</hi> delights</note>
+                        and mundan plesures, then all those no other then <note type="foot" corresp="utopian" ana="Could this be a reference to Thomas More's Utopia?"><hi>Utopian</hi> delights</note>
                          of this
                         transitory world, were they all cast into a Limbeck, and the very Elixir of
                         them distill'd into one vessell. </p>
