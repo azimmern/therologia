@@ -1,4 +1,12 @@
 $(document).ready(function () {
+  
+  $(".sic").on("click", function(){
+    if($(this).next(".correction").hasClass("d-none")){
+      $(this).next(".correction").slideToggle("slow").removeClass("d-none");
+    } else {
+      $(this).next(".correction").slideToggle("slow").addClass("d-none");
+    }
+    });
 
   // Show all and hide all
   $(".toggle-cypher-button").on("click", function () {
@@ -59,6 +67,8 @@ $(document).ready(function () {
   $(".footnote-close").on("click", function () {
     $(this).parent().addClass("d-none");
   });
+
+  
 
 
 

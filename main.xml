@@ -611,7 +611,7 @@
                 <p>With Reflexes upon the present State of most Countries in Christendom.</p>
                 <p> Divided into a <hi>XI</hi> Sections. </p>
                 <p> By <hi>
-                        <note type="foot" corresp="James Howell">JAM HOWELL</note>
+                        <note type="foot" corresp="Howell">JAM HOWELL</note>
                         <abbr>Esq</abbr>
                     </hi>
                 </p>
@@ -619,8 +619,8 @@
                 <p> The First <hi>TOME.</hi>
                 </p>
                 <p>
-                    <hi>London,</hi> Printed by <hi><note type="foot" corresp="William Wilson" ana="Some stuff about William Wilson.">W.
-                        Wilson</note></hi> for <hi><note type="foot" corresp="William Palmer" ana="Some stuff about William Palmer.">William
+                    <hi>London,</hi> Printed by <hi><note type="foot" corresp="Wilson" ana="Some stuff about William Wilson.">W.
+                        Wilson</note></hi> for <hi><note type="foot" corresp="Palmer" ana="Some stuff about William Palmer.">William
                         Palmer</note>,</hi> at the <hi>Palm-Tree</hi> in <hi>Fleet-street</hi> near
                             <hi>St. Dunstan</hi>'s Church, 1660. </p>
             </div>
@@ -829,7 +829,7 @@
                     touching these <hi>Northwest Ilands,</hi> they have out-gon all the rest: These
                     metamorphos'd Animals do point at all these, and other degenerations of the
                         <hi>Human</hi> Creture: Nor is it the first time that Beasts did speak, for
-                    we read of <note type="foot" corresp="balaam" ana="Howell alludes repeatedly to Balaam's Ass">one in the <hi>Sacred
+                    we read of <note type="foot" corresp="Balaam" ana="Howell alludes repeatedly to Balaam's Ass">one in the <hi>Sacred
                             Code</hi> who spoke</note>
                     ; and besides, <persName
                         corresp="#Solomon"><hi>Solomon</hi></persName> sends in to som of
@@ -839,9 +839,9 @@
                             corresp="Avianus" cert="low" ana="'Anian' may be a reference to Avianus. We're not sure.">Anian</persName>, <persName
                                 corresp="Adriaan Van Baarland" ana="A famous fabler, van Baarland may have been another source for some of Howell's fables." cert="high">Barlandus</persName>,</hi> and others
                     taught Them Their <hi>Primer,</hi> and the two ingenious <hi> Florentines,
-                        <note type="foot" corresp="Poggio Bracciolini" cert="high" ana="Bracciolini, clearly held in high esteem as one of two 'ingenious' Florentines who inspired the Therologia."
-                        >Poggius</note></hi> and <hi><note type="foot" corresp="Giambattista Gelli"
-                            cert="high" ana="Gelli, more than any other fabler, inspired the form of Therologia. His tale of Circe closely resembles this one of Morphandra.">Gelli</note></hi> may be said to have taught
+                        <note type="foot" corresp="Bracciolini" cert="high" ana="Poggio Bracciolini, clearly held in high esteem as one of two 'ingenious' Florentines who inspired the Therologia."
+                        >Poggius</note></hi> and <hi><note type="foot" corresp="Gelli"
+                            cert="high" ana="Giambattista Gelli, more than any other fabler, inspired the form of Therologia. His tale of Circe closely resembles this one of Morphandra.">Gelli</note></hi> may be said to have taught
                         <hi>Them</hi> their <hi>Grammer:</hi> But these transmuted <hi>Beasts</hi>
                     speak in a louder Dialect, who having tryed both Natures, they tell the <hi>
                         Human</hi> Creture his own, and how he growes daily from bad to worse,
@@ -1063,9 +1063,9 @@
                         <head>M</head>
                         <head>P</head>
                         <p>
-                            <note type="foot" corresp="Francis Barlowe" ana="A famous artisan, often worked with Howell. More to be said here."> F Barlowe </note>
+                            <note type="foot" corresp="Barlowe" ana="A famous artisan, Francis Barlowe often worked with Howell. More to be said here."> F Barlowe </note>
                         </p>
-                        <p><note type="foot" corresp="Richard Gaywood" ana="Another famous artisan who often worked with Howell. More to be said here.">R Gaywood</note>
+                        <p><note type="foot" corresp="Gaywood" ana="Another famous artisan who often worked with Howell, Richard Gaywood. More to be said here.">R Gaywood</note>
                             <w xml:lang="la">fecit</w>
                         </p>
                     </figure>
@@ -1142,7 +1142,7 @@
                     <item>
                         <hi>The</hi> <placeName corresp="#Cinqfoyl">Cinqfoyl</placeName> Portugal 
                     </item>
-                    <item><note type="foot" corresp="Cardinal Robert Mazarine"
+                    <item><note type="foot" corresp="Mazarin"
                             ana="Italian Cardinal, diplomat, and chief minister to France's Kings Louis XIII and Louis XIV after serving as papal diplomat to Pope Urban VIII and serving under Cardinal Richelieu. "><hi>Cardinal</hi> Mazarine</note>, p. 21
                     </item>
                     <item><hi>The Coppices represents the common Peeple.</hi>
@@ -1160,10 +1160,10 @@
                         <note type="foot" corresp="Diogenes" ana="Famous cynic philosopher, seen in Shakespeare's Timon of Athens">Diogenes</note>, <hi>p.</hi> 56 
                     </item>
                     <item><hi>Sir </hi> 
-                        <note type="foot" corresp="Kenelm Digby" ana="Cavalier romantic adventurer and natural philosopher, Digby was immensely influential in Howell's life, practicing one of the first successful treatments with the 'powder of sympathy' after Howell injured himself intervening in a duell. ">Kenelm Digby</note>, 148 
+                        <note type="foot" corresp="Digby" ana="Cavalier romantic adventurer and natural philosopher, Digby was immensely influential in Howell's life, practicing one of the first successful treatments with the 'powder of sympathy' after Howell injured himself intervening in a duell. ">Kenelm Digby</note>, 148 
                     </item>
                     <item><hi>Dr. </hi> 
-                    <note type="foot" corresp="William Harvey" ana="England's major physician, discoverer of the circulation of the heart, he famously treated a young Howell and left a major impression on the young writer's life.">Harvey</note>, 141 
+                    <note type="foot" corresp="Harvey" ana="England's major physician, discoverer of the circulation of the heart, he famously treated a young Howell and left a major impression on the young writer's life.">Harvey</note>, 141 
                     </item>
                 </list>
                 <list>
@@ -1213,7 +1213,7 @@
                     <head>M</head>
                     <item>
                         <placeName corresp="#Marcopolis">Marcopolis</placeName>, <hi>the City of S.</hi>
-                        <note type="foot" corresp="St. Mark the Evangelist" ana="Howell's choice to associate Venice with St. Mark may be of some significance.">Mark</note>, <hi>represents</hi> Venice
+                        <note type="foot" corresp="Mark" ana="Howell's choice to associate Venice with St. Mark may be of some significance.">Mark</note>, <hi>represents</hi> Venice
                         <hi>of</hi> 
                         <w xml:lang="gr">πόλις</w> 
                         <w xml:lang="la">civitas</w> &amp; <w xml:lang="gr">Μᾶρκος</w>. 
@@ -1262,27 +1262,27 @@
                             Aesop.</note>
                     </item>
                     <item>
-                        <note type="foot" corresp="Charles 1 of England"><hi>The late</hi> K. <hi>of</hi> 
+                        <note type="foot" corresp="CharlesI"><hi>The late</hi> K. <hi>of</hi> 
                             Engl.</note> p. 35
                     </item>
                     <item>
-                        <note type="foot" corresp="Charles 2 of England"><hi>The present K.</hi> Ch.</note>
+                        <note type="foot" corresp="CharlesII"><hi>The present K.</hi> Ch.</note>
                         <hi>p.</hi> 39 </item>
                 </list>
                 <list>
                     <head>Q</head>
                     <item>
-                        <note type="foot" corresp="Christina 1 ofSweden"
-                            target="https://www.wikidata.org/wiki/Q52937" xml:id="Q52937"><hi>The Queen of</hi> Sweden</note>, p. 114 
+                        <note type="foot" corresp="ChristinaI"
+                            ana="Queen of Sweden https://www.wikidata.org/wiki/Q52937"><hi>The Queen of</hi> Sweden</note>, p. 114 
                     </item>
                     <item>
-                        <note type="foot" corresp="#Elizabeth1England"><hi>Queen</hi> Elizabeth</note>, p. 57 
+                        <note type="foot" corresp="ElizabethI" ana="Former virgin Queen of England"><hi>Queen</hi> Elizabeth</note>, p. 57 
                     </item>
                 </list>
                 <list>
                     <head>R</head>
                     <item>
-                        <note type="foot" corresp="Frederic V Palatine"
+                        <note type="foot" corresp="FredericV" ana="Frederic V Palatine"
                             >Rinarchus</note>, <hi>the Palsgrave of the</hi> Rhine, <hi>of</hi>
                         <w xml:lang="gr">αρχων</w>, princeps, &amp;c. 
                     </item>
@@ -1291,11 +1291,11 @@
                         </hi>
                     </item>
                     <item>
-                        <note type="foot" corresp="William Rainsborough" cert="low"
-                            ana="https://www.wikidata.org/wiki/Q6639738"
+                        <note type="foot" corresp="Rainsborough" cert="low"
+                            ana="William Rainsborough - https://www.wikidata.org/wiki/Q6639738"
                             >Rainsborough</note>, <hi>and</hi> 
-                        <note type="foot" corresp="Richard Deane"
-                            ana="https://www.wikidata.org/wiki/Q7325150"
+                        <note type="foot" corresp="Deane"
+                            ana="Richard Deane - https://www.wikidata.org/wiki/Q7325150"
                                 ><hi>Admirall</hi> <pb facs="tcp:98502:12"/>Dean</note>, 40 
                     </item>
                     <item>
@@ -1330,7 +1330,7 @@
                     <item><placeName corresp="#Tarragon">Tarragon</placeName>, Catalunia
                         <hi>in</hi> Spaine, <hi>the ancientest town whereof is</hi> Tarragona.
                     </item>
-                    <item><note type="foot" corresp="Martin Luther" ana="It's not clear why Howell chooses to anagramatize Luther's name, but, as he states elsewhere, the answer may lie in the Greek of 'ther' (meaning 'beast,' as in Therologia), associating Luther with the beasts, perhaps as a source of division">Therlu</note>, <hi>the Anagram of</hi> Luther.
+                    <item><note type="foot" corresp="Luther" ana="It's not clear why Howell chooses to anagramatize Luther's name, but, as he states elsewhere, the answer may lie in the Greek of 'ther' (meaning 'beast,' as in Therologia), associating Luther with the beasts, perhaps as a source of division">Therlu</note>, <hi>the Anagram of</hi> Luther.
                     </item>
                     <item> Therologia, <hi> the language of Beasts; of </hi>
                         <w xml:lang="gr">θερ</w>, <w xml:lang="la">fera</w>; &amp; <w xml:lang="gr"
@@ -1869,7 +1869,7 @@
             <div n="2" type="section">
                 <head type="chapter"> θηρολογια The Second Section.</head>
                 <head type="sub"> Containing an Interlocutory Discourse 'twixt
-                        Morphandra,Pererius, and an Asse, who had bin once an <persName corresp="#Artonia"><sic>Artorian</sic></persName><corr>Artonian</corr>
+                        Morphandra,Pererius, and an Asse, who had bin once an <sic><persName corresp="#Artonia">Artorian</persName></sic><corr>Artonian</corr>
                     Peasan; wherin ther are some glances upon the Country it self, and upon the
                     present Government thereof. But though Prince Pererius us'd all the
                     perswasions he could, and re-inforc'd Argument upon Argument, to induce him to
@@ -1921,12 +1921,12 @@
                 </sp>
                 <sp>
                     <speaker>Morphandra.</speaker>
-                    <p> Yet I have been told, that one of your greatest Philosophers <note type="foot" corresp="#AlexandrinusAmmonius"><hi>Ammonius
-                            Alexandrinus</hi></note>, whose Disciple <note type="foot" corresp="#Origen"><hi>Origen</hi></note> was, hath it upon
+                    <p> Yet I have been told, that one of your greatest Philosophers <note type="foot" corresp="Ammonius" ana="Alexandrinus Ammonius was a dude"><hi>Ammonius
+                            Alexandrinus</hi></note>, whose Disciple <note type="foot" corresp="Origen" ana="Patristic theologian, known for heresies regarding apokatastasis. Not sure about this reference."><hi>Origen</hi></note> was, hath it upon
                         record, That an <hi>Asse</hi> was once an Auditor of Wisdom. But touching
                         that <hi>Asse</hi> you mentioned before, I hear, the <hi>Lawyers</hi> of
                         your Country have somthing of his nature in them, for they will not speak
-                        unlesse <note type="foot" corresp="angels" ana="Angels were a common currency"><hi>Angels</hi></note> appear unto them. </p>
+                        unlesse <note type="foot" corresp="angels" ana="Angels were a common gold-based currency in England and the rest of Europe."><hi>Angels</hi></note> appear unto them. </p>
                 </sp>
                 <sp>
                     <pb n="17" facs="tcp:98502:20"/>
@@ -2528,7 +2528,7 @@
                         their beds, but were made away violently; We did incite them first against
                         their own Country-man and <hi>Native King,</hi> and to appear in a daring
                         high hostile manner before him upon the borders; At which time it cost us a
-                        great deal of artifice so to besot the <hi><persName type="plu" corresp="#Gheriona"><sic>Gherioniams</sic></persName><corr>Gherionians</corr>,</hi> and to abase
+                        great deal of artifice so to besot the <hi><sic><persName type="plu" corresp="#Gheriona">Gherioniams</persName></sic><corr>Gherionians</corr>,</hi> and to abase
                         their courage, so to entangle them with Factions, having sure Confidents to
                         that end among them, that they durst not present Battle to the <hi>
                             <persName type="plu" corresp="#Carboncia">Carboncian</persName> </hi> at that time; And this, Sir, was an important piece of
@@ -2539,7 +2539,7 @@
                         all those we have fomented since might have bin prevented. </p>
                     <p> We shortly after transmitted the same spirit of Insurrection into
                             <hi><placeName corresp="#Hebrinia">Hebrinia</placeName>,</hi> who being encouraged by the good successes of the
-                            <hi><persName corresp="#Carboncia"><sic>Carboneian</sic></persName><corr>Carboncian</corr></hi>, who got then what tearms he listed, yet could he
+                            <hi><sic><persName corresp="#Carboncia">Carboneian</persName></sic><corr>Carboncian</corr></hi>, who got then what tearms he listed, yet could he
                         not sit quiet; and the <hi><name type="adj" corresp="#Hebrinia">Hebrinian</name></hi> Commissioners being but harshly
                         entertain'd by the great Councell of <hi><placeName corresp="#Gheriona">Gheriona</placeName>,</hi> who intended to send
                         them over a Governour that should pinch them more than they were before in
@@ -3831,7 +3831,7 @@
                         is Brasse and Copper, wherin the <hi><persName corresp="#Hydraulia">Hydraulian</persName></hi> 'tis thought hath don
                         more mischief to <hi><placeName corresp="#Tumontia">Tumontia</placeName></hi> than any other way, for copper and brasse
                         being cheap with her, she is so dextrous in counterfeiting the
-                            <hi><name type="adj" corresp="#Tumontia"><sic>Tarmontian</sic><corr>Tumontian</corr></name></hi> coyne, that whole Sows of Lead, and Masts hollowed
+                            <hi><sic><name type="adj" corresp="#Tumontia">Tarmontian</name></sic><corr>Tumontian</corr></hi> coyne, that whole Sows of Lead, and Masts hollowed
                         within have been found cramm'd with that coyne among her Cargazons, when she
                         came to the Ports of <hi><placeName corresp="#Tumontia">Tumontia</placeName></hi> to trade. </p>
                 </sp>
@@ -5623,7 +5623,7 @@
                         neither the warm Sun nor Gods blessing, it were a punishment for the worst
                         peeple upon earth to be removed thither; Rather then I shold return to
                                 <hi><placeName corresp="#Carboncia">Carboncia</placeName>,</hi> my
-                        wishes shall be that of <note type="foot" corresp="Horace" ana="The following citation is fromCarmina, Liber 1, line 22">the Poet</note>, <quote
+                        wishes shall be that of <note type="foot" corresp="Horace" ana="The following citation is from Carmina, Liber 1, line 22">the Poet</note>, <quote
                             ><q xml:lang="la">
                                 <l>Pone me pigris ubi nulla campis</l>
                                 <l>Arbor aestiva recreatur aurâ,</l>
@@ -6364,7 +6364,7 @@
                     <p> Know, Sir, that <hi>we</hi> have also a <hi>Religion,</hi> as well as so
                         exact a <hi>Government</hi> among us here; Our <hi>Hummings</hi> you speak
                         of are as so many <hi>Hymns</hi> to the great God of Nature; And ther is a
-                        miraculous example in <note type="foot" corresp="Caesarius of Heisterbach" ana="An unusual reference to the late Cistercian monk and writer."
+                        miraculous example in <note type="foot" corresp="Heisterbach" ana="An unusual reference to the late Cistercian monk and writer, Caesarius von Heisterbach."
                                 ><hi>Caesarius Cisterniensis,</hi></note> how som of the holy
                         Eucharist being let fall in a medow by a Priest, as he was returning from
                         visiting a sick body, a Swarm of <hi>Bees</hi> being hard by took it up, and
@@ -7061,7 +7061,7 @@
                         <hi>Man</hi> hath more diseases than a horse, or any other creture. 98 </item>
                     <item> Of M[e]rchants. 70 </item>
                     <item>
-                        <sic>Marther</sic> strangely discover'd. 92 </item>
+                        <sic>Marther</sic><corr>Murder</corr> strangely discover'd. 92 </item>
                     <item> The marvellous continence of a <hi><persName corresp="#Saturnia">Saturnian</persName>.</hi> 94 </item>
                     <item>Of Monarchy. 98</item>
                     <item>Som generall Maxims of Policy may extend to all Countries. 99</item>
@@ -7153,7 +7153,7 @@
                     <item>
                         <pb facs="tcp:98502:93"/> Of Queen <hi>Artemesia,</hi> who rear'd a
                         wonderfull Monument for her husband <hi>Mausolus,</hi> and besides made her
-                        own Body his Tomb, by taking a <sic>doss</sic> every morning of his ashes.
+                        own Body his Tomb, by taking a <sic>doss</sic><corr>dose</corr> every morning of his ashes.
                         60 </item>
                 </list>
                 <list>

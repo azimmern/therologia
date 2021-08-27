@@ -52,38 +52,44 @@
     background: var(--light-blue);
   }
   
+  .sic, .correction {
+    padding: 5px;
+    text-align: center;
+    border-bottom: dashed 2px slategray;
+  }
+
+  .correction {
+    padding: auto;
+    background-color: slategray;
+    color: yellow;
+    display: block;
+  }
 
   /* cypher classes  */
   .cypher {
-    background: mistyrose;
+    background: lightskyblue;
     padding: .1rem .4rem .1rem .4rem;
     border-bottom: 1px dashed gray;
     cursor: pointer;
   }
   
   .decypher {
-    background: honeydew;
+    background: darkslategrey;
+    color: whitesmoke;
     padding: .1rem .4rem .1rem .4rem;
     border-bottom: 1px dashed gray;
     
   }
 
-  div {
-    box-shadow: small;
-  }
-
   .fable{
-    background: var(--nd-gold);
-  }
-  
-  #tab-content h5 {
-    color: maroon;
-    font-size: 1.4rem;
+    padding: .1rem,.4rem;
+    border-bottom: 1px dotted dodgerblue;
   }
 
 
 .footnote_btn {
-    text-decoration-line: underline;
+  padding: .1rem, .1 rem;  
+  border-bottom: 2px lightgrey;
     cursor:pointer;
     
 }
@@ -100,13 +106,13 @@
 
 .page_number{
   color: var(--graphite);
-  font-size: 1rem;
+  font-size: small;
   float: right;
   display: block;
 }
 
 .proverb{
-  text-decoration:dotted;
+  border-bottom: 1px dotted var(--trench-blue);
 }
 
 
@@ -118,16 +124,16 @@
 }
 
 .receipt{
-  background: var(--chocolate);
+  border-bottom: 1px dotted darkturquoise;
 }
 
 .section-title {
-  font-family: 'Garamond';
+  font-family: 'Garamond', italic;
 }
 
 .sic {
-  font-family:'Courier New', Courier, monospace;
-  cursor:pointer;
+  padding: .1rem, .1rem;
+  cursor: pointer;
 
 }
 
