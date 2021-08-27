@@ -83,13 +83,14 @@
 
   .fable{
     padding: .1rem,.4rem;
-    border-bottom: 1px dotted dodgerblue;
+    border-bottom: 2px dotted dodgerblue;
+    border-style:groove;
   }
 
 
 .footnote_btn {
   padding: .1rem, .1rem;  
-  border-bottom: 2px lightsteelblue;
+  border-bottom: 2px solid darkslategray;
   cursor: pointer;
     
 }
