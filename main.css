@@ -1,135 +1,286 @@
 :root {
-    /* root color variables allows you to use the name instead of hex values */
-    --bright-blue: #007bff;
-    --light-grey-body: #fafafa;
-    --ghost-white: #f5f5fA;
-    --alice-blue: aliceblue;
-    --slate-gray: lightslategray;
-    --silver: silver;
-    --graphite: #506578;
-    --trench-blue: #406885;
-    --light-blue: #d0e9fe;
-    --chocolate: rgb(210, 105, 30);
-    --maroon: #9c2b33;
-    --nd-blue: #20364c;
-    --nd-gold: #c99700;
-    --page-bg: #f7f9fa;
-    --light-gray: #e2e6ea;
-  }
-  
-  
-  body {
-    box-sizing: border-box;
-    font-size: 1rem;
-    background-color: whitesmoke;
-    /* background: var(--light-grey-body); */
-  }
-  
-  #toc,
-  #page-header 
-  {
-    font-family: 'Noto Serif', serif;
-  }
-
-  #tab-content
-  {
-    font-family:'Garamond';
-  }
+  /* root color variables allows you to use the name instead of hex values */
+  --bright-blue: #007bff;
+  --light-grey-body: #fafafa;
+  --ghost-white: #f5f5fA;
+  --alice-blue: aliceblue;
+  --slate-gray: lightslategray;
+  --silver: silver;
+  --graphite: #506578;
+  --trench-blue: #406885;
+  --light-blue: #d0e9fe;
+  --chocolate: rgb(210, 105, 30);
+  --maroon: #9c2b33;
+  --nd-blue: #20364c;
+  --nd-gold: #c99700;
+  --page-bg: #f7f9fa;
+  --light-gray: #e2e6ea;
+}
 
 
+body {
+  background-color: whitesmoke;
+  /* overflow: hidden; */
+}
+
+footer {
+  width: 100%;
+  height: 50%;
+  font-family: 'Gill Sans';
+  font-size: small;
+  line-height: normal;
+}
+
+footer div h3{
+  font-family:'Gill Sans';
+}
+footer div a{
+  font-family: 'IM Fell English';
+  font-size: medium;
+  color: whitesmoke;
+  text-decoration: none;
   
-  /* background and colors */
-  .bg-alice-blue {
-    background: #f6f7fb;
-  }
-  
+}
+
+footer div a:hover{
+  color:#9c2b33;
+}
+
+#download-buttons {
+  float: right;
+  justify-content: right;
+}
+
+#tablist {
+  font-family: 'IM Fell English';
+}
+
+
+.about {
+
+  background-image: url("https://lapietra.nyu.edu/wp-content/uploads/2019/07/Circe-detail.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 110vh;
+}
+
+.about h3 {
+  font-family:'IM Fell English';
+  color:#fafafa;
+}
+
+.about p,
+.about h4 {
+  font-family:'Gill Sans';
+  color:#fafafa;
+}
+
+.buffer {
+  width:100%;
+  height: 100px;
+  color: inherit;
+}
+
 /* font styling */
 .capital {
   font-size: 4rem;
 }
 
-  .citation{
-    background: var(--light-blue);
-  }
-  
-  .sic, .correction {
-    padding: 5px;
-    text-align: center;
-    border-bottom: dashed 2px slategray;
-  }
+.citation {
+  background: blue;
+}
 
-  .correction {
-    padding: auto;
-    background-color: slategray;
-    color: yellow;
-    display: block;
-  }
+.sic,
+.correction {
+  padding: 5px;
+  text-align: center;
+  border-bottom: dashed 2px slategray;
+}
 
-  /* cypher classes  */
-  .cypher {
-    background: lightskyblue;
-    padding: .1rem .4rem .1rem .4rem;
-    border-bottom: 1px dashed gray;
-    cursor: pointer;
-  }
-  
-  .decypher {
-    background: darkslategrey;
-    color: whitesmoke;
-    padding: .1rem .4rem .1rem .4rem;
-    border-bottom: 1px dashed gray;
-    
-  }
+.correction {
+  padding: auto;
+  background-color: slategray;
+  color: yellow;
+  display: block;
+}
 
-  .fable{
-    padding: .1rem,.4rem;
-    border-bottom: 2px dotted dodgerblue;
-    border-style:groove;
-  }
+/* cypher classes  */
+.cypher {
+  background: lightskyblue;
+  padding: .1rem .4rem .1rem .4rem;
+  cursor: pointer;
+}
+
+.decypher {
+  font-family: 'Gill Sans';
+  background: darkslategrey;
+  color: whitesmoke;
+  padding: .1rem .4rem .1rem .4rem;
+
+}
+
+.fable {
+  padding: .1rem, .4rem;
+  border-bottom: 2px dotted dodgerblue;
+  border-style: groove;
+}
 
 
 .footnote_btn {
-  padding: .1rem, .1rem;  
-  border-bottom: 2px solid darkslategray;
+  padding: .1rem, .1rem;
+  border-bottom: 1px solid darkslategray;
   cursor: pointer;
-    
 }
 
 .footnote {
   padding: .1rem, .4rem;
   background: lightgrey;
-  width:200px;
+  width: 100%;
+}
+
+.footnote h5{
+  font-family: 'Gill Sans MT';
+  font-size:small;
+}
+
+.footnote p{
+  font-family: 'IM Fell English', italic;
+  font-size: inherit;
+}
+
+.footnote-close {
+  font-family: 'Gill Sans';
+  font-variant: small-caps;
+  float:left;
+  bottom:100%;
+}
+
+.home {
+  font-family: 'Gill Sans';
+  color: whitesmoke;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e6/%27The_Kingdom_of_Sorceress_Circe%27_by_Angelo_Caroselli_and_Pseudo_Caroselli.jpg");
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 110vh;
+}
+
+.home div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  font-family: "IM Fell English";
+}
+
+.home div p {
+  font-family: "Gill Sans";
+}
+
+.key-to-morphandra{
+  text-align: center;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  width: 100%;
+  height: 60px;
+  line-height: 1.6;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  width: 100%;
+  align-items:center;
+  font-family:'Gill Sans';
+}
+
+.navbar ul li{
+  margin: 0 1rem;
+  padding: 1rem;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.navbar ul li a {
+  align-items:center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #f4f4f4;
+}
+
+.navbar ul li a:hover {
+  color: skyblue;
+}
+
+
+.nav-item {
+  border-bottom: .5px solid gray;
+  font-family: 'Gill Sans';
+  font-size: medium;
+  color: gray;
 }
 
 .original_italics {
-  font-style:italic;
+  font-style: italic;
 }
 
-.page_number{
+.page_number {
   color: var(--graphite);
+  font-family: 'Gill Sans';
   font-size: small;
-  float: right;
   display: block;
+  text-align: center;
 }
 
-.proverb{
+.proverb {
   border-bottom: 1px dotted var(--trench-blue);
 }
 
 
-
-.q{
+.q {
   display: block;
   padding: .1rem .4rem;
   border-bottom: 1px gray;
 }
 
-.receipt{
+.receipt {
   border-bottom: 1px dotted darkturquoise;
 }
 
+section {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: center; */
+  width:100%;
+}
+
+section h1 {
+  font-size: 4rem;
+}
+
+section p {
+  font-size: 1.5rem;
+}
+
+
 .section-title {
-  font-family: 'Garamond', italic;
+  font-family: 'Gill Sans';
 }
 
 .sic {
@@ -139,35 +290,36 @@
 }
 
 .speaker {
-    font-weight:bold;
-    display:block;
+  font-family: 'Gill Sans';
+  display: block;
+  text-align: center;
 }
 
 .speech-act {
-    font-weight:normal;
+  font-weight: normal;
 }
 
-.stage{
-  display:block;
+.stage {
+  display: block;
+  font-family: 'Gill Sans';
+  text-align: center;
 
 }
 
 .summary {
-  font-variant:small-caps;
+  font-variant: small-caps;
+  text-align: center;
 }
 
-.triangle-up {
-  width:0;
-  height:0;
-  border-left:10px solid transparent;
-  border-right:10px solid transparent;
-  border-bottom: 20px solid #555;
-  border-top: 20px solid transparent;
-  cursor: pointer;
-  display: inline;
-
+.title-page {
+  text-align: center;
 }
 
-
-
+.vl {
+  border-left: 1px solid whitesmoke;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+}
 

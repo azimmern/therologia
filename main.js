@@ -1,12 +1,12 @@
 $(document).ready(function () {
-  
-  $(".sic").on("click", function(){
-    if($(this).next(".correction").hasClass("d-none")){
+
+  $(".sic").on("click", function () {
+    if ($(this).next(".correction").hasClass("d-none")) {
       $(this).next(".correction").slideToggle("slow").removeClass("d-none");
     } else {
       $(this).next(".correction").slideToggle("slow").addClass("d-none");
     }
-    });
+  });
 
   // Show all and hide all
   $(".toggle-cypher-button").on("click", function () {
@@ -16,12 +16,12 @@ $(document).ready(function () {
       // show all the things with class of decypher
       $(".decypher").removeClass("d-none").css("display", "inline");
       // change the text in the button to hide all
-      $("#toggle-cypher-button").text("Hide all");
+      $("#toggle-cypher-button").text("hide all");
     } else {
       // Hide all the things with class of decypher
       $(".decypher").addClass("d-none").css("display", "none");
       // change the text in the button to hide all
-      $("#toggle-cypher-button").text("Decypher all");
+      $("#toggle-cypher-button").text("decode all");
     }
 
   });
@@ -52,7 +52,7 @@ $(document).ready(function () {
   //});
 
 
-// The footnote happen here -- writeIt takes the data-footnote content from anything with class footnote_btn and, upon clicking, removes the d-none class. The .footnote-close function gives the d-none class back.
+  // The footnote happen here -- writeIt takes the data-footnote content from anything with class footnote_btn and, upon clicking, removes the d-none class. The .footnote-close function gives the d-none class back.
   var writeIt = "";
 
   $(".footnote_btn").on("click", function () {
@@ -68,7 +68,19 @@ $(document).ready(function () {
     $(this).parent().addClass("d-none");
   });
 
-  
+  $('.navbar a').on('click', function (e) {
+    if (this.hash !== '') {
+      e.preventDefault();
+
+      const hash = this.hash;
+
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800);
+    }
+  });
+
+
 
 
 
