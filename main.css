@@ -48,8 +48,9 @@ footer div a:hover{
 }
 
 #back-to-top {
-  display:initial;
-  position: fixed;
+  float:right;
+  margin:right 10px;
+  position: relative;
   bottom: 50%;
   z-index: 99;
   border: none;
