@@ -1,11 +1,27 @@
 $(document).ready(function () {
 
+  //Sic/Correction clicking function
   $(".sic").on("click", function () {
     if ($(this).next(".correction").hasClass("d-none")) {
       $(this).next(".correction").slideToggle("slow").removeClass("d-none");
     } else {
       $(this).next(".correction").slideToggle("slow").addClass("d-none");
     }
+  });
+
+  // Back to top button ----------------------------------------------------------
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 100) {
+      $('#back-to-top').fadeIn("fast");
+    } else {
+      $('#back-to-top').fadeOut("fast");
+    }
+  });
+  $('#back-to-top').click(function() {
+    $("html, body").animate({
+      scrollTop: 0
+    }, 400);
+    return false;
   });
 
   // Show all and hide all
