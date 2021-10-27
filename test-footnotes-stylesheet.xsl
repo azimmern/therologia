@@ -73,35 +73,6 @@
             </xsl:if>
 
         </xsl:for-each>
-
-
-        <xsl:for-each
-            select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:particDesc/tei:listPerson/tei:person">
-            
-            <xsl:if test="matches(substring-after($currentCorresp, '#'), .)">
-            <xsl:choose>
-                <xsl:when test="matches(substring-after($currentCorresp, '#'), .)">
-                    <note type="foot">
-                        <xsl:attribute name="ana" select="$currentAna"/>
-                        <persName xmlns="tei" type="reference">
-                            <xsl:attribute name="ref" select="$currentCorresp"/>
-                            <xsl:value-of select="."/>
-                            <xsl:apply-templates/>
-                        </persName>
-                    </note>
-
-                </xsl:when>
-                <xsl:otherwise>
-                    <persName xmlns="tei" type="reference">
-                        <xsl:attribute name="ref" select="$currentCorresp"/>
-                        <xsl:value-of select="."/>
-                        <xsl:apply-templates/>
-                    </persName>
-                </xsl:otherwise>
-            </xsl:choose>
-            </xsl:if>
-        </xsl:for-each>
-
     </xsl:template>
 
     <xsl:template match="tei:placeName[@corresp != '']">
