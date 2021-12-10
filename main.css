@@ -179,7 +179,7 @@ footer div a:hover{
   font-family: 'Gill Sans';
   font-variant: small-caps;
   float:left;
-  bottom:100%;
+  padding: 5px;
 }
 
 .home {
