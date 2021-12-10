@@ -76,7 +76,7 @@ $(document).ready(function () {
 
   $(".footnote_btn").on("click", function () {
 
-    writeIt = $(this).data("footnote");
+    writeIt = $(this).data("id");
     // $("#footnote-card").html(writeIt);
 
     $(writeIt).removeClass("d-none");
