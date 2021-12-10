@@ -109,7 +109,7 @@
                 <section id="text">
                     <div class="buffer"/>
                     <div class="row">
-                        <div class="col-sm-2">
+                        <div class="col-sm-2 sticky-top h-100">
                             <ul class="nav flex-column nav-pills" role="tablist">
                                 <li class="nav-item">
                                     <a class="nav-link active" href="#panel3733645"
@@ -342,47 +342,71 @@
                         </div>
 
                         <div class="col-sm-3 sticky-top h-100" id="footnotelist">
-                            <ul class="list-group list-group-flush">
-
-                                <xsl:for-each select="/tei:TEI/tei:text/tei:note">
-                                    <xsl:variable name="currentNoteType" select="@type"/>
-                                    <xsl:variable name="currentNoteAuthor" select="@resp"/>
-                                    <xsl:variable name="id" select="@xml:id"/>
-
-
-
-                                    <xsl:choose>
-                                        <xsl:when test="matches($currentNoteType, 'editorial')">
-                                            <li class="footnote list-group-item d-none">
-                                                <xsl:attribute name="id">
-                                                  <xsl:value-of select="$id"/>
-                                                </xsl:attribute>
-                                                <p type="button"
-                                                  class="footnote-close float-left ml-3">x</p>
-
-                                                <h5 class="d-inline-block">
-                                                  <xsl:value-of select="$id"/>
-                                                </h5>
-                                                <p>
-                                                  <xsl:value-of select="."/>
-                                                </p>
-
-                                                <xsl:for-each
-                                                  select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt/tei:name">
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="matches($currentNoteAuthor, ./@xml:id)">
-                                                  <h6>note written by <xsl:value-of select="."
-                                                  /></h6>
-                                                  </xsl:when>
-                                                  </xsl:choose>
-                                                </xsl:for-each>
-
-                                            </li>
-                                        </xsl:when>
-                                    </xsl:choose>
-                                </xsl:for-each>
-                            </ul>
+                            
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="btn-group float-left pt-5" role="group" aria-label="Button Group">
+                                        <button
+                                            type="button" class="btn btn-primary toggle-cypher-button"
+                                            id="toggle-cypher-button">decode all
+                                        </button>
+                                        <a role="button" id="back-to-top" class="btn float-left mt-5"> 
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-up-circle" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
+                                            </svg>
+                                        </a>
+                                    </div>
+                                    
+                                    
+                                    <ul class="list-group list-group-flush">
+                                        
+                                        <xsl:for-each select="/tei:TEI/tei:text/tei:note">
+                                            <xsl:variable name="currentNoteType" select="@type"/>
+                                            <xsl:variable name="currentNoteAuthor" select="@resp"/>
+                                            <xsl:variable name="id" select="@xml:id"/>
+                                            
+                                            
+                                            
+                                            <xsl:choose>
+                                                <xsl:when test="matches($currentNoteType, 'editorial')">
+                                                    <li class="footnote list-group-item d-none">
+                                                        <xsl:attribute name="id">
+                                                            <xsl:value-of select="$id"/>
+                                                        </xsl:attribute>
+                                                        <p type="button"
+                                                            class="footnote-close float-left ml-3">x</p>
+                                                        
+                                                        <h5 class="d-inline-block">
+                                                            <xsl:value-of select="$id"/>
+                                                        </h5>
+                                                        <p>
+                                                            <xsl:value-of select="."/>
+                                                        </p>
+                                                        
+                                                        <xsl:for-each
+                                                            select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt/tei:name">
+                                                            <xsl:choose>
+                                                                <xsl:when
+                                                                    test="matches($currentNoteAuthor, ./@xml:id)">
+                                                                    <h5>by <xsl:value-of select="."
+                                                                    /></h5>
+                                                                </xsl:when>
+                                                            </xsl:choose>
+                                                        </xsl:for-each>
+                                                        
+                                                    </li>
+                                                </xsl:when>
+                                            </xsl:choose>
+                                        </xsl:for-each>
+                                    </ul>
+                                </div>
+                                
+                                
+                                
+                                
+                            </div>
+                            
+                            
                         </div> 
                     </div>
                     <div class="buffer"/>
@@ -524,7 +548,7 @@
             <xsl:when test="matches($currentNoteType, 'editorial')">
                 <span>
                     <xsl:attribute name="class">footnote_btn</xsl:attribute>
-                    <xsl:attribute name="id"><xsl:value-of select="@target"/></xsl:attribute>
+                    <xsl:attribute name="data-id"><xsl:value-of select="@target"/></xsl:attribute>
                     <xsl:apply-templates/>
                 </span>
                 
@@ -550,7 +574,6 @@
         <xsl:apply-templates/>
         <br/>
     </xsl:template>
-    
 <!--    After every line, add a line-break    -->
     <xsl:template match="tei:l">
         <xsl:apply-templates/>
@@ -571,6 +594,7 @@
     <xsl:template match="tei:q">
         <span>
             <xsl:attribute name="class">q</xsl:attribute>
+            <xsl:apply-templates/>
         </span>
     </xsl:template>
     
@@ -700,6 +724,29 @@
     
     <xsl:template match="tei:placeName">
         
+        <xsl:variable name="currentplaceName" select="."/>
+        <xsl:variable name="currentRef" select="@ref"/>
+        <xsl:for-each
+            select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc/tei:listPlace/tei:place/@xml:id">
+            <xsl:if test="matches(substring-after($currentRef, '#'), .)">
+                
+                <span>
+                    <xsl:attribute name="class">cypher</xsl:attribute>
+                    <xsl:value-of select="$currentplaceName"/>
+                </span>
+                <span>
+                    <xsl:attribute name="class">decypher d-none</xsl:attribute>
+                    <xsl:value-of select="../tei:placeName"/>
+                </span>
+                
+            </xsl:if>
+        </xsl:for-each>
+    </xsl:template>
+    
+<!-- Do the same for the tei:names-->
+    
+    <xsl:template match="tei:name[type='cypher']">
+        <xsl:variable name="currentName" select="."/>
         <xsl:variable name="currentPlace" select="@ref"/>
         <xsl:for-each
             select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc/tei:listPlace/tei:place/@xml:id">
@@ -707,11 +754,12 @@
                 
                 <span>
                     <xsl:attribute name="class">cypher</xsl:attribute>
-                    <xsl:value-of select="."/>
+                    <xsl:value-of select="$currentName"/>
                 </span>
                 <span>
                     <xsl:attribute name="class">decypher d-none</xsl:attribute>
-                    <xsl:value-of select="../tei:placeName"/>
+                    <xsl:value-of select="../tei:place/tei:note/tei:w[type='adjectival']"/>
+                   
                 </span>
                 
             </xsl:if>
@@ -736,6 +784,9 @@
         <xsl:for-each
             select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc/tei:listPlace/tei:place/@xml:id">
             
+            <xsl:variable name="pluralPersName" select="../tei:note/tei:w[@subtype='plural']"/>
+            <xsl:variable name="singularPersName" select="../tei:note/tei:w[@subtype='singular']"/>
+            
             <xsl:if test="matches(substring-after($currentRef, '#'), .)">
                 
                 <xsl:choose>
@@ -748,7 +799,7 @@
                         </span>
                         <span>
                             <xsl:attribute name="class">decypher d-none</xsl:attribute>
-                            <xsl:value-of select="../tei:note/tei:w/@subtype='plural'"/>
+                            <xsl:value-of select="$pluralPersName"/>
                         </span>
                         
                     </xsl:when>
@@ -762,7 +813,7 @@
                         </span>
                         <span>
                             <xsl:attribute name="class">decypher d-none</xsl:attribute>
-                            <xsl:value-of select="../tei:note/tei:w/@subtype='singular'"/>
+                            <xsl:value-of select="$singularPersName"/>
                         </span>
                     </xsl:when>
                 </xsl:choose>
@@ -771,6 +822,10 @@
             </xsl:if>
             
         </xsl:for-each>
+        
+        <xsl:if test="not($currentRef) and not($currentSubtype)">
+            <xsl:apply-templates/>
+        </xsl:if>
     </xsl:template>
 
         
