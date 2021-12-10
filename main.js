@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
+  //Sic/Correction clicking function
   $(".sic").on("click", function () {
     if ($(this).next(".correction").hasClass("d-none")) {
       $(this).next(".correction").slideToggle("slow").removeClass("d-none");
@@ -7,6 +8,24 @@ $(document).ready(function () {
       $(this).next(".correction").slideToggle("slow").addClass("d-none");
     }
   });
+
+  // Back to top button ----------------------------------------------------------
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 1200) {
+      $('#back-to-top').fadeIn("fast");
+    } else {
+      $('#back-to-top').fadeOut("fast");
+    }
+  });
+  $('#back-to-top').click(function() {
+
+    $("html, body").animate({
+      scrollTop: 750
+    }, 400);
+    return false;
+  });
+
+  
 
   // Show all and hide all
   $(".toggle-cypher-button").on("click", function () {
@@ -68,6 +87,8 @@ $(document).ready(function () {
     $(this).parent().addClass("d-none");
   });
 
+
+  // smooth scroll to section
   $('.navbar a').on('click', function (e) {
     if (this.hash !== '') {
       e.preventDefault();
