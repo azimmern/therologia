@@ -20,7 +20,6 @@
 
 body {
   background-color: whitesmoke;
-  /* overflow: hidden; */
 }
 
 footer {
@@ -74,6 +73,9 @@ footer div a:hover{
   font-size: 1rem;
 }
 
+#toc{
+  position: fixed;
+}
 #toc li {
   font-family: 'Gill Sans';
   text-transform: 'uppercase';

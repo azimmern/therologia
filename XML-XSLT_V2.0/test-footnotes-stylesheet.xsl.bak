@@ -12,11 +12,11 @@
         <xsl:text>&#x0A;</xsl:text>
 
         <xsl:element name="{name()}" xmlns="tei">
-            <!--            <xsl:copy-of select="@* | node()"/>-->
+<!--            <xsl:copy-of select="@* | node()"/>-->
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
-
+    
     <xsl:template match="/">
         <xsl:apply-templates/>
     </xsl:template>
@@ -86,7 +86,7 @@
     </xsl:template>
 
 
-    <!--Transform each note tag of type="foot" in the text into a ref tag, 
+<!--Transform each note tag of type="foot" in the text into a ref tag, 
         use its current label as a target that points to a matching editorial "endnote"-->
     <xsl:template match="tei:note[@type eq 'foot']">
         <xsl:variable name="label" select="./@corresp"/>
@@ -108,7 +108,7 @@
                     <xsl:when test="contains($label, '#')">
                         <note type="editorial" resp="#AZ">
                             <xsl:attribute name="xml:id">
-                                <xsl:value-of select="$no-hashtag-label"/>
+                            <xsl:value-of select="$no-hashtag-label"/>
                             </xsl:attribute>
                             <xsl:value-of select="./@ana"/>
                         </note>
