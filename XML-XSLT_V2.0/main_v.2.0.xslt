@@ -110,7 +110,7 @@
                     <div class="buffer"/>
                     <div class="row">
                         <div class="col-sm-2 sticky-top h-100">
-                            <ul class="nav flex-column nav-pills" role="tablist">
+                            <ul class="nav flex-column nav-pills" role="tablist" id="toc">
                                 <li class="nav-item">
                                     <a class="nav-link active" href="#panel3733645"
                                         data-toggle="tab">Title Page</a>
@@ -356,7 +356,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-3 sticky-top h-100" id="footnotelist">
+                        <div class="col-sm-4 sticky-top h-100" id="footnotelist">
 
                             <div class="row">
                                 <div class="col-12">
@@ -371,8 +371,8 @@
                                     <ul class="list-group list-group-flush">
                                         
                                         <li class="footnote list-group-item d-none" name="sample_footnote">
-                                            <p type="button"
-                                                class="footnote-close float-left ml-3">x</p>
+                                            <div type="button"
+                                                class="footnote-close float-left">x</div>
                                             <h5>Sample footnote</h5>
                                             <p>Notes will look something like this.</p>
                                             <h5>You'll see the name of the annotator here.</h5>
@@ -393,8 +393,8 @@
                                                   <xsl:attribute name="id">
                                                   <xsl:value-of select="$id"/>
                                                   </xsl:attribute>
-                                                  <p type="button"
-                                                  class="footnote-close float-left ml-3">x</p>
+                                                  <div type="button"
+                                                  class="footnote-close">x</div>
 
                                                   <h5 class="d-inline-block">
                                                   <xsl:value-of select="$id"/>
@@ -497,7 +497,7 @@
                                 <h3>About the Editing</h3>
                                 <br/>
                                 <p>Minimally encoded XML of the text was provided by the Oxford Text Archive, on top of which other interactive features were built. <br/>For instance,<span class="footnote_btn" ref="none">Continuously underlined text</span> is clickable and opens an associated scholarly note in the margin, which will remain open until closed by the reader. Dotted underlines indicate a proverb or quote, usually one of Howell's invention or adaptation.</p><br/>
-                                <p>Additionally, clicking on any blue-highlighted special codename for persons and places, such as this one <span class="cypher" ref="#Tumontia">Tumontia</span> will reveal its decyphered analogue, in this case: <span class="decpyher d-none">Spain</span>.</p>  
+                                <p>Additionally, clicking on any blue-highlighted special codename for persons and places, such as this one <span class="cypher" ref="#Tumontia">Tumontia</span> will reveal its decyphered analogue: <span class="decpyher d-none">Spain</span>. <br/>Click on the blue text again to hide the decoding.</p>  
                             </div>
                             
                             
@@ -779,7 +779,7 @@
 
     <!-- Do the same for the tei:names-->
 
-    <xsl:template match="tei:name[type = 'cypher']">
+    <xsl:template match="tei:name[@type = 'cypher']">
         <xsl:variable name="currentName" select="."/>
         <xsl:variable name="currentPlace" select="@ref"/>
         <xsl:for-each
@@ -792,7 +792,7 @@
                 </span>
                 <span>
                     <xsl:attribute name="class">decypher d-none</xsl:attribute>
-                    <xsl:value-of select="../tei:place/tei:note/tei:w[type = 'adjectival']"/>
+                    <xsl:value-of select="../tei:place/tei:note/tei:w[@type = 'adjectival']"/>
 
                 </span>
 

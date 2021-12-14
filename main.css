@@ -48,7 +48,7 @@ footer div a:hover{
 
 #back-to-top {
   position: absolute;
-  z-index: 99;
+  z-index: 98;
   border: none;
   outline: none;
   background-color: var(--bright-blue);
@@ -73,9 +73,6 @@ footer div a:hover{
   font-size: 1rem;
 }
 
-#toc{
-  position: fixed;
-}
 #toc li {
   font-family: 'Gill Sans';
   text-transform: 'uppercase';
@@ -197,7 +194,7 @@ footer div a:hover{
 }
 
 .footnote {
-  padding: .1rem, .4rem;
+  padding: .1rem, .1rem;
   background: lightgrey;
   width: 100%;
 }
@@ -205,18 +202,19 @@ footer div a:hover{
 .footnote h5{
   font-family: 'Gill Sans MT';
   font-size:small;
+  text-align: center;
 }
 
 .footnote p{
-  font-family: 'IM Fell English', italic;
-  font-size: inherit;
+  font-family: 'IM Fell English';
+  font-size: smaller;
 }
 
 .footnote-close {
   font-family: 'Gill Sans';
   font-variant: small-caps;
   float:left;
-  padding: 5px;
+  padding: 1px;
 }
 
 .home {

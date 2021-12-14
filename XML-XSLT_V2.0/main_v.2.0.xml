@@ -8075,24 +8075,24 @@
                 <pb facs="tcp:98502:94"/>
             </div>
         </back>
-        <note type="editorial" resp="#AZ" xml:id="Howell">Some stuff about James Howell</note>
-        <note type="editorial" resp="#AZ" xml:id="senesco">Some stuff about this phrase.</note>
-        <note type="editorial" resp="#AZ" xml:id="Wilson">Some stuff about William Wilson.</note>
-        <note type="editorial" resp="#AZ" xml:id="Palmer">Some stuff about William Palmer.</note>
+        <note type="editorial" resp="#AZ" xml:id="Howell">The Anglo-Welsh historian and historiographer James Howell (c.1594-1666) is an iconic figure of the 17th-century republic of letters. He befriended numerous intellectual figures including Ben Jonson, Kenelm Digby, and William Harvey. He served time in prison for his Royalist views under the Cromwellian regime. He is best remembered for his <hi>Familiar Letters</hi> or <hi>Epistolae Ho-Elianae</hi> and for his interests in European linguistics exemplified in his four-language dictionary <hi>Lexicon Tetraglotton</hi>.</note>
+        <note type="editorial" resp="#AZ" xml:id="senesco"> Howell's motto, printed on the title-pages of most of his  works, translates to "I grow old, I do not grow weary," a testament to his prolific publishing career.</note>
+        <note type="editorial" resp="#AZ" xml:id="Wilson">W[illiam?] Wilson was one of two known printers at the Palm Tree near Saint Dunstan's Church in Fleetstreet, where Howell published in quick succession <hi>Therologia</hi> and the fourth edition of his prophetic work on the late Long Parliament entitled <hi>Philanglus</hi> (1660) and a re-print of <hi>Dodona's Grove</hi>. The other printer is known to history only as T. L. For a comprehensive bibliography, see Joseph Jacobs's <hi>The Familiar Letters of James Howell</hi>(London, 1892).</note>
+        <note type="editorial" resp="#AZ" xml:id="Palmer">William Palmer, bookseller at the Palm Tree in Fleetstreet, was involved in the publication of the fourth edition on <hi>Philanglus</hi> (1600), a French translation of <hi>Dodona's Grove</hi>, and works of occult medicine as well as theology, including the polemical anti-Puritan works of Peter Heylyn (1599-1662). These neighbors on the bookshelf provide a glimpse of the intellectual frame that surrounded Therologia at its first issue.</note>
         <note type="editorial" resp="#AZ" xml:id="carine">From the latin 'carina' and French
-            'carine,' meaning the keel of a boat. Howell added the word to Thomas Blount's 1656
-            dictionary <hi>Glossographia</hi> and may have been intent on getting it into common
-            use. It is now obsolete.</note>
+            'carine,' meaning the keel of a boat. Howell added the word to Thomas Blount's 
+            dictionary <hi>Glossographia</hi> (1656) and may have been intent on getting it into common
+            use.</note>
         <note type="editorial" resp="#AZ" xml:id="sciolist">From the latin 'sciolus,' meaning a
             person, usually an editor, of superficial knowledge; a pretender to knowledge. Used with
-            some irony here, as Thomas Blount's preface to Glossographia (To Reader,sig. A4)
-            complains about 'Every..homebred Sciolist being at liberty..to coyn and innovate new
-            Words.'</note>
+            some irony here, as Thomas Blount's preface to <hi>Glossographia</hi> (To Reader,sig. A4)
+            complains about 'Every homebred Sciolist being at liberty to coyn and innovate new
+            Words,' as Howell mischievously does all throughout <hi>Therologia</hi>.</note>
         <note type="editorial" resp="#AZ" xml:id="Balaam">Howell, understandably, alludes repeatedly
-            to the Biblical tale of Balaam's Ass, especially in his chapter on the Ass or French
+            to the Biblical tale of Balaam's Ass, especially in his chapter on the Artorian Ass or French
             peasant.</note>
         <note type="editorial" resp="#AZ" xml:id="Aesop">The Phyrgian Fabler refers to the classical
-            poet Aesop</note>
+            poet and writer of fabls, Aesop.</note>
         <note type="editorial" resp="#AZ" xml:id="Bracciolini">Poggio Bracciolini, clearly held in
             high esteem as one of two 'ingenious' Florentines who inspired the
             <hi>Therologia</hi>.</note>
@@ -8167,7 +8167,7 @@
         <note type="editorial" resp="#AZ" xml:id="immarcescible"/>
         <note type="editorial" resp="#AZ" xml:id="encia">Another Occamist maxim</note>
         <note type="editorial" resp="#AZ" xml:id="topicalrule">William Occam's topical rule.</note>
-        <note type="editorial" resp="#AZ" xml:id="macarell">A Procuress or pimp, from the French
+        <note type="editorial" resp="#AZ" xml:id="macarell">A procuress or pimp, from the French
                 <hi>maquerelle</hi></note>
     </text>
 </TEI>

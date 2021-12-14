@@ -71,16 +71,17 @@ $(document).ready(function () {
   //});
 
 
-  // The footnote happen here -- writeIt takes the data-footnote content from anything with class footnote_btn and, upon clicking, removes the d-none class. The .footnote-close function gives the d-none class back.
+  // The footnotes happen here -- writeIt takes the data-footnote content from anything with class footnote_btn and, upon clicking, removes the d-none class. The .footnote-close function gives the d-none class back.
   var writeIt = "";
 
   $(".footnote_btn").on("click", function () {
 
     writeIt = $(this).data("id");
-    // $("#footnote-card").html(writeIt);
-
+    if (!$(writeIt).hasClass("d-none")) {
+      $(writeIt).addClass("d-none");
+    } else {
     $(writeIt).removeClass("d-none");
-
+    }
   });
 
   $(".footnote-close").on("click", function () {
