@@ -3,15 +3,15 @@ $(document).ready(function () {
   //Sic/Correction clicking function
   $(".sic").on("click", function () {
     if ($(this).next(".correction").hasClass("d-none")) {
-      $(this).next(".correction").slideToggle("slow").removeClass("d-none");
+      $(this).next(".correction").slideToggle("fast").removeClass("d-none");
     } else {
-      $(this).next(".correction").slideToggle("slow").addClass("d-none");
+      $(this).next(".correction").slideToggle("fast").addClass("d-none");
     }
   });
 
   // Back to top button ----------------------------------------------------------
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 1200) {
+    if ($(this).scrollTop() > 1100){
       $('#back-to-top').fadeIn("fast");
     } else {
       $('#back-to-top').fadeOut("fast");
@@ -20,10 +20,33 @@ $(document).ready(function () {
   $('#back-to-top').click(function() {
 
     $("html, body").animate({
-      scrollTop: 750
+      scrollTop: 1100
     }, 400);
     return false;
   });
+
+  // $(document).scroll(function() {
+  //   $(".body").sectionsnap({
+  //   // time dilay (ms)
+  //   'delay': 100, 
+    
+  //   // selector
+  //   'selector': ".section", 
+    
+  //   // % of window height from which we start
+  //   'reference': .9, 
+    
+  //   // animation time (snap scrolling)
+  //   'animationTime': 400, 
+    
+  //   // offset top (no snap before scroll reaches this position)
+  //   'offsetTop': 0,
+    
+  //   // offset bottom (no snap after bottom - offsetBottom)
+  //   'offsetBottom': 0 
+  //   });
+  // });
+
 
   
 

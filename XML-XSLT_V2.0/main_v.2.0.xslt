@@ -109,7 +109,7 @@
                 <section id="text">
                     <div class="buffer"/>
                     <div class="row">
-                        <div class="col-sm-2 sticky-top h-100">
+                        <div class="col-sm-2 sticky-top">
                             <ul class="nav flex-column nav-pills" role="tablist" id="toc">
                                 <li class="nav-item">
                                     <a class="nav-link active" href="#panel3733645"
@@ -181,11 +181,11 @@
                                         >Section 11 - Bees</a>
                                 </li>
                             </ul>
-
-                            <div role="button_group">
-                                <br/>
-                                <br/>
-                                <a role="button" id="back-to-top" class="btn float-left mt-5">
+                        </div>
+                        
+                        <div class="col-sm-1 sticky-top">
+                            
+                                <a role="button" id="back-to-top" class="btn">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
                                         fill="currentColor" class="bi bi-arrow-up-circle"
                                         viewBox="0 0 16 16">
@@ -194,10 +194,10 @@
                                         />
                                     </svg>
                                 </a>
-                            </div>
-
+                            
                         </div>
-                        <div class="col-sm-6">
+                        
+                        <div class="col-sm-5">
                             <div class="tab-content" id="tablist">
 
                                 <!-- Now run a loop on each div in the "front" part of the text, 
@@ -373,18 +373,15 @@
                                         <li class="footnote list-group-item d-none" name="sample_footnote">
                                             <div type="button"
                                                 class="footnote-close float-left">x</div>
-                                            <h5>Sample footnote</h5>
+                                            <h5>Sample footnote title</h5>
                                             <p>Notes will look something like this.</p>
-                                            <h5>You'll see the name of the annotator here.</h5>
-                                            
+                                            <h5>The name of the annotator goes here.</h5>
                                         </li>
 
                                         <xsl:for-each select="/tei:TEI/tei:text/tei:note">
                                             <xsl:variable name="currentNoteType" select="@type"/>
                                             <xsl:variable name="currentNoteAuthor" select="@resp"/>
                                             <xsl:variable name="id" select="@xml:id"/>
-
-
 
                                             <xsl:choose>
                                                 <xsl:when
@@ -440,7 +437,7 @@
                             <div class="col-sm-6">
                                 <h3>About the Text</h3>
                                 <br/>
-                                <p>If James Howell had to wager that one of his many works would go
+                                <p>If James Howell had to wager that one of his works would go
                                     on to be of value to futurity, he would certainly not have gone
                                     with his <em>Therologia</em>. His magnum opus, the <em>Familiar
                                         Letters</em>, would have been a safer bet. Be that as it
@@ -452,26 +449,26 @@
                                     Anthropocene and others, more cynically, will call the
                                     Misanthropocene. Howell's tale of Pererius, the wandering
                                     philosophical Ulysses seeking to restore humans back to their
-                                    proper shape and stature is full of mischief for anyone who
+                                    proper shape and stature, is full of mischief for anyone who
                                     wishes to see humanity as headed solely in one damned direction.
-                                    <br/><br/>Across Howell's dialogues, one never knows with whom
-                                    to side, the humanist in search of humanity or the beasts taking
+                                    On the island of Morphandra, one never knows with whom
+                                    to side: the humanist in search of humanity or the misanthropes taking
                                     refuge in the innocence of animality. Along the way, Howell
                                     offers readers a valuable omnium-gatherum of political and
                                     economic history, natural philosophy, theology, and medicine
                                     akin to better-known works like Robert Burton's <em>Anatomy of
                                         Melancholy</em> or Thomas Browne's <em>Pseudodoxia
-                                        Epidemica</em>. He does so, however, with characteristic
+                                        Epidemica</em>. He does so, however, with a characteristic
                                     flair for languages, etymologies, puns, and neologisms that grew
                                     out of his extensive travels. In this tale of humans giving up
                                     on humanity, it is hard not to see Howell as responding to the
-                                    world-weary with a babble of new tongues and a world of
+                                    world-weary with a babble of new tongues, a world of
                                     reinvented names. His is not so much a discourse of "hope for
                                     humanity" as a desire to refresh human discourse itself. In this
-                                    edition, his "feigned words" have been decoded, his neologisms
+                                    edition, his feigned words have been decoded, his neologisms
                                     and neo-proverbs underlined, and his many puns and references
-                                    made explicit. It is not merely to ease the path for readers,
-                                    but to help them stop and appreciate Howell's recreational (or
+                                    made explicit, not merely to ease the path for first-time readers,
+                                    but to help all readers stop and appreciate Howell's recreational (or
                                     rather re-creational) linguistics. I hope you enjoy.</p>
                             </div>
                             <div class="vl"/>
@@ -496,8 +493,8 @@
                             <hr/>
                                 <h3>About the Editing</h3>
                                 <br/>
-                                <p>Minimally encoded XML of the text was provided by the Oxford Text Archive, on top of which other interactive features were built. <br/>For instance,<span class="footnote_btn" ref="none">Continuously underlined text</span> is clickable and opens an associated scholarly note in the margin, which will remain open until closed by the reader. Dotted underlines indicate a proverb or quote, usually one of Howell's invention or adaptation.</p><br/>
-                                <p>Additionally, clicking on any blue-highlighted special codename for persons and places, such as this one <span class="cypher" ref="#Tumontia">Tumontia</span> will reveal its decyphered analogue: <span class="decpyher d-none">Spain</span>. <br/>Click on the blue text again to hide the decoding.</p>  
+                                <p>Minimally encoded XML of the text was provided by the Oxford Text Archive, on top of which other interactive features were built in TEI-XML, Bootstrap, and JQuery. <br/>For instance, clicking on any blue-highlighted codename such as this one <span class="cypher" ref="#Tumontia">Tumontia</span> will reveal its decyphered analogue: <span class="decpyher d-none">Spain</span>. <br/>Click on the blue text again to hide the decoding. Use the Decode All/Hide All button to facilitate your reading and searching. Clicking on underlined text will open an associated scholarly note in the margin, while dotted underlining indicates a proverb or quote, usually one of Howell's invention or adaptation.</p>
+                                <br/> 
                             </div>
                             
                             
@@ -544,25 +541,24 @@
 
                             <div class="col-sm-4" id="download-buttons">
                                 <!-- GITHUB REPO LINK -->
-                                <button type="button" class="btn btn-primary px-3"
-                                    href="https://azimmern.github.io/therologia/"><svg
+                                <a href="https://github.com/azimmern/therologia"><button type="button" class="btn btn-primary px-3"><svg
                                         xmlns="http://www.w3.org/2000/svg" width="50" height="50"
                                         fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
                                         <path
                                             d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"
                                         />
-                                    </svg> | fork on GitHub</button>
+                                    </svg> | fork on GitHub</button></a>
 
 
-                                <button type="button" class="btn btn-primary px-3" href="main.xml"
-                                    download="therologia.xml"><svg
+                                <a download="XML-XSLT_V2.0/main_v.2.0.xml"><button type="button" class="btn btn-primary px-3" href="main.xml"
+                                    download=""><svg
                                         xmlns="http://www.w3.org/2000/svg" width="50" height="50"
                                         fill="currentColor" class="bi bi-arrow-down-square-fill"
                                         viewBox="0 0 16 16">
                                         <path
                                             d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5a.5.5 0 0 1 1 0z"
                                         />
-                                    </svg> | download XML</button>
+                                    </svg> | download XML</button></a>
 
                             </div>
                         </div>
@@ -792,7 +788,7 @@
                 </span>
                 <span>
                     <xsl:attribute name="class">decypher d-none</xsl:attribute>
-                    <xsl:value-of select="../tei:place/tei:note/tei:w[@type = 'adjectival']"/>
+                    <xsl:value-of select="../tei:note/tei:w[@type = 'adjectival']"/>
 
                 </span>
 
