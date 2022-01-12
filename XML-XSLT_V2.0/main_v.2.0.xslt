@@ -397,7 +397,8 @@
                                                   <xsl:value-of select="$id"/>
                                                   </h5>
                                                   <p>
-                                                  <xsl:value-of select="."/>
+                                                  <!--<xsl:value-of select="."/>-->
+                                                      <xsl:copy-of select="./node()" exclude-result-prefixes="#all" copy-namespaces="no"/>
                                                   </p>
 
                                                   <xsl:for-each
@@ -620,6 +621,8 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
+    
     <!--    For every <q>, add a class "q"; this can come in handy for later styling in css   -->
     <xsl:template match="tei:q">
         <span>
