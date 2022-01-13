@@ -8,18 +8,75 @@
     <xsl:strip-space elements="*"/>
     
     
-    <xsl:template match="/">
-       
-       <xsl:for-each select="tei:ref">
-           <xsl:value-of select="."/>
-       </xsl:for-each>
-        <!--<xsl:apply-templates select="tei:ref"/>-->
-        
+    <!--<xsl:template match="tei:TEI">
+        <xsl:apply-templates select="//tei:ref"/>
     </xsl:template>
     
-    <!--<xsl:template match="tei:ref">
-        <xsl:value-of select="."/>
+    <xsl:template match="tei:ref">
+        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:text>|</xsl:text>
+        <xsl:value-of select="ancestor::tei:div/@type[1]"/>
+        <xsl:value-of select="ancestor::tei:div/@n"/>
+        
+<!-\-        also get the @target value for the xml:id of the note-\->
+        <xsl:text>&#xa;&#xa;</xsl:text>
+        
     </xsl:template>-->
     
+    
+    <xsl:output method="html"/>
+    
+    <xsl:template match="/">
+        <HTML>
+            <HEAD>
+                <BODY>
+                    <h2>SPREADSHEET</h2>
+                    
+                    
+                    
+                    <table>
+<!--                        Header Row-->
+                        <tr>
+                            <td>Target/ID</td>
+                            <td>Section</td>
+                            <td>Ref</td>
+                            <td>Note</td>
+                            <td>Author</td>
+                            <td>Date</td>
+                        </tr>
+                        
+                        <xsl:for-each select="//tei:ref">
+                            <xsl:variable name="target" select="./@target"/>
+                            <xsl:variable name="section" select="ancestor::tei:div/@type[1]"/>
+                            <xsl:variable name="section_no" select="ancestor::tei:div/@n"/>
+                            <xsl:variable name="ref" select="."/>
+                            
+                            <tr>
+                                <td>
+                                    <xsl:value-of select="$target"/>
+                                </td>
+                                <td>
+                                    <xsl:value-of select="$section"/>_<xsl:value-of select="$section_no"/>
+                                </td>
+                                <td>
+                                    <xsl:value-of select="$ref"/>
+                                </td>
+                                <td>
+                                    Enter Note
+                                </td>
+                                <td>
+                                    Enter Author Name
+                                </td>
+                                <td>
+                                    Enter Date
+                                </td>
+                            </tr>
+                        </xsl:for-each>
+                        
+                    </table>
+                </BODY>
+            </HEAD>
+        </HTML>
+    </xsl:template>
     
 </xsl:stylesheet>

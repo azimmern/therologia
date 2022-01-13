@@ -1863,7 +1863,7 @@
                     <p> INcomparable Lady, you have dilated my heart with a great deal of
                         contentment, by admitting me to the sight of that transmuted Animal I spoke
                         withall last, and that you made him capable all the while to entertain
-                        discours with me <hi>pro &amp; con,</hi> in so admirable a manner. </p>
+                        discours with me <hi><ref type="editorial" target="#pro_con">pro &amp; con</ref>,</hi> in so admirable a manner. </p>
                 </sp>
                 <sp>
                     <pb n="16" facs="tcp:98502:20"/>
@@ -1902,19 +1902,19 @@
                     <p> Madame, you will perform hereby the part of an <hi>Angel,</hi> for I never
                         heard of any <hi>Asse</hi> that ever spoke (unlesse it were in Fables) but
                         of <hi>one,</hi> and that was at the appearance of an <hi>Angel,</hi> which
-                        was by way of tru Miracle. </p>
+                        was by way of tru <ref type="editorial" target="#miracle">Miracle</ref>. </p>
                 </sp>
                 <sp>
                     <speaker>Morphandra.</speaker>
                     <p> Yet I have been told, that one of your greatest Philosophers <hi>
                             <ref type="editorial" target="#Ammonius"> Ammonius Alexandrinus </ref>
                         </hi>, whose Disciple <hi>
-                            <ref type="editorial" target="#Origen"> Origen </ref>
+                            <ref type="editorial" target="#Origen">Origen</ref>
                         </hi> was, hath it upon record, That an <hi>Asse</hi> was once an Auditor of
                         Wisdom. But touching that <hi>Asse</hi> you mentioned before, I hear, the
                             <hi>Lawyers</hi> of your Country have somthing of his nature in them,
                         for they will not speak unlesse <ref type="editorial" target="#angels">
-                            <hi xmlns="http://www.tei-c.org/ns/1.0">Angels</hi>
+                            <hi>Angels</hi>
                         </ref> appear unto them. </p>
                 </sp>
                 <sp>
@@ -1924,7 +1924,7 @@
                         an humor, contrary to the Axle-tree of a new Cart, in regard we use to
                         annoint <hi>that,</hi> because it may keep no creaking or noise, but the
                         Lawyers toungs must be annointed, and oil'd with an <hi xml:lang="la"
-                            >Unguentum Rubrum, </hi> that they may make more noise, and to have
+                            ><ref type="editorial" target="#unguentum_rubrum">Unguentum Rubrum</ref>, </hi> that they may make more noise, and to have
                         their tongues more glibb. </p>
                 </sp>
                 <sp>
@@ -1936,15 +1936,15 @@
                         Lawyer, who having built a fair Palace of Free-stone, with Marble
                         intermix'd, and having invited a knowing friend of his to take a view of the
                         new house, and observe the symmetry, proportion, &amp; conveniencies of the
-                        fabric, He asked his friend at last, what he thought that House was built
+                        <ref type="editorial" target="#fabric">fabric</ref>, He asked his friend at last, what he thought that House was built
                         of? He answered, I see 'tis built of good Free-stone and Marble, The Lawyer
-                        replied, No, Sir, 'tis a <hi xml:lang="la">deceptio visûs</hi> in you, for
+                        replied, No, Sir, 'tis a <hi xml:lang="la"><ref type="editorial" target="#deceptio_visûs">deceptio visûs</ref></hi> in you, for
                         this house is made of <hi>Asses heads</hi> and <hi>Fools sculls,</hi>
                         meaning the multitude of Clients he had had. To such the proverb may
-                        sometimes be applied, that as the <hi>Asse oftentimes carries gold on his
-                            back, yet feeds on thistles,</hi> so many poor Clients carry gold in
+                        sometimes be applied, that as <quote type="#proverb">the <hi>Asse oftentimes carries gold on his
+                            back, yet feeds on thistles,</hi></quote> so many poor Clients carry gold in
                         their pockets to feed their Lawyers, yet they fare hard themselfs, and are
-                        ready to famish. But to leave off these imperti nences, you may please to go
+                        ready to famish. But to leave off these impertinences, you may please to go
                         on in the pursute of your enterprise, to try whether yonder long-ear'd
                         metamorphos'd Animal will bring your intent home to your aim, and turn
                             <hi>Man.</hi>
@@ -1963,13 +1963,13 @@
                     <speaker>Asse.</speaker>
                     <p> Sir, you may reserve your pitty for others, in regard I need it not; for I
                         thank the <hi>Fates,</hi> and Queen <hi>Morphandra,</hi> I enjoy myself, and
-                        the common benefits of nature, <hi>viz.</hi> Air, Earth, and Water, which
+                        the common benefits of nature, <hi><ref type="editorial" target="#viz">viz.</ref></hi> Air, Earth, and Water, which
                         are the staple commodities of all sublunary cretures, I say, I enjoy all
                         these more than ever I did, <hi>Fenell</hi> excepted, which is my onely
                         enemy. 'Tis tru, I was once a <hi>Man,</hi> an <hi>
                             <persName type="cypher" subtype="sing" ref="#Artonia"
                                 >Artonian</persName>
-                        </hi> born, my profession was both a Vineyard-man, and a Roturer, a poor
+                        </hi> born, my profession was both a Vineyard-man, and a <ref type="editorial" target="#roturer">Roturer</ref>, a poor
                         Peasan I was, who for all my labour and toil, could hardly gain what could
                         bear up the two columns of life in me, <hi>viz.</hi> the <hi>Radicall
                             moysture</hi> and <hi>Naturall heat,</hi> much lesse to maintain my wife
@@ -1980,10 +1980,10 @@
                     <p> How could that be in so rich and plentifull a country as <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
                                 >Artonia</placeName>
-                        </hi> is known to be? where, according to her name, <hi>Ceres</hi> is said
-                        to have her chief Granary, and <hi>Bacchus</hi> his prime Cellars; where
-                            <hi>Neptune</hi> hath also his principle Salt-pits, and whence
-                            <hi>Venus</hi> commonly useth to fetch her smocks? </p>
+                        </hi> is known to be? where, according to her name, <hi><ref type="editorial" target="#Ceres">Ceres</ref></hi> is said
+                        to have her chief Granary, and <hi><ref type="editorial" target="#Bacchus">Bacchus</ref></hi> his prime Cellars; where
+                            <hi><ref type="editorial" target="#Neptune">Neptune</ref></hi> hath also his principle Salt-pits, and whence
+                            <hi><ref type="editorial" target="#Venus">Venus</ref></hi> commonly useth to fetch her smocks? </p>
                 </sp>
                 <sp>
                     <speaker>Asse.</speaker>
@@ -1993,7 +1993,7 @@
                         </hi> in fecundity and self-sufficiency, yields to no other Region under the
                         Sun, which makes some call her a <hi>Noun substantive,</hi> that can stand
                         by it self; yet it may well be said, that ther's is no Country under the
-                        cope of Heaven, where there's <hi>lesse want,</hi> and <hi>more
+                        <ref type="editorial" target="#cope">cope</ref> of Heaven, where there's <hi>lesse want,</hi> and <hi>more
                             beggars,</hi> or <hi>more people,</hi> and <hi>fewer men;</hi> The reson
                         of the first, to my grief I speak it, is, that the common stock and wealth
                         of the Country is by Mal-administration so unequally proportion'd, and
@@ -2001,21 +2001,21 @@
                         the <hi>Clergy</hi> suck the greatest part of the fat, whence grew the
                         Proverb, <hi>
                             <quote type="#proverb">What the Cheque takes not, the Church
-                                takes</quote>.</hi> I speak not this, because I repine at any acts
+                                takes</quote>.</hi> I speak not this, because I <ref type="editorial" target="#repine">repine</ref> at any acts
                         of <hi>piety</hi> towards the holy and decent worship of God Almighty, and
                         Legacies left by sweet devoted souls. Touching the first, 'tis too <pb
-                            n="19" facs="tcp:98502:21"/> well known, that the very <hi>Tallies,</hi>
-                        besides the <hi>Demeans</hi> of the Crown, and the <hi>Customs,</hi> amount
-                            <hi xml:lang="la">communibus annis</hi> to near upon twenty millions of
-                        Crowns, wherof 'tis tru, that about four millions were remitted in the year
-                        1648. Then the Gabell of <hi>Salt</hi> amounts to about seven millions every
+                            n="19" facs="tcp:98502:21"/> well known, that the very <hi><ref type="editorial" target="#tallies">Tallies</ref>,</hi>
+                        besides the <hi><ref type="editorial" target="#demeans">Demeans</ref></hi> of the Crown, and the <hi>Customs,</hi> amount
+                            <hi xml:lang="la"><ref type="editorial" target="#communibus_annis">communibus annis</ref></hi> to near upon twenty millions of
+                        <ref type="editorial" target="#crowns">Crowns</ref>, wherof 'tis tru, that about four millions were remitted in the year
+                        1648. Then the <ref type="editorial" target="#gabell">Gabell</ref> of <hi>Salt</hi> amounts to about seven millions every
                         year, which is look'd unto so narrowly, that a poor Peasan cannot carry a
                         pocket or purse-full of salt home to his poor wife, but he must be searched.
-                        Then ther are the <hi xml:lang="fr">Taillons, Aydes, Droits,</hi> with
+                        Then ther are the <hi xml:lang="fr"><ref type="editorial" target="#taillons,">Taillons, Aydes, Droits,</ref></hi> with
                         divers other Impositions and Taxes, which though at first they were
                         pretended to be impos'd for the present necessity of the times, yet
                         Soveraign Princes are known to have the gift of making Temporary things
-                        Eternall in this kind; Neverthe lesse, if this immense tresure went to the
+                        Eternall in this kind; Neverthelesse, if this immense tresure went to the
                         King's tresure alone, for the common defence and honour of the State, it
                         would not so much trouble them that pay it; but three parts of four are
                         drunk up among hungry Officers, whence grew the proverb, that <hi>
@@ -2026,7 +2026,7 @@
                             <hi>Clergy</hi> hath in annuall Revenue a hundred and six millions of
                         Crowns, and no wonder, ther being in that Country, besides
                             <hi>Cardinals,</hi> and fifteen <hi>Archbishops,</hi> a hundred and
-                        fifty Suffragan <hi>Bishops,</hi> and I know not how many fat
+                        fifty <ref type="editorial" target="#suffragan">Suffragan</ref> <hi>Bishops,</hi> and I know not how many fat
                             <hi>Abbots,</hi> with other Dignitaries, Monks, and Monasteries without
                         number. </p>
                     <p> Then comes in the <hi>Noblesse,</hi> or Gentry, which have all the rest;
@@ -2042,10 +2042,10 @@
                                 >Artonia</placeName>
                         </hi> may be compar'd to a stately Palace, born up by mud-pillars; While the
                         poor toyling peasan melts the hoar frost with the sweat that trickles down
-                        his cheeks, others by good fire-sides drink carowses in the wine which he
-                        plants, while he with his panting breath and anhelation <pb n="20"
+                        his cheeks, others by good fire-sides drink <ref type="editorial" target="#carowses">carowses</ref> in the wine which he
+                        plants, while he with his panting breath and <ref type="editorial" target="#anhelation">anhelation</ref> <pb n="20"
                             facs="tcp:98502:22"/> thickens the air befor him, others with Carrolls
-                        and wanton musicall Catches do attenuat it. </p>
+                        and wanton musicall <ref type="editorial" target="#catches">Catches</ref> do attenuat it. </p>
                     <p> Concerning the second point I spoke of, <hi>viz.</hi> That no Country hath
                             <hi>more peeple and fewer men</hi> then <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
@@ -2068,7 +2068,7 @@
                         and spirits were drawn all up into the upper parts, the supporting members
                         below, as the legs and thighs, cannot have that proportion of naturall heat
                         and vigor to quicken themselfs, the blood being all engross'd by the parts
-                        above. If the <hi>Standells</hi> be planted too thick in a <hi>Coppice,</hi>
+                        above. If the <hi><ref type="editorial" target="#standells">Standells</ref></hi> be planted too thick in a <hi><ref type="editorial" target="#coppice">Coppice</ref>,</hi>
                         ther cannot be clean <hi>Underwoods,</hi> for they will turn all to dwarfish
                             <hi>Shrubs.</hi> But the common peeple of <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
@@ -2076,15 +2076,15 @@
                         </hi> may thank their own volatil humors and nature for this, which is so
                         instable, and still so covetous of change, that if they were fed high, and
                         pamper'd with too much plenty, they wold ever and anon rush into civill
-                        commotions and tintamarrs, they wold winch, and go about to shake off the
+                        commotions and <ref type="editorial" target="#tintamarrs">tintamarrs</ref>, they wold <ref type="editorial" target="#winch">winch</ref>, and go about to shake off the
                         reins of Government, and overthrow their Rider; Therfore being so
                         fiery-mouth'd, 'tis fit they should be ridden with a bitt or curb, nor can
-                        it be tearm'd Tyranny, or any Soloecism in Government, that they are us'd
+                        it be tearm'd Tyranny, or any <ref type="editorial" target="#soloecism">Soloecism</ref> in Government, that they are us'd
                         so. </p>
                 </sp>
                 <sp>
                     <speaker>Asse.</speaker>
-                    <p> Sir, under favour you put the saddle on the wrong horse 'tis not the
+                    <p> Sir, under favour you put the saddle on the wrong horse,'tis not the
                             <hi>Commonalty,</hi> but the <hi>Gentry,</hi> and they who are in high
                         blood, that have such tumultuous <pb n="21" facs="tcp:98502:22"/> boyling
                         spirits within them, they are those who cause feavers and convulsions in the
@@ -2095,20 +2095,20 @@
                         </hi> be not so hot as that of her next neighbour <hi>
                             <placeName type="cypher" subtype="place" ref="#Tumontia"
                                 >Tumontia</placeName>,</hi> yet she is more subject to distempers,
-                        Calentures, and <ref type="editorial" target="#tovardillios">
-                            <hi xmlns="http://www.tei-c.org/ns/1.0">Tovardillios</hi>
+                        <ref type="editorial" target="#calentures">Calentures</ref>, and <ref type="editorial" target="#tovardillios">
+                            <hi>Tovardillios</hi>
                         </ref>; Therefore 'tis one of the prime policies of <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
                                 >Artonia</placeName>
                         </hi> to find her Gentry some work abroad, and employ them ever and anon in
-                        forraign Warrs; And ther have been of late two fiery <hi>Flamines,</hi> one
+                        forraign Warrs; And ther have been of late two fiery <hi><ref type="editorial" target="#flamines">Flamines</ref>,</hi> one
                         after the other, who have put this policy in practise to some purpose, their
-                        sanguin humors symbolizing with the colour of their habit, wherby nere upon
+                        <ref type="editorial" target="#sanguin">sanguin</ref> humors symbolizing with the colour of their habit, wherby nere upon
                         a million of souls have perished within these few years. Touching the second
                         of these, his father little dreamt when he sold <hi>hatts</hi> in <hi>
                             <placeName type="cypher" subtype="place" ref="#Silicia"
                                 >Silicia</placeName>,</hi> that his son should mount so high as to
-                        wear the <hi>Red-corner'd Cap,</hi> and give the Law to all <hi>
+                        wear the <hi><ref type="editorial" target="#red-corner'd_cap">Red-corner'd Cap</ref>,</hi> and give the Law to all <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
                                 >Artonia</placeName>;</hi> wherby some hold it to be no small
                         disparagement to so gallant a Nation, and subtle a Clime as <hi>
@@ -2140,14 +2140,14 @@
                     <speaker>Asse.</speaker>
                     <p> Sir, though I were acertain'd to be one of <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
-                                >Artonia</placeName>'s Peers,</hi> I wold not do it; But, Sir,
+                                >Artonia</placeName>'s <ref type="editorial" target="#peers">Peers</ref>,</hi> I wold not do it; But, Sir,
                         touching my <hi>Ears,</hi> you need not take me by them in so reproachfull a
-                        manner: for you know a <hi>Phrygian King</hi> did wear once an <hi>Asse</hi>
+                        manner: for you know a <hi><ref type="editorial" target="#phrygian_king">Phrygian King</ref></hi> did wear once an <hi>Asse</hi>
                         his ears, and he was the richest that ever was among Mortalls; Besides, my
                             <hi>Ears</hi> have a prophetic vertu, for when I prick them up, 'tis an
-                        infallible presage <pb n="22" facs="tcp:98502:23"/> of foul wether; Touching
+                        <ref type="editorial" target="#infallible">infallible</ref> presage <pb n="22" facs="tcp:98502:23"/> of foul wether; Touching
                         my <hi>braying,</hi> it is the tone which Nature hath given me, and all the
-                        Indi vidualls of my kind, and you must grant, that Nature the handmaid of
+                        Individualls of my kind, and you must grant, that Nature the handmaid of
                         God Almighty doth not use to do any thing ill-favouredly; But in lieu of our
                             <hi>braying</hi> you have a passion, and as I remember your Philosophers
                         call it the <hi>proper passion</hi> of man, that is a far more distorting
@@ -2166,7 +2166,7 @@
                         lengthen, ther is an ill-favor'd kind of gaping, and discovery of the teeth,
                         the cheeks lift up themselfs and grow more stiff, they have pitts digg'd in
                         them during the time, the mouth is forc'd to open, and discovers the
-                        tremblings of the suspended toung, it thrusts out an obstreperous
+                        tremblings of the suspended toung, it thrusts out an <ref type="editorial" target="#obstreperous">obstreperous</ref>
                         interrupted sound, and oftentimes ther is a stopping of breath, the neck
                         swells and shortens it self, all the veins grow greter, and extended, an
                         extraordinary hue disperseth it self over all the face, which grows reddish,
@@ -2178,16 +2178,16 @@
                             facs="tcp:98502:23"/> sweat gets up on the face, the voice is lost in
                         hickocks, and the breath is stifled with sighs; somtimes this agitation gets
                         to so high an excesse, that it produceth the same violent effect as
-                        medicaments use to do, which is to put the bones so out of joynt that it
-                        causeth syncopes; The head and the arms suffer the same throws, with the
+                        <ref type="editorial" target="#medicaments">medicaments</ref> use to do, which is to put the bones so out of joynt that it
+                        causeth <ref type="editorial" target="#syncopes">syncopes</ref>; The head and the arms suffer the same throws, with the
                         brest and the thighs, the body hurles it self with precipitation and
                         disorder, and is cast from one side to the other; The hands becom feeble,
                         the leggs cannot support themselves, and the body is constrained to fall,
                         and tumble, nay it causeth sometimes dangerous syncopes in the heart, and so
                         brings death. <hi>Weeping</hi> also the counter-passion hath many of these
-                        ill-favor'd motions, what an odd kind of face doth an infant make assoon as
+                        ill-favor'd motions, what an odd kind of face doth an infant make as soon as
                         he is born? how som of ripe age will screech, cry and howle in so many
-                        disordered notes, and singultient accents? Whereas we by our
+                        disordered notes, and <ref type="editorial" target="#singultient">singultient</ref> accents? Whereas we by our
                             <hi>braying</hi> hold up our heads only, and so breath out our passions
                         into the open aire, without any forc'd tones, or such variety of distorted
                         postures. </p>
@@ -2199,7 +2199,7 @@
                         accompanieth it, which useth to rowse and raise up our slumbring spirits,
                         and melancholly thoughts with an unusuall mirth and complaceny, whence it
                         comes, that after those two, Doctor <hi>Diet,</hi> and Doctor
-                            <hi>Quiet,</hi> Doctor <hi>Merriman</hi> is requisit to preserve health;
+                            <hi>Quiet,</hi> Doctor <hi><ref type="editorial" target="#Merriman">Merriman</ref></hi> is requisit to preserve health;
                         Touching the other passion <hi>Sorrow,</hi> and the various emissions of it,
                         it is an ease also to the spirits, which without such ventings would be
                         subject to strangulations; But, poor <hi>Asse,</hi> do not let slip this
@@ -2208,12 +2208,12 @@
                 </sp>
                 <sp>
                     <speaker>Asse.</speaker>
-                    <p> I told you before but of the <hi>outward</hi> servitude and exigents that I
+                    <p> I told you before but of the <hi>outward</hi> servitude and <ref type="editorial" target="#exigents">exigents</ref> that I
                         endured when I was a <hi>Man,</hi> which were incident onely to the body: I
                         have not spoken to <pb n="24" facs="tcp:98502:24"/> you any thing of the
                         perturbations of the brain, and the inward agonies of the mind, which did
                         trouble and torment me much more; How was I perpetually vex'd not onely to
-                        pay the common Taxes, and other pecuniary erogations, with my domineering
+                        pay the common Taxes, and other pecuniary <ref type="editorial" target="#erogations">erogations</ref>, with my domineering
                         Landlords Rents, but to find daily bread, sustenance, and cloathing for my
                         wife and children; Now <hi>children</hi> is one of the greatest encumbrances
                         that belong to mankind; for as the proverb goes, <hi>
@@ -2231,41 +2231,40 @@
                         besides, but such is the noblenesse of <hi>Man's</hi> nature, that
                             <hi>both</hi> continu in him during life unto the third and fourth
                         generation; Therefore without further ado, think upon thy first
-                            <hi>Beeing,</hi> and to be restored thereunto: <quote type="#fable"
-                            >Otherwise thou wilt be more foolish than that poor baffled
-                                <hi>Asse</hi> in the Fable, who when a Horse came unto him, and out
-                            of wantonnes had de sired him to lift up his left hinder leg, and take
+                            <hi>Beeing,</hi> and to be restored thereunto: Otherwise thou wilt be more foolish than that poor baffled
+                        <hi>Asse</hi> in the Fable, who when <quote type="#fable"
+                            >a Horse came unto him, and out
+                            of wantonnes had desired him to lift up his left hinder leg, and take
                             out a stone that had got into his foot, as soon as he had lifted up the
-                            legge, the Horse fell a kicking him ill-fa vourelly on the face, and
-                            almost dasht out his brains</quote>; <quote type="#fable">Or thou wilt
-                            be as foolish as the <hi>Asse,</hi> who seeing a Spaniell sawn upon his
+                            legge, the Horse fell a kicking him ill-favourelly on the face, and
+                            almost dasht out his brains; </quote> Or thou wilt
+                            be as foolish as <quote type="#fable">the <hi>Asse,</hi> who seeing a Spaniell sawn upon his
                             Master, and getting into his lap, where he was stroked, the
                                 <hi>Asse</hi> thought to do so too, but instead of being
-                                <hi>stroked,</hi> he was <hi>struck</hi> and bastinadoed away for
-                            his sawcinesse, which shews that an <hi>Asse</hi> is a more contemptible
+                                <hi>stroked,</hi> he was <hi>struck</hi> and <ref type="editorial" target="#bastinadoed">bastinadoed</ref> away for
+                            his sawcinesse</quote>, which shews that an <hi>Asse</hi> is a more contemptible
                             thing than a <hi>Dogge.</hi>
-                        </quote>
                     </p>
                 </sp>
                 <sp>
                     <speaker>Asse.</speaker>
                     <p> As contemptible as we are, there are two of us who have a bright place in
-                        Heaven, as the Constellation of <hi>Cancer</hi> will shew you; As
+                        Heaven, as the Constellation of <hi><ref type="editorial" target="#Cancer">Cancer</ref></hi> will shew you; As
                             <hi>contemptible</hi> as we are, some <pb n="25" facs="tcp:98502:24"/>
-                        of your gretest Philosophers have held grave disputes of our very
-                            <hi>shadow,</hi> and <hi/>'s golden <hi>Asse</hi> makes him famous to
-                        eternity; As <hi>contemptible</hi> as we are, the <hi>strongest</hi> man
+                        of your gretest Philosophers have held <ref type="editorial" target="#grave_disputes">grave disputes</ref> of our very
+                        <hi>shadow,</hi> and <ref type="editorial" target="#Apuleius"><hi>Apuleius</hi>'s golden <hi>Asse</hi></ref> makes him famous to
+                        eternity; As <hi>contemptible</hi> as we are, the <ref type="editorial" target="#strongest_man"><hi>strongest</hi> man</ref>
                         that ever was, made use of the jaw-bone of one of us to destroy thousands of
-                        his enemies; The great Empresse <hi>Poppaea</hi> us'd our milk to make her
+                        his enemies; The great Empresse <hi><ref type="editorial" target="#Poppaea">Poppaea</ref></hi> us'd our milk to make her
                         skin the whiter, and you know what a Soveraign thing that <hi>milk</hi> is
-                        against Consumptions, and Dysenteries; nay our very <hi>Urine</hi> is found
-                        to be good against Tilers or Morphews in Ladies faces; Lastly, you know who
-                        made his entry into <hi>Ierusalem</hi> upon one of <hi>Us,</hi> for which we
+                        against <ref type="editorial" target="#consumptions">Consumptions</ref>, and <ref type="editorial" target="#dysenteries">Dysenteries</ref>; nay our very <hi>Urine</hi> is found
+                        to be good against <ref type="editorial" target="#tilers">Tilers</ref> or <ref type="editorial" target="#morphews">Morphews</ref> in Ladies faces; Lastly, you know who
+                        made his entry into <hi><ref type="editorial" target="#Ierusalem">Ierusalem</ref></hi> upon one of <hi>Us,</hi> for which we
                         carry the <hi>Crosse</hi> upon our sholders as the badg of a blessing to
                         this day, which made a zealous <hi>
                             <persName type="cypher" subtype="sing" ref="#Tumontia"
                                 >Tumontian</persName>
-                        </hi> break out into these lines upon the sight of that History of
+                        </hi> break out into <ref type="editorial" target="#these_lines">these lines</ref> upon the sight of that History of
                             <hi>Palm-sunday,</hi> neer a Church dore. <q>
                             <l>
                                 <hi>Asno</hi> quien a Dios lleuays </l>
@@ -2287,35 +2286,35 @@
                     <p> Poor besotted beast, yet thou knowest ther can be no comparison 'twixt the
                         best of <hi>Brutes</hi> and the basest of <hi>human</hi> cretures, who by
                         the faculty of <hi>Reson</hi> can tame and reduce to his subjection the
-                        strongest of other Animals, though never so fierce and corpulent, and make
+                        strongest of other Animals, though never so fierce and <ref type="editorial" target="#corpulent">corpulent</ref>, and make
                         them know that He is their Lord and Master. </p>
                 </sp>
                 <sp>
                     <speaker>Asse.</speaker>
                     <p> Whereas you speak of fiercenesse, truly Sir I think ther's no Animal so
-                        fierce and ferocious, so savage and intractable as <hi>Man:</hi> for whereas
+                        fierce and ferocious, so savage and <ref type="editorial" target="#intractable">intractable</ref> as <hi>Man:</hi> for whereas
                         all other cretures <pb n="26" facs="tcp:98502:25"/> can be rul'd, daunted,
                         and broken, easily govern'd in time, the Art of governing <hi>Men</hi> is
                         the most difficult of any, because of their various fancies and
-                        imaginations, their crosse-grain'd humors and pride, all which proceeds from
+                        imaginations, their <ref type="editorial" target="#crosse-grain'd">crosse-grain'd</ref> humors and pride, all which proceeds from
                         the faculty of <hi>Reson</hi> you speak of; Therefore I was very glad to be
-                        rid of it by this transfiguration, and the time seems tedious unto me that I
+                        rid of it by this <ref type="editorial" target="#transfiguration">transfiguration</ref>, and the time seems tedious unto me that I
                         have the use of it now so long to parly with you, for I remember when I was
                         a <hi>Man,</hi> it fill'd the cells of my brain ever and anon with turbid
-                        and turbulent cogitations, with strange chimera's and crochets, which
+                        and turbulent <ref type="editorial" target="#cogitations">cogitations</ref>, with strange <ref type="editorial" target="#chimeras">chimera's</ref> and <ref type="editorial" target="#crochets">crochets</ref>, which
                         disquieted the tranquillity and calm of my mind; And as for my
                             <hi>Body,</hi> this shape which I now bear is more healthfull farr and
                         neat, for now I am not subject to breed <hi>Lice</hi> and other Vermin; And
-                        whereas this pedicular disease, with a nomberlesse sort of other maladies
+                        whereas this <ref type="editorial" target="#pedicular">pedicular</ref> disease, with a nomberlesse sort of other maladies
                         and distempers, attend Mankind, ther's but one onely disease that our
-                        Species is subject unto, which the <hi>Veterenarians</hi> or Far riers call
-                            <hi>Malila,</hi> and that is onely in the head, when som unusuall
+                        Species is subject unto, which the <hi><ref type="editorial" target="#veterenarians">Veterenarians</ref></hi> or Farriers call
+                            <hi><ref type="editorial" target="#malila">Malila</ref>,</hi> and that is onely in the head, when som unusuall
                         defluxion of rheume falls thence into the nostrills, which being stopp'd
                         turns to the improvement of health, but if once it falls upon the lungs we
                         are gone: And observable it is, that being dead, we have cleaner carcases
-                        than <hi>Men,</hi> and di vers medicinall things are found in them, as our
-                        Li ver, Hoofs, or Bones being reduc'd to powder are good, as the Naturalists
-                        note, against the Epilepsy or Comitiall sicknesse, with other diseases; Nor
+                        than <hi>Men,</hi> and divers medicinall things are found in them, as our
+                        Liver, Hoofs, or Bones being reduc'd to powder are good, as the Naturalists
+                        note, against the <ref type="editorial" target="#epilepsy">Epilepsy</ref> or <ref type="editorial" target="#comitiall_sicknesse">Comitiall sicknesse</ref>, with other diseases; Nor
                         do any crawling nasty worms grow out of our Cadavers, but Beetles, and other
                         airy Insects, which are not so noisome; But I have spent too much time with
                         you, I will therefore go now to browze upon the green leafs of that Bramble.
@@ -2325,27 +2324,27 @@
                     <speaker>Pererius.</speaker>
                     <p>
                         <hi>Well, I find here two Proverbs verified, the one is a homely one,
-                            viz.</hi> Chanter a un Asne, il vous donnera un pet, Sing to an Asse and
-                        he will give you a Bum-crack <hi>The other,</hi> that one may bring an Asse
-                        to the water, but not make him drink unlesse he list himself. </p>
+                            viz.</hi> <quote type="#proverb" xml:lang="fr">Chanter a un Asne, il vous donnera un pet</quote>, Sing to an Asse and
+                        he will give you a Bum-crack <hi>The other,</hi> that <quote type="#proverb">one may bring an Asse
+                        to the water, but not make him drink unlesse he list himself</quote>. </p>
                 </sp>
                 <sp>
                     <pb n="27" facs="tcp:98502:25"/>
                     <speaker>Asse.</speaker>
                     <p> 'Tis very tru, I remember well they are proverbs us'd in our
-                            <hi>Country,</hi> but the last shews much the <hi> temperance </hi> of
+                            <hi>Country,</hi> but the last shews much the <hi>temperance</hi> of
                         our <hi>Species,</hi> for we do not eat or drink but when we are a thirst or
                         hungry, for the restauration of the parts that are lost, that is when nature
-                        requires it; But you use to gourmandize it upon full stomacks, to force
+                        requires it; But you use to <ref type="editorial" target="#gourmandize">gourmandize</ref> it upon full stomacks, to force
                         carowses and Whole-ones untill you be full up to the very throat, and so
                             <hi>transform</hi> your selves to worse then <hi>Asses,</hi> so that
                         oft-times neither hand nor foot can do their duty: which we never do. </p>
                 </sp>
                 <sp>
                     <speaker>Pererius to himself.</speaker>
-                    <p> It is a strange and strong incantation that holds this poor Animal in this
+                    <p> It is a strange and strong <ref type="editorial" target="#incantation">incantation</ref> that holds this poor Animal in this
                         brutality, I will by the favor of <hi>Morphandra</hi> try a conclusion next
-                        upon som other of a quicker apprehension, and one who had liv'd in a more
+                        upon som other of a quicker <ref type="editorial" target="#apprehension">apprehension</ref>, and one who had liv'd in a more
                         plentifull and contented train of life whiles he was <hi>Man.</hi>
                     </p>
                 </sp>
@@ -2364,14 +2363,14 @@
                 <sp>
                     <speaker>Morphandra.</speaker>
                     <p> I Saw you somwhat earnest in banding arguments with that <hi>Asse,</hi> but
-                        how have you sped? doth he desire to be <hi>disasinated,</hi> and becom
+                        how have you sped? doth he desire to be <hi><ref type="editorial" target="#disasinated">disasinated</ref>,</hi> and becom
                             <hi>Man</hi> again, as I promised he should be, provided his
                             <hi>will</hi> concurred therunto? </p>
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> Truly, Madame, I find the old proverb tru, that he <hi>who washeth an Asse's
-                            head doth lose both time and sope;</hi> But, these two Animalls I have
+                    <p> Truly, Madame, I find the old proverb tru, that he <quote type="#proverb"><hi>who washeth an Asse's
+                            head doth lose both time and sope;</hi></quote> But, these two Animalls I have
                         treated withall, liv'd in a poor ignorant condition when they were
                             <hi>Men:</hi> I humbly desire I may mingle speeches with some transmuted
                         Animals, who when they were <hi>Rationall</hi> cretures did live in plenty,
@@ -2380,18 +2379,18 @@
                 <sp>
                     <speaker>Morphandra.</speaker>
                     <p> You shall have your desire, and in that Grove I spie an <hi>Ape,</hi> who
-                        was once a prick-ear'd Preachman in <hi>Gheriôna,</hi> whom for his mimicall
-                        foolish humour, and following any new fond fatuous opinion, I <pb n="29"
+                        was once a prick-ear'd Preachman in <hi><placeName type="cypher" subtype="place" ref="#Gheriona">Gheriôna</placeName>,</hi> whom for his <ref type="editorial" target="#mimicall">mimicall</ref>
+                        foolish humour, and following any new fond <ref type="editorial" target="#fatuous">fatuous</ref> opinion, I <pb n="29"
                             facs="tcp:98502:26"/> thought it proper to transmute to that shape;
                         Besides, I turn'd him to that long-tail'd beast, because they of his country
-                        are called <hi>Stertmen</hi> that is men with long-tailes, for which ther is
-                        both Tradition and Story; He came hither Chaplain to a Frigot, and had not
+                        are called <hi><ref type="editorial" target="#stertmen">Stertmen</ref></hi> that is men with long-tailes, for which ther is
+                        both Tradition and Story; He came hither Chaplain to a <ref type="editorial" target="#frigate">Frigot</ref>, and had not
                         the ship quickly tack'd about and got away, I had transfigur'd all the rest.
                     </p>
                 </sp>
                 <sp>
                     <speaker>Ape.</speaker>
-                    <p> By the earnestnes of your looks and gazing, I be lieve you would speak with
+                    <p> By the earnestnes of your looks and gazing, I believe you would speak with
                         me, therefore I pray what's your pleasure? </p>
                 </sp>
                 <sp>
@@ -2406,27 +2405,26 @@
                 <sp>
                     <speaker>Ape.</speaker>
                     <p> 'Tis tru, the Country is good, but she may be said to be now like
-                            <hi>Lucian's</hi> sick Eagle, shot and pittifully wounded with shafts of
+                            <hi>Lucian's</hi> <ref type="editorial" target="#sick_eagle">sick Eagle</ref>, shot and pittifully wounded with shafts of
                         her own feathers, <hi>
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
                                 >Gheriona</placeName>
                         </hi> never shewed she had in her as much to make her happy, as she shews
                         now to make her self unhappy; I fear me, there be som further dreadfull
-                        judgments, as the Famine and the Pestilence hanging over her: for it hath
+                        judgments, as the Famine and the <ref type="editorial" target="#pestilence">Pestilence</ref> hanging over her: for it hath
                         been observed that those three scourges of Heven, <w xml:lang="gr"
                         >λιμοσ</w>, <w xml:lang="gr">λοιμοσ</w>, and <w xml:lang="gr">πολεμοσ</w>,
                         the Famine, the Plague, and the civill Warrs are consecutif, and use to
                         follow one another, though the last hath got the start of the other two; But
                         concerning the peeple, I verily believe ther were never any so far
                         degenerated since the Devill had to do with mankind, never any who did fool
-                        and puppifie themselfs into such a perfect slavery and confusion; You seem
+                        and <ref type="editorial" target="#puppifie">puppifie</ref> themselfs into such a perfect slavery and confusion; You seem
                         to pitty my transfiguration from <hi>Man</hi> to <hi>Ape,</hi> but their
                         case is to be much more resented, for they are turned from <hi>Men</hi> to
-                            <hi>Wolfs,</hi> if you go to their humours, ther's a tru <hi> Ly
-                            canthropy </hi> among them, els they wold never worry and devour one
+                            <hi>Wolfs,</hi> if you go to their humours, ther's a tru <hi><ref type="editorial" target="#lycanthropy">Lycanthropy</ref> </hi> among them, els they wold never worry and devour one
                         another in so savage a manner; All which proceeds from a sad disease which
-                        hath seiz'd upon many thousands of them, it is a pure <hi>Scotomia,</hi> an
-                        odd <pb n="30" facs="tcp:98502:27"/> kind of <hi>Vertigo</hi> that reigns
+                        hath seiz'd upon many thousands of them, it is a pure <hi><ref type="editorial" target="#scotomia">Scotomia</ref>,</hi> an
+                        odd <pb n="30" facs="tcp:98502:27"/> kind of <hi><ref type="editorial" target="#vertigo">Vertigo</ref></hi> that reigns
                         amongst them, which turns the head round, and fills it with new chimera's
                         ever and anon; 'Tis tru that my country-men were ever observ'd to be
                         inconstant in the fashion of their cloathing, in their outward comportment
@@ -2440,11 +2438,11 @@
                         Genius to <hi>invent,</hi> yet 'tis observ'd they have a faculty to
                             <hi>add</hi> to any new invention; and if any new odd opinion in Holy
                         things hath once taken footing among them, they will make it run upon more
-                        feet; Now it is in <hi>Divinity</hi> as in <hi> Philosophy, Uno absurdo dato
-                            sequuntur mille, </hi> One absurdity being granted a thousand will
-                        follow, as <hi>Aristotle</hi> the Philosophers-Pope doth affrim, for Errors
+                        feet; Now it is in <hi>Divinity</hi> as in <hi> Philosophy, <quote type="#proverb">Uno absurdo dato
+                            sequuntur mille</quote>, </hi> One absurdity being granted a thousand will
+                        follow, as <hi>Aristotle</hi> the <ref type="editorial" target="#philosophers-pope">Philosophers-Pope</ref> doth affrim, for Errors
                         like ill weeds do grow apace; And truly I must confesse, that this apish
-                        humor had seiz'd strongly upon me, which made me distrub the peace of the
+                        humor had seiz'd strongly upon me, which made me <sic>distrub</sic><corr>disturb</corr> the peace of the
                         holy Church wherin I was born, baptized, and bred, which made Queen
                             <hi>Morphandra</hi> to transform me justly to this shape you see, being
                         entertain'd Chaplain to a Man of War that arriv'd at this Island, though I
@@ -2457,16 +2455,16 @@
                                 >Gheriona</placeName>
                         </hi> a comely face of a Church; Ther were such solemnities, venerations,
                         and decencies us'd, that might discover som piety in the practice of holy
-                        duties; Ther was a public Liturgy that link'd the souls of the whole Nation
-                        in an unanimity, wherin ther were such pithy patheticall prayers that
+                        duties; Ther was a <ref type="editorial" target="#public_liturgy">public Liturgy</ref> that link'd the souls of the whole Nation
+                        in an unanimity, wherin ther were such pithy <ref type="editorial" target="#patheticall">patheticall</ref> prayers that
                         reached all occasions, and searched every crany in the conscience; The
-                        Sacraments were administred with a fitting posture of reverence, and
-                        genuflexion, yet far from any superstition; God's houses <pb n="31"
+                        <ref type="editorial" target="#sacraments">Sacraments</ref> were administred with a fitting posture of reverence, and
+                        <ref type="editorial" target="#genuflexion">genuflexion</ref>, yet far from any superstition; God's houses <pb n="31"
                             facs="tcp:98502:27"/> were kept neat, cleanly, and in repair; There was
                         such a prudent handsom Government, such degrees of promotion, such
                         possessions annex'd to the Church, that made them of that holy function not
                         onely to be esteem'd and reverenc'd, but to be able to do deeds of charity;
-                        But now I hear ther's crept up such a nasty race of miscreants, who have no
+                        But now I hear ther's crept up such a nasty race of <ref type="editorial" target="#miscreants">miscreants</ref>, who have no
                         more esteem of God Almighty's House than of a Pig-sty, who have turn'd a
                         pretended <hi>Superstition</hi> to a palpable <hi>Prophanenes,</hi> who have
                         plunder'd all that belong'd to pious uses, who have nothing of that
@@ -2486,16 +2484,16 @@
                 </sp>
                 <sp>
                     <speaker>Ape.</speaker>
-                    <p> I remember when I had a human shape I was much addicted to the reading of
+                    <p> I remember when I had a human shape I was much <ref type="editorial" target="#addicted">addicted</ref> to the reading of
                             <hi>History,</hi> which is a profitable knowledge, for the observation
                         of former actions may serve to regulat the future; I took notice of a world
-                        of examples that the two nefandous crimes of <hi>Sacrilege</hi> and
+                        of examples that the two <ref type="editorial" target="#nefandous">nefandous</ref> crimes of <hi>Sacrilege</hi> and
                             <hi>Perjury</hi> never went unpunished without some signall judgments;
                         Among divers other these two do reign and rage in <hi>
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
                                 >Gheriona</placeName>
                         </hi> more then they ever did in any Country under the cope of Heven, and
-                        must she not then expect the vialls of a just vengeance to fall down upon
+                        must she not then expect the <ref type="editorial" target="#vialls">vialls</ref> of a just vengeance to fall down upon
                         Her from above? But that you may better understand the state of that
                         calamitous Country, that Country of confusion, I will recount to you what
                         befell me before my transmutation. </p>
@@ -2509,48 +2507,49 @@
                 <sp>
                     <speaker>Asse.</speaker>
                     <p> It chanc'd one night I had a strange unusuall Dream, I had fallen into so
-                        sound a sleep, as if the <hi>Cinq-ports</hi> (my five outward senses) had
-                        been trebly lockt up; My <hi>Animula vagula blandula,</hi> my little
-                        wandring soul made a sally out of <hi>Morpheus</hi> Horngate, as she uses to
-                        do often, and fetch vagaries apart, to practise how she may live by her self
+                        sound a sleep, as if the <hi><ref type="editorial" target="#Cinq-ports">Cinq-ports</ref></hi> (my five outward senses) had
+                        been trebly lockt up; My <hi xml:lang="la">Animula vagula blandula,</hi> my little
+                        wandring soul made a sally out of <hi><ref type="editorial" target="#Morpheus">Morpheus</ref></hi> <ref type="editorial" target="#Horngate">Horngate</ref>, as she uses to
+                        do often, and fetch <ref type="editorial" target="#vagaries">vagaries</ref> apart, to practise how she may live by her self
                         after our dissolution, when she is separated from the <hi>Body</hi> and
                         becom a <hi>Spirit;</hi> I had all night long a world of visions, and
-                        strange objects appeerd unto me, which return now fresh into my memory;
+                        strange objects <ref type="editorial" target="#appeerd">appeerd</ref> unto me, which return now fresh into my memory;
                         During the said time I thought I was transported to the remotest place, and
                         of the greatest distance that possibly could be from Heven, me thought I was
                         in the <hi>Infernall pit,</hi> in the kingdom of darknesse, in Hell it self
-                        among the devills and damned spirits, I had neither that golden branch, nor
-                        the help of a <hi>Sybilla Cumana</hi> to conduct me up and down as the
-                        Trojan Prince had, but a spirit did lead me gently and softly all along
-                        untill I came to <hi>Pluto</hi> 's Palace, where a speciall Councell was
-                        held to take a strict examination what service the three infernall Furies,
-                            <hi>Alecto, Tisyphone,</hi> and <hi>Megaera,</hi> with other in feriour
+                        among the devills and damned spirits, I had neither that <ref type="editorial" target="#golden_branch">golden branch</ref>, nor
+                        the help of a <hi xml:lang="la"><ref type="editorial" target="#Sybilla_Cumana">Sybilla Cumana</ref></hi> to conduct me up and down as the
+                        <ref type="editorial" target="#Trojan_Prince">Trojan Prince</ref> had, but a spirit did lead me gently and softly all along
+                        untill I came to <hi><ref type="editorial" target="#Pluto">Pluto</ref></hi>'s Palace, where a speciall Councell was
+                        held to take a strict examination what service the three infernall <ref type="editorial" target="#Furies">Furies</ref>,
+                            <hi>Alecto, Tisyphone,</hi> and <hi>Megaera,</hi> with other inferiour
                         Fiends that were their assistants, had done upon earth towards the
-                        advancement of the king dom of darknesse since their last mission thither,
-                        which was presently upon the appeerance of the last blazing Star 1618.
+                        advancement of the kingdom of darknesse since their last mission thither,
+                        which was presently upon the appeerance of the last <ref type="editorial" target="#blazing_star_1618">blazing Star 1618</ref>.
                             <hi>Pluto</hi> vouchsafed to be present at this solemn Councell, and to
-                        be President or <hi>Chair-man</hi> himself, to which purpose he had a strong
-                        Legion of <hi> Caco daemons </hi> for his gard, but the busines was prepar'd
-                        and facilitated for his hearing before hand by a speciall <hi>Committee</hi>
+                        be <ref type="editorial" target="#president">President</ref> or <hi>Chair-man</hi> himself, to which purpose he had a strong
+                        Legion of <hi><ref type="editorial" target="#cacodaemons">Cacodaemons</ref></hi> for his gard, but the busines was prepar'd
+                        and facilitated for his hearing beforehand by a speciall <hi>Committee</hi>
                         appointed of purpose for that end (whence I observed, that Committees were
                         first hatch'd in Hell) The three gastly Daughters of Night appeered with
-                        fiery conntenances before the <hi> Stygian <pb n="33" facs="tcp:98502:28"/>
+                        fiery conntenances before the <hi><ref type="editorial" target="#Stygian">Stygian</ref> <pb n="33" facs="tcp:98502:28"/>
                             King, </hi> in lieu of <hi>air</hi> they evaporated huge flakes of
                             <hi>fire</hi> which they took in, and let out with the accents of their
-                        words, huge bunches of Vipers hung dang ling and wavring about their heads,
+                        words, huge bunches of Vipers hung dangling and wavring about their heads,
                         having their tayls rooted in their sculls; A furious clash fell betwixt them
-                        who should be Prolocutrix, but in regard that <hi>Alecto</hi> and
+                        who should be <ref type="editorial" target="#prolocutrix">Prolocutrix</ref>, but in regard that <hi>Alecto</hi> and
                             <hi>Tisyphone</hi> had given account of their former missions, the one
-                        of the <hi>League in <placeName type="cypher" subtype="place" ref="#Artonia"
-                                >Artonia</placeName>,</hi> the other of the <hi>Revolt of the
+                        of the <hi><ref type="editorial" target="#League">League in <placeName type="cypher" subtype="place" ref="#Artonia"
+                            >Artonia</placeName></ref>,</hi> the other of the <ref type="editorial" target="#Revolt of the
+                                Hydraulian,"><hi>Revolt of the
                                 <persName type="cypher" subtype="sing" ref="#Hydraulia"
-                                >Hydraulian</persName>,</hi> which was about the appearance of the
-                        Comet in the tayl of <hi>Cassiopaea,</hi> it came now in due turn that
+                                >Hydraulian</persName>,</hi></ref> which was about the appearance of the
+                        Comet in the tayl of <hi><ref type="editorial" target="#Cassiopaea">Cassiopaea</ref>,</hi> it came now in due turn that
                             <hi>Megaera</hi> should have the priority of speech; So the youngest of
-                        the Tartarean girls began as followeth. </p>
-                    <p> May it please your high phlegetontic Majesty to un derstand, that since the
-                        last happy Comet <hi>Anno</hi> 1618. which by the parallax was found to be
-                        in the Heven it self above the Elementary world, we have for forty years
+                        the <ref type="editorial" target="#Tartarean">Tartarean</ref> girls began as followeth. </p>
+                    <p> May it please your high <ref type="editorial" target="#phlegetontic">phlegetontic</ref> Majesty to understand, that since the
+                        last happy Comet <hi xml:lang="la">Anno</hi> 1618. which by the <ref type="editorial" target="#parallax">parallax</ref> was found to be
+                        in the Heven it self above the Elementary world, we have for <ref type="editorial" target="#forty_years">forty years</ref>
                         together been more active and eager in your Majesty's service than ever we
                         were; We have stirred the humors of the foolish Inhabitants of the earth to
                         insurrections, to warr and praeliation; To effect which, our practise hath
@@ -2569,32 +2568,32 @@
                                 >Cinqfoyl</persName>
                         </hi> upon the <hi>
                             <persName type="cypher" subtype="sing" ref="#Tumontia"
-                                >Tumontian</persName>,</hi> the <hi>Tartar</hi> upon the
-                            <hi>Chinois,</hi> the <hi>
+                                >Tumontian</persName>,</hi> the <hi><ref type="editorial" target="#Tartar">Tartar</ref></hi> upon the
+                            <hi><ref type="editorial" target="#Chinois">Chinois</ref>,</hi> the <hi>
                             <persName type="cypher" subtype="sing" ref="#Selenia"
                                 >Selenian</persName>
                         </hi> upon the <hi>
                             <persName type="cypher" subtype="sing" ref="#Marcopolis"
-                                >Marcopolist</persName>,</hi> the <hi>Cosaque</hi> upon the
-                            <hi>Pole,</hi> the <hi>
+                                >Marcopolist</persName>,</hi> the <hi><ref type="editorial" target="#Cosaque">Cosaque</ref></hi> upon the
+                            <hi><ref type="editorial" target="#Pole">Pole</ref>,</hi> the <hi>
                             <persName type="cypher" subtype="sing" ref="#Carboncia"
                                 >Carboneian</persName>
                         </hi>
                         <corr>Carboncian</corr> upon the <hi>
                             <persName type="cypher" subtype="sing" ref="#Gheriona"
-                                >Gherionian</persName>;</hi> We have continued a bloody lingring
-                        Warr in the bowells of <hi>
+                                >Gherionian</persName>;</hi> We have continued a bloody <ref type="editorial" target="#thirty_years_war">lingring
+                        Warr</ref> in the bowells of <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
                                 >Artonia</placeName>
-                        </hi> for thirty years to gether, we have thrust divers Princes out of their
-                        antient Inheritances, among others the Duke of <hi>
+                        </hi> for thirty years together, we have thrust divers Princes out of their
+                        antient Inheritances, among others the <ref type="editorial" target="#Duke_of_Laroni">Duke of <hi>
                             <placeName type="cypher" subtype="place" ref="#Laroni"
-                                >Laroni</placeName>
-                        </hi> and <hi>
+                                >Laroni</placeName></hi></ref>
+                         and <hi>
                             <placeName type="cypher" subtype="place" ref="#Rinarchus"
-                                >Rhinarchos</placeName>,</hi> we brought two gran <hi>
+                                ><ref type="editorial" target="#Rhinarchos">Rhinarchos</ref></placeName>,</hi> we brought two gran <hi>
                             <name type="cypher" subtype="adj" ref="#Selenia">Selenian</name>
-                        </hi> Emperours to be strangled by their own slaves, we have often puzzled <hi>
+                        </hi> <ref type="editorial" target="#Selenian_Emperours">Emperours</ref> to be strangled by their own slaves, we have often puzzled <hi>
                             <placeName type="cypher" subtype="place" ref="#Vinalia"
                                 >Vinalia</placeName>,</hi> we have made the Kings of <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
@@ -2605,7 +2604,7 @@
                         </hi> to bandy so fiercely one against the other, as if the one had been an
                             <hi>Infidell</hi> the other a <hi>Iew,</hi> though each of them had one
                         another's sister abed with him every night. But may it please your
-                        Acherontic Majesty to be inform'd, that the most advantageous and signall
+                        <ref type="editorial" target="#Acherontic">Acherontic</ref> Majesty to be inform'd, that the most advantageous and signall
                         services we have done, have bin in <pb n="34" facs="tcp:98502:29"/> the
                         lsles of <hi>
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
@@ -2621,7 +2620,7 @@
                                 >Carboncian</persName>,</hi> who have bin so obedient to their
                         Kings, that of above a hundred they brag of, scarce two parts of three died
                         in their beds, but were made away violently; We did incite them first
-                        against their own Country-man and <hi>Native King,</hi> and to appear in a
+                        against their own Country-man and <hi><ref type="editorial" target="#native_king">Native King</ref>,</hi> and to appear in a
                         daring high hostile manner before him upon the borders; At which time it
                         cost us a great deal of artifice so to besot the <hi>
                             <sic>
@@ -2635,7 +2634,7 @@
                                 >Carboncian</persName>
                         </hi> at that time; And this, Sir, was an important piece of service, for
                         had they fought then, or had they bin sensible afterwards of the dishonour
-                        they receiv ed at that time, their King being then amongst them in person,
+                        they received at that time, their King being then amongst them in person,
                         with the flower of his Nobility and Gentry, and consequently had they stuck
                         to him afterwards to have vindicated that rebellious affront, all those we
                         have fomented since might have bin prevented. </p>
@@ -2662,7 +2661,7 @@
                         work upon the <hi>
                             <persName type="cypher" subtype="sing" ref="#Gheriona"
                                 >Gherionian</persName>, </hi> whom we found as fit to receive our
-                        impression as flax is to receive fire, in regard of their long Furseit of
+                        impression as flax is to receive fire, in regard of their long <sic>Furseit</sic><corr>surfeit</corr> of
                         peace and plenty; We broke up one great <pb n="35" facs="tcp:98502:29"/>
                         Assembly upon a suddain, because the members therof were not for our turn,
                         But then we call'd another which was fit for our purpose, and we steer'd
@@ -2670,23 +2669,23 @@
                         did was to endue them with a faculty to <hi>create</hi> fears and
                         jealousies, whereof we made excellent use, and although those fears and
                         jealousies appeared afterwards to every common man as plain as the nose on
-                        his face to be but meer forgeries, and supposititious things, yet we did
+                        his face to be but meer forgeries, and <ref type="editorial" target="#supposititious">supposititious</ref> things, yet we did
                         still so intoxicat their intellectualls, that we made them to adore still
                         the <hi>coyners</hi> of them; And to give your <hi>Stygian</hi> Majesty
-                        among divers others, one most pregnant and unde niable demonstration what
+                        among divers others, one most pregnant and undeniable demonstration what
                         firm footing we got in that <hi>Island,</hi> we did raise in few years more
-                            <hi>Pythonesses,</hi> which the ignorant vulgar call Witches there, then
+                            <hi><ref type="editorial" target="#pythonesses">Pythonesses</ref>,</hi> which the ignorant vulgar call Witches there, then
                         ever were in that Country since your Majesty tempted <hi>Eve;</hi> and we
                         enabled our said <hi>Pythonesses</hi> to send their inferiour <hi>Imps</hi>
                         abroad upon our service; We stood at the King's elbow when he pass'd the
-                            <hi>Act of continuance,</hi> wherein a <hi>
+                            <hi><ref type="editorial" target="#Act_of_continuance">Act of continuance</ref>,</hi> wherein a <hi>
                             <persName type="cypher" subtype="sing" ref="#Carboncia"
                                 >Carboncian</persName>
                         </hi> was our chief Engineer; But the great City <hi><placeName
                                 type="cypher" ref="#Polyhaima">Polihaima</placeName></hi> stood us
                         in most excellent steed to compasse our designes, we made the riffraff and
-                        rakehells of that wanton City, whom som call'd <hi>Myrmidons,</hi> others
-                        their <hi>Bandogs,</hi> to rabble the King out of Town, we brought also
+                        <ref type="editorial" target="#rakehells">rakehells</ref> of that wanton City, whom som call'd <hi><ref type="editorial" target="#Myrmidons">Myrmidons</ref>,</hi> others
+                        their <hi><ref type="editorial" target="#bandogs">Bandogs</ref>,</hi> to rabble the King out of Town, we brought also
                         thither the silly Swains of the Country like a flock of Geese to gaggle up
                         and down the streets with papers in their hats they knew not about what; We
                         managed the businesse afterwards so dextrously, and did aggravate things by
@@ -2702,14 +2701,14 @@
                         afterwards by tossing and tumbling him up and down, by depriving him of the
                         comfort of all things that use to be dear unto man, as his wife, children,
                         friends, and servants, by working upon his <pb n="36" facs="tcp:98502:30"/>
-                        conscience in a compulsatory way, and stretching it upon the very tenter; In
+                        conscience in a compulsatory way, and stretching it upon the very <ref type="editorial" target="#tenter">tenter</ref>; In
                         summe, we have reduc'd that Country to a conformity with this of your
                         Majesties, to a perfect Chaos of all confusion, we have brought the sway
                         into the common peeples hands, making all the <hi>Nobility</hi> and
                             <hi>Gentry</hi> to crouch and cringe unto them; And never did common
                         peeple more truly act the part, and discover the genius of a common peeple
                         more lively, whose nature is still thirsting after novelties, and
-                            <hi>Utopian</hi> Reformations, though oftentimes they fool themself
+                        <ref type="editorial" target="#Utopian_Reformations"><hi>Utopian</hi> Reformations</ref>, though oftentimes they fool themself
                         thereby into a a baser kind of slavery, finding when 'tis too late those
                         specious idaea's, and confus'd forms of Government they apprehended at
                         first, and hugg'd in their own conceits, to be at last but meer absurdities,
@@ -2719,24 +2718,24 @@
                         diffus'd those supposititious fears and jealousies, formerly spoken of, to
                         distract the brains of the silly vulgar; Instead of <hi>Lights</hi> we put
                             <hi>Firebrands</hi> in their Churches, who, according as we did dictat
-                        unto them, did baul out nothing but sediti on, war, and blood; We have made
-                        som of them to have as good an opinion of the <hi>Alchoran</hi> as of their
+                        unto them, did baul out nothing but sedition, war, and blood; We have made
+                        som of them to have as good an opinion of the <hi><ref type="editorial" target="#Alchoran">Alchoran</ref></hi> as of their
                         own <hi>Liturgy;</hi> We made new <hi> Ordinances </hi> to batter down all
-                        the antient <hi>Canons</hi> of the Church, we have made them to un-saint all
+                        the antient <hi><ref type="editorial" target="#canons">Canons</ref></hi> of the Church, we have made them to un-saint all
                         those who were call'd <hi>Apostles,</hi> to prophane and plunder all places
                         that were consecrated, we brought som of them to put a division 'twixt the
                             <hi>Trinity</hi> it self, we have brought them to keep their
-                            <hi>Fasts</hi> more solemnly than the <hi>Sabboth,</hi> upon which day
+                            <hi>Fasts</hi> more solemnly than the <hi><ref type="editorial" target="#Sabboth">Sabboth</ref>,</hi> upon which day
                         we made them usually not onely to sit in Councell, but to put in execution
                         their chief designs of blood; To work all this, the main and most materiall
                         thing we made use of was <hi>spirituall pride</hi> your Majesty's old
-                        acquaintance, which pride we have infus'd into the mind of every Mechanic,
+                        acquaintance, which pride we have infus'd into the mind of every <ref type="editorial" target="#mechanic">Mechanic</ref>,
                         or Country-Swain, who will boldly now undertake to expound any Text of
                         Scripture new or <pb n="37" facs="tcp:98502:30"/> old upon the warrant of
                         his own giddy brain; Insomuch that we have made that Book which they call
                         the <hi>Bible,</hi> that was ordained for the Charter of their
                             <hi>Salvation,</hi> to be the chiefest instrument of their <hi>
-                            Damnation; </hi> We have brought those exotic words <hi>Plundring</hi>
+                            Damnation; </hi> We have brought those <ref type="editorial" target="#exotic_words">exotic words</ref> <hi>Plundring</hi>
                         and <hi>Storming,</hi> and that once abominable word <hi>Excise</hi> to be
                         now familiar among them, they are all made free Denizens, and naturaliz'd
                         among them; We have made those who came petitioners for <hi>peace</hi> to
@@ -2748,40 +2747,40 @@
                         a forfeiture of all their livelihoods before conviction, or any preceding
                         charge, upon the other, by forcing them to take contradictory <hi>Oaths,
                             Engagements,</hi> and <hi>Protestations;</hi> On that foolish
-                        superstitious day of <hi>Christmas,</hi> with other Festi vals, we have
+                        superstitious day of <hi>Christmas,</hi> with other Festivals, we have
                         brought them to shut up their Churches, and to open their Shops and
                         Shambles, so that in time they will forget the very memory of the
-                            <hi>Incarnation</hi> of their Saviour; We have brought them to have as
-                        little reverence of their <hi>Temples</hi> as of their <hi>Tap-houses,</hi>
-                        and to hold the Church to be no more than a Charnell-house of rotten bones;
+                            <hi><ref type="editorial" target="#incarnation">Incarnation</ref></hi> of their Saviour; We have brought them to have as
+                        little reverence of their <hi>Temples</hi> as of their <hi><ref type="editorial" target="#tap-houses">Tap-houses</ref>,</hi>
+                        and to hold the Church to be no more than a <ref type="editorial" target="#charnell-house">Charnell-house</ref> of rotten bones;
                         And though they still cringe and stand bare-headed before any wrangling
-                        Bench of common pleading, yet we have so stiffned their joynts, and made
+                        <ref type="editorial" target="#bench">Bench</ref> of common pleading, yet we have so stiffned their joynts, and made
                         their heads so tender in that which they call God's House, that there, they
                         can neither bow the one, nor scarce uncover the other; We have made the
                         fundamentall Laws to be call'd but <hi>meer formalities;</hi> We have made
-                        that which was call'd their Great Charter to be torn to a thousand flitters,
+                        that which was call'd their <ref type="editorial" target="#Great_Charter">Great Charter</ref> to be torn to a thousand <ref type="editorial" target="#flitters">flitters</ref>,
                         and stretcht the <hi>priviledge</hi> of the Commons so wide, that it hath
                         quite swallowed the Royall <hi> Prerogative, </hi> and all other
                         priviledges; We have grub'd up, and cast away those hopefull Plants that
-                        grew in <pb n="38" facs="tcp:98502:31"/> their <hi>two Seminaeries</hi> of
+                        grew in <pb n="38" facs="tcp:98502:31"/> their <hi>two <ref type="editorial" target="#seminaeries">Seminaeries</ref></hi> of
                         Learning, and set in them graffs of our own choice; We have made the wealth
                         of Town and Country, of Poor and Rich, to shine in plunder upon the
                         Souldiers backs; We have made them command <hi>free-quarter</hi> of those,
                         that were more sitting to ask <hi>alms</hi> of them; We have made them rifle
-                        the Monuments of the dead, to rob the very Laza retro, to strip the Orphan
+                        the Monuments of the dead, to rob the very <ref type="editorial" target="#Lazaretto"><sic>Lazaretro</sic><corr>Lazaretto</corr></ref>, to strip the Orphan
                         and Widow; We have made them offer violence to the very Vegetables and
                         inanimat Stones, to violat any thing that was held holy, to make Socks of
-                        Surplices, to water their beasts at the Font, and feed them on the Altar,
-                        and to term the thing they cal the Sacrament to be but a two-penny Ordinary;
+                        <ref type="editorial" target="#surplices">Surplices</ref>, to water their beasts at the <ref type="editorial" target="#font">Font</ref>, and feed them on the Altar,
+                        and to term the thing they cal the Sacrament to be but a <ref type="editorial" target="#two-penny_ordinary">two-penny Ordinary</ref>;
                         We have made them use on the close stoole that Book wherein the public
                         Devotion of the whole Nation consisted; In fine, we have made them turn
                         supposed superstition to gross prophaness, preaching to prating, praying to
-                        raving, government to con fusion, and freedom to fetters; We have so
-                        intoxica ted that dear daughter of yours <hi>Polihaima,</hi> that she knows
+                        raving, government to confusion, and freedom to fetters; We have so
+                        intoxicated that dear daughter of yours <hi>Polihaima,</hi> that she knows
                         not what way to turn her self; And whereas her Apprentices did rise up like
                         so many Cubs of Tygers against their lawfull Prince, they are now becom as
                         came as so many silly sheep against the Souldiery; We have puzzled their
-                        Pericranium with vertiginous fancies, and fears among themselfs, that one
+                        <ref type="editorial" target="#pericranium">Pericranium</ref> with vertiginous fancies, and fears among themselfs, that one
                         neighbour dare not trust the other; To conclude, we have eclipsed the glory
                         of that Nation, we have made them by all peeple far and neer that ever had
                         knowledg, correspondence, or any commerce with them, to be pittied by som,
@@ -2790,16 +2789,16 @@
                         of confusion, that it is a fit place onely for your infernall Majesty to
                         keep your Court in, for ther's never a <hi>Crosse</hi> there to fright you
                         now: 'Tis tru they retain it still upon their coines of gold and silver, in
-                        honour of your <hi>Plutonian</hi> Highnesse as you are <hi>Dis</hi> and god
+                        honour of your <hi>Plutonian</hi> Highnesse as you are <hi><ref type="editorial" target="#Dis">Dis</ref></hi> and god
                         of riches. </p>
                     <p>
                         <hi>Megaera</hi> having thus given up an account in behalf <pb n="39"
                             facs="tcp:98502:31"/> of her self and her two sisters, they all bowed
                         their snaky heads down to their very feet, which were toed with Scorpions,
-                        before the black Throne of <hi> Beelzebub, </hi> who giving such a humm that
+                        before the black Throne of <hi> <ref type="editorial" target="#Beelzebub">Beelzebub</ref>, </hi> who giving such a humm that
                         made all Hell to tremble, answered thus, </p>
                     <p> My pretious and most trusty <hi>Tartarean</hi> daughters, we highly approve
-                        of the super-erogatory service you have don us for the propagation of our
+                        of the <ref type="editorial" target="#super-erogatory">super-erogatory</ref> service you have don us for the propagation of our
                         Empire upon Earth, and specially in <hi>
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
                                 >Gheriona</placeName>;</hi> we have sued a long time to have a lease
@@ -2809,8 +2808,8 @@
                         </hi> 'tis not worth the while; Therfore when you have visited those of that
                         Nation whom you have sent hither already to peeple this pit, I would have
                         you return thither, and prepare that place for one of our principall
-                        habitations, never leave them till you have thrust out <hi>Religionem ex
-                            solo</hi> as well as <hi>Regem ex solio;</hi> make Law, Religion,
+                        habitations, never leave them till you have thrust out <hi xml:lang="la"><ref type="editorial" target="#religionem_ex_solo">Religionem ex
+                            solo</ref></hi> as well as <hi xml:lang="la"><ref type="editorial" target="#regem_ex_solio">Regem ex solio</ref>;</hi> make Law, Religion,
                         Allegiance, and every thing els <hi>Arbitrary,</hi> let not one government
                         last long, but shuffle the Cards so that a new Trump may be turnd up often,
                         create still new fears, and foment fresh divisions among them; let the son
@@ -2819,7 +2818,7 @@
                         other, and the Sea with both, till that the whole Nation be at last
                         extinguished that one may not be left to pisse against a wall; Let not a
                         Church or Chappell, Hospitall or Colledge stand in the whole Isle. I intend
-                        to have a new Almanack of Saints at my comming, for I have som Star-gazers
+                        to have a new <ref type="editorial" target="#almanack">Almanack</ref> of Saints at my comming, for I have som Star-gazers
                         there fit for my purpose; Make haste therefore, and acquit your selfs of
                         your duty for fear a peace be shuffl'd up, and that <hi>
                             <placeName type="cypher" subtype="place" ref="#Artonia"
@@ -2828,7 +2827,7 @@
                             <placeName type="cypher" subtype="place" ref="#Tumontia"
                                 >Tumontia</placeName>
                         </hi> appeer in the busines, and espouse the quarrell of young
-                            <hi>Caroloman;</hi> And if you carry your selfs well in this employment,
+                            <hi><ref type="editorial" target="#Caroloman">Caroloman</ref>;</hi> And if you carry your selfs well in this employment,
                         I may chance give you <hi>
                             <placeName type="cypher" subtype="place" ref="#Carboncia"
                                 >Carboncia</placeName>
@@ -2836,7 +2835,7 @@
                     <p> The three <hi>Lethean</hi>
                         <sic>Futies</sic>
                         <corr>Furies</corr> with a most profound reverence replied, May it please
-                        your Majesty, your Ferriman <hi>Charon</hi> is continually so pestered with
+                        your Majesty, your Ferriman <hi><ref type="editorial" target="#Charon">Charon</ref></hi> is continually so pestered with
                         such multitudes of <hi>
                             <name type="cypher" subtype="adj" ref="#Gheriona">Gherionian</name>
                         </hi> and <hi>
@@ -2844,38 +2843,38 @@
                         </hi> passengers, <pb n="40" facs="tcp:98502:32"/> that we were forc'd to
                         stay a long time ere we could be transported hither, and we fear we shall be
                         so hindred again. Therfore we most humbly desire for our better expedition,
-                        that you would vouchsafe to give us a speciall <hi>Mandamus</hi> that we may
-                        be serv'd first, with a <hi>non obstante,</hi> when we com to the banks of
+                        that you would vouchsafe to give us a speciall <hi xml:lang="la"><ref type="editorial" target="#mandamus">Mandamus</ref></hi> that we may
+                        be serv'd first, with a <hi xml:lang="la"><ref type="editorial" target="#non_obstante">non obstante</ref>,</hi> when we com to the banks of
                             <hi>Styx.</hi>
                     </p>
                     <p> You shall dear daughters, said <hi>Pluto,</hi> and my Warrant shall be
                         addrest to som <hi>
                             <name type="cypher" subtype="adj" ref="#Gheriona">Gherionian</name>
-                            Tarpalins,</hi> wherof ther are abundance these few years past, whom
+                            <ref type="editorial" target="#tarpalins">Tarpalins</ref>,</hi> wherof ther are abundance these few years past, whom
                             <hi>Charon</hi> hath entertaind for his journey-men. </p>
                     <p> Having listned all this while unto what pass'd 'twixt <hi>Pluto</hi> and his
                         Furies, my guiding spirit did lead me up and down Hell to see the various
                         sorts of torments that are there, which indeed are innumerable both old and
-                        new; The first I beheld was <hi>Ixion</hi> who was tyed with ugly Vipers to
+                        new; The first I beheld was <hi><ref type="editorial" target="#Ixion">Ixion</ref></hi> who was tyed with ugly Vipers to
                         a wheel that whirl'd about perpetually, and I might perceive a multitude of
                         lesser wheels newly made therabouts, wherunto great nombers of <hi>
                             <persName type="cypher" subtype="plu" ref="#Gheriona"
                                 >Gherionians</persName>,</hi> and divers of my acquaintants were
                         bound in like manner; I might discern also hard by a huge company of new
-                            <hi>Windmills,</hi> and bodies tyed with black-spotted Snakes at every
+                            <hi><ref type="editorial" target="#Windmills">Windmills</ref>,</hi> and bodies tyed with black-spotted Snakes at every
                         wing turning round perpetually; A little further ther were a great many
                         broken by <hi>Milstones</hi> who were whirl'd with them about incessantly;
                         In another place I might see black <hi>Whirlpools</hi> full of tormented
                         souls turning still round, I asked what was the reson of so many whirling
-                        tortures? My good Spirit answered, All these, except <hi>Ixion</hi> 's
+                        tortures? My good Spirit answered, All these, except <hi>Ixion</hi>'s
                         wheel, are new torments appointed for <hi>
                             <name type="cypher" subtype="adj" ref="#Gheriona">Gherionian</name>
-                        </hi> Sectaries, who had destroyed from top to bottom all Government both of
+                        </hi> <ref type="editorial" target="#sectaries">Sectaries</ref>, who had destroyed from top to bottom all Government both of
                         Church and State, And as their brains turn'd round upon earth after every
                         wind of Doctrine, so their souls turn here in perpetuall torments of
                         rotation. </p>
-                    <p> A little further I spied <hi>Prometheus</hi> removed thither from
-                            <hi>Caucasus,</hi> with a ravenous Vulture tearing and feeding upon his
+                    <p> A little further I spied <hi><ref type="editorial" target="#Prometheus">Prometheus</ref></hi> removed thither from
+                            <hi><ref type="editorial" target="#Caucasus">Caucasus</ref>,</hi> with a ravenous Vulture tearing and feeding upon his
                         liver, which as one part was eaten, renewed presently after, and abundance
                         of new commers were tormented in the same manner, these <pb n="41"
                             facs="tcp:98502:32"/> I was told they were <hi>
@@ -2887,10 +2886,10 @@
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
                                 >Gheriona</placeName>
                         </hi> were tortured, for offring to dive too far into the high points of
-                            <hi>Predestination, Election,</hi> and <hi>Reprobation,</hi> being not
-                        contented <hi>sapere ad sobrietatem,</hi> but were gaping ever and anon
+                            <hi><ref type="editorial" target="#predestination">Predestination</ref>, <ref type="editorial" target="#election">Election</ref>,</hi> and <hi><ref type="editorial" target="#reprobation">Reprobation</ref>,</hi> being not
+                        contented <hi xml:lang="la"><ref type="editorial" target="#sapere_ad_sobrietatem">sapere ad sobrietatem</ref>,</hi> but were gaping ever and anon
                         after new lights, and flashes of illuminations to pry into the Book of Life. </p>
-                    <p> Then I came to the bottomles Tub which <hi>Danaus</hi> daughters were a
+                    <p> Then I came to the bottomles Tub which <hi><ref type="editorial" target="#Danaus">Danaus</ref></hi> daughters were a
                         filling, a nomberles company of other such tubs were there, and <hi>
                             <name type="cypher" subtype="adj" ref="#Gheriona">Gherionian</name>
                         </hi> women and men were incessantly labouring to fill them up with the
@@ -2902,7 +2901,7 @@
                         other devotion than to be alwaies <hi>learning,</hi> and never comming to
                         the truth, as these poor restlesse fillers could never come to any bottom. </p>
                     <p> Then I beheld the most horrid tortures of those Giants who wold have pulld
-                            <hi>Iupiter</hi> out of his Throne, and a world of <hi>
+                            <hi><ref type="editorial" target="#Iupiter">Iupiter</ref></hi> out of his Throne, and a world of <hi>
                             <persName type="cypher" subtype="sing" ref="#Gheriona"
                                 >Gherionians</persName>
                         </hi> among them, who partaked of the same tortures, because they had
@@ -2910,28 +2909,28 @@
                     <p> Not far further I might spy dazling my eyes fiery glowing tubs made
                         Pulpit-like, and I was told they were prepared for those prophane
                         presumptuous Mechanicks, and other lay-men who use to preach, and so abuse
-                        the sacred Oracles of God; And <hi>Uzza</hi> was not far off, who lay in
+                        the sacred Oracles of God; And <hi><ref type="editorial" target="#Uzza">Uzza</ref></hi> was not far off, who lay in
                         torments there for being too bold with the Holy Ark. </p>
                     <p> Not far distant I saw hoops of iron that were made <hi>Garter-like</hi> of
-                        hot candent steel, I was told that they were design'd for the perjur'd
-                        Knights of that <hi>Order</hi> in <hi>
+                        hot <ref type="editorial" target="#candent">candent</ref> steel, I was told that they were design'd for the perjur'd
+                        <ref type="editorial" target="#Knights_of_the_Garter">Knights of that <hi>Order</hi></ref> in <hi>
                             <placeName type="cypher" subtype="place" ref="#Gheriona"
                                 >Gheriona</placeName>
                         </hi> to wear upon their legs when they com thither, for breaking in the
                         late war the solemn Oath they had taken at their Installment, to <hi> defend
-                            the Ho nour and Quarrells, the Rights and Dignities of their So verain,
+                            the Honour and Quarrells, the Rights and Dignities of their Soverain,
                             &amp;c. </hi>
                     </p>
                     <p> Nere unto them I might see brasse hoops glowing <pb n="42"
                             facs="tcp:98502:33"/> with fire, and they were <hi>Scarfs-like,</hi> I
-                        was told they were ordained for those Knights of the <hi>Bath</hi> to wear
+                        was told they were ordained for those <ref type="editorial" target="#Knights_of_the_Bath">Knights of the <hi>Bath</hi></ref> to wear
                         for Ribbands next their skins when they came thither, for infringing that
                         sacred <hi>Sacramentall Oath</hi> they took at their election, which was,
                             <hi>To love their Soverain above all earthly creture, and for his Right
                             and Dignity to live and die.</hi>
                     </p>
-                    <p> A little beyond I saw a <hi>Copper</hi> -table with chairs of the same, all
-                        candent hot, I was told that those were for perjur'd Privy-Councellors who
+                    <p> A little beyond I saw a <hi>Copper</hi>-table with chairs of the same, all
+                        candent hot, I was told that those were for perjur'd <ref type="editorial" target="#privy-councellors">Privy-Councellors</ref> who
                         had broke their Oath to their King, which obliged them to <hi>be tru and
                             faithfull servants unto him, and if they knew or understood any manner
                             of thing to be attempted, done, or spoken against his Majestie's Person,
@@ -2949,13 +2948,13 @@
                         besides those of <hi>fire;</hi> Yes, I was answered, for to speak of
                             <hi>fire</hi> to a peeple habituated to a cold Climat were not onely to
                         make them slight Hell, but to have a mind to go thither; So my Spirit
-                        brought me a little Northward, and shewed me a huge Lough, where ther were
+                        brought me a little Northward, and shewed me a huge <ref type="editorial" target="#lough">Lough</ref>, where ther were
                         frosted Mountains up and down, and I might discover amongst them a world of
-                            <hi>Blew-caps</hi> lying in beds of yce, with their noses and toes nipt,
-                        the isicles stuck to their fingers ends like horns, and a bleak hispid wind
+                            <hi><ref type="editorial" target="#blew-caps">Blew-caps</ref></hi> lying in beds of yce, with their noses and toes nipt,
+                        the isicles stuck to their fingers ends like horns, and a bleak <ref type="editorial" target="#hispid">hispid</ref> wind
                         blew incessantly upon them, they made the most pitteous noise that
                         me-thought I had heard in all Hell, for they wawl'd, screech'd, and howl'd
-                        out ever and anon this dismall note, <hi>Wea is me, wea is me that ever I
+                        out ever and anon this dismall note, <hi><ref type="editorial" target="#Wea_is_me">Wea is me</ref>, wea is me that ever I
                             betraid my gid King.</hi>
                     </p>
                     <p>
@@ -2964,7 +2963,7 @@
                         me, that ther were no <hi>Atheists</hi> in Hell at all; 'tis tru they were
                         so upon <hi>Earth</hi> before they came hither, but here they sensibly find
                         and acknowledge ther is a God by his justice and judgments, for ther is here
-                            <hi>poena sensûs</hi> and <hi>poena damni,</hi> ther is inward and
+                            <hi xml:lang="la">poena sensûs</hi> and <hi xml:lang="la">poena damni,</hi> ther is inward and
                         outward torture, The outward torments you behold are nothing so grievous as
                         the inward regrets and agonies the souls have, to have lost <hi>Heven</hi>
                         wherof they were once capable, and to be eternally forsaken by their
@@ -2976,13 +2975,13 @@
                         neighbours torments were still greter then their own; Moreover their
                         torments never lessen, or have any mitigation by tract of time, or degrees
                         of sense, but they persevere alwaies in the same heighth, they are still
-                        fresh, and the soul made stronger to bear them; I saw that <hi>everlasting
-                            Villain</hi> who committed one of the first sacriledges we read of, by
+                        fresh, and the soul made stronger to bear them; I saw that <hi><ref type="editorial" target="#everlasting_villain">everlasting
+                            Villain</ref></hi> who committed one of the first sacriledges we read of, by
                         burning the Temple of <hi>Diana,</hi> whose torments were so fresh and
                         cruciatory upon him, as they were the first day he was hurl'd in thither;
-                            <hi>Iudas</hi> was in the same degree and strength of torture as he was
-                        the first moment he fell thither; <hi>Iack Cade, Wat Tyler, Iack Straw,</hi>
-                        and <hi>Ket the Tanner</hi> did fry as fresh as they did that very instant
+                            <hi><ref type="editorial" target="#Iudas">Iudas</ref></hi> was in the same degree and strength of torture as he was
+                        the first moment he fell thither; <hi><ref type="editorial" target="#Iack_Cade">Iack Cade</ref>, <ref type="editorial" target="#Wat_Tyler">Wat Tyler</ref>, <ref type="editorial" target="#Iack_Straw">Iack Straw</ref>,</hi>
+                        and <hi><ref type="editorial" target="#Ket_the_Tanner">Ket the Tanner</ref></hi> did fry as fresh as they did that very instant
                         they were tumbled down thither; Amongst whom it made my heart to melt within
                         me when I saw som of their new-com'd Countrymen amongst them, wherof I knew
                         divers; And though <hi>society</hi> is wont to be some solace to men in mi
@@ -3001,27 +3000,27 @@
                         </hi> and <hi>
                             <placeName type="cypher" subtype="place" ref="#Carboncia"
                                 >Carboncia</placeName>,</hi> and incite them to war; And ther was a
-                        new tenter-hook provided for one <hi xml:lang="fr">gran Villain,</hi> who
+                        new tenter-hook provided for one <hi><ref type="editorial" target="#gran_Villain">gran Villain</ref>,</hi> who
                         pronounced Sentence of death against his own Soverain Prince, whose
                             <hi>Subject</hi> he was, and whom by a sacred Oath of
                             <hi>Allegiance</hi> he was tyed to obey. </p>
                     <p> A little further I might see multitudes of Committee-men and others,
-                        slopping up drops of <hi>molten lead</hi> in lieu of <hi><ref type="editorial" target="#French_Barly-broth">French
+                        slopping up drops of <hi>molten lead</hi> in lieu of <hi><ref type="editorial" target="#french_barly-broth">French
                             Barly-broth</ref>,</hi> with a rabble of <hi> Apprentices </hi> sweeping the
                         gutters of Hell, with brooms tufted with ugly Adders and Snakes, because
                         they running into the Wars and leaving their <hi>wares,</hi> had therby
-                        broke their Indentures with their Masters, and their Oaths of
+                        broke their <ref type="editorial" target="#indentures">Indentures</ref> with their Masters, and their Oaths of
                             <hi>Allegiance</hi> to their lawfull Prince. </p>
                     <p> Passing then along towards the Ferry, a world of hideous shapes presented
-                        themselfs unto my sight; There I saw corroding cares, pannick fears, pining
+                        themselfs unto my sight; There I saw <ref type="editorial" target="#corroding">corroding</ref> cares, pannick fears, pining
                         griefs, ugly rebellion, revengefull malice, snaky discord, oppression,
                         tyranny, disobedience, perjury, sacriledge, and <hi>spirituall pride</hi>
                         (the sin that first peepled Hell) put to exquisit torments; Couches of
                         Toads, Scorpions, Asps, and Serpents were in a corner hard by; I asked for
-                        whom they were prepared, I was answered, for som <hi>Evangelizing <name
+                        whom they were prepared, I was answered, for som <ref type="editorial" target="#evangelizing_Gherionian_ladies"><hi>Evangelizing <name
                                 type="cypher" subtype="adj" ref="#Gheriona">Gherionian</name>
-                        </hi> Ladies, which did egg on their husbands to War; So having as I thought
-                        by a miraculous providence charm'd three-headed <hi>Cerberus,</hi> by
+                        </hi> Ladies</ref>, which did egg on their husbands to War; So having as I thought
+                        by a miraculous providence charm'd three-headed <hi><ref type="editorial" target="#Cerberus">Cerberus</ref>,</hi> by
                         pointing at him with the signe of the <hi>Crosse</hi> upon my fingers, we
                         passed quietly by to the Ferry, where being com I found tru what
                             <hi>Pluto</hi> had said before, that ther were divers <hi>
@@ -3052,7 +3051,7 @@
                                 <l>The prentice (with my sense) his shop unlocks,</l>
                                 <l>The milkmaid seeks her pail, porters their frocks,</l>
                                 <l>All cries and sounds return, except one thing,</l>
-                                <l> I heard no bell for <hi>Mattens</hi> toll or ring. </l>
+                                <l> I heard no bell for <hi><ref type="editorial" target="#mattens">Mattens</ref></hi> toll or ring. </l>
                             </lg>
                             <lg>
                                 <l>Being thus awak'd, and staring on the Light</l>
@@ -3063,9 +3062,9 @@
                             </lg>
                         </q>
                     </p>
-                    <p> I say, that having after such a long noctivagation, and variety of horrid
-                        visions, return'd to my perfect expergefaction, I began by a serious
-                        recollection of my self to recall to my thoughts by way of reminiscence
+                    <p> I say, that having after such a long <ref type="editorial" target="#noctivagation">noctivagation</ref>, and variety of horrid
+                        visions, return'd to my perfect <ref type="editorial" target="#expergefaction">expergefaction</ref>, I began by a serious
+                        recollection of my self to recall to my thoughts by way of <ref type="editorial" target="#reminiscence">reminiscence</ref>
                         those dismall and dreadfull objects that had appeerd unto me, for though I
                         was in <hi>Hell,</hi> yet I did not taste of <hi>Lethe</hi> all the while,
                         insomuch that I did not forget any thing which I had seen; All the said
@@ -3089,28 +3088,28 @@
                 <sp>
                     <speaker>Pererius.</speaker>
                     <p> You may perceive by the effects of this <hi>visional</hi> Dream the
-                        excellency and high prerogatives of the <hi>Human Soul,</hi> who by the
+                        excellency and high <ref type="editorial" target="#prerogatives">prerogatives</ref> of the <hi>Human Soul,</hi> who by the
                         ministry of the <hi>Imagination</hi> can make such sallies abroad, that
                         leaving the grosse tabernacle of the body she can at plesure climb up to the
                         skies, and make a Scale of the stars to conduct her to the Empyrean Heven;
                         she can also descend in a trice to the great <hi>Abysse,</hi> and take a
                         survey of the kingdom of darknes, And though it be a common Maxim that,
-                            <hi>ab Orco nulla redemptio,</hi> ther is no re turning from Hell the
-                        passage thence being irreme able, yet the <hi>Rational soul</hi> while she
+                            <hi xml:lang="la"><quote type="proverb">ab Orco nulla redemptio</quote>,</hi> ther is no returning from Hell the
+                        passage thence being <ref type="editorial" target="#irremeable">irremeable</ref>, yet the <hi>Rational soul</hi> while she
                         informs the body hath this priviledg, that she can make egresses and
                         regresses, she can enter and come off clear from <hi>Hell</hi> it self, when
                         she list, and all this in an instant; Wherin she may be said to participat
                         of that admired quality which is inhaerent in that most comfortable of all
                         cretures the <hi>Light,</hi> which is held the Souverain of all sensible
                         qualities by the Philosophers, and to com neerest to the nature of a Spirit,
-                        for <hi>Light</hi> requires but an instantaneous moment or point of time to
+                        for <hi>Light</hi> requires but an <ref type="editorial" target="#instantaneous">instantaneous</ref> moment or point of time to
                         perform <pb n="47" facs="tcp:98502:35"/> its office of illumination, and to
                         dilate it self from one Pole to the other throughout the whole Hemiphere,
                         whence some infer that <hi>Light</hi> is incorporeal, because 'tis an
-                        unquestion'd principle among the Na turalists, that all bodies require a
+                        unquestion'd principle among the Naturalists, that all bodies require a
                         succession of time in their motion, which <hi>Light</hi> needs not; But ther
                         is this difference 'twixt the <hi>Imagination</hi> of a human soul and
-                            <hi>Light,</hi> that ther besom places wherinto <hi>Light</hi> cannot
+                            <hi>Light,</hi> that ther be som places wherinto <hi>Light</hi> cannot
                         enter, but ther is no part of the Universe so impervious where the
                             <hi>Imagination</hi> may not make his accesses and recesses at plesure,
                         as appeers by yours while you made that progresse during the time of that
@@ -3128,22 +3127,22 @@
                         and perjuries of my own Nation makes me abhor the very name of <hi>Man,</hi>
                         much more his <hi>nature;</hi> For I dare confidently assert, that ther were
                         never since the Devill had power to possesse poor Mortalls such <hi>
-                            Heteroclites </hi> in Religion, such a <hi>Bedlam</hi> of Sectaries, who
+                            <ref type="editorial" target="#heteroclites">Heteroclites</ref> </hi> in Religion, such a <hi>Bedlam</hi> of Sectaries, who
                         to exalt the Kingdom of Christ wold heave it up on <hi> Beelzebub </hi> 's
                         back, for 'tis the Devill's Reformation to turn order to confusion, and
                         certainties to incertitudes as they have done; But these Refiners of
-                        Government will prove Quack-salvers at last, for in lieu of raising up a
+                        Government will prove <ref type="editorial" target="#quack-salvers">Quack-salvers</ref> at last, for in lieu of raising up a
                         Common-wealth, they have pull'd down the two main Pillars which use to
                         support all States, <hi>viz. Religion</hi> and <hi>Iustice,</hi> making both
                             <hi>Arbitrary,</hi> and tumbling all things into a horrid disorder and
                         hurliburly, insomuch that it may be truly said, these new sorts of
                             <hi>Recusants</hi> did more hurt than ever the old could have don, if
-                        the subterranean plot of <hi>Nitre</hi>
+                        the subterranean <ref type="editorial" target="#plot_of_Nitre">plot of <hi>Nitre</hi></ref>
                         <pb n="48" facs="tcp:98502:36"/> had taken effect; For <hi>that</hi> had
                         onely destroyed som few of the Royall Race, of the Prelates and Peers then
-                        in being, but these hell-hounds have wholly extin guished and blown up all
+                        in being, but these hell-hounds have wholly extinguished and blown up all
                         the three to perpetuity, and all this onely by the stench of their
-                        pestiferous breath; Nor have they offered violence to <hi>Religion</hi>
+                        <ref type="editorial" target="#pestiferous">pestiferous</ref> breath; Nor have they offered violence to <hi>Religion</hi>
                         onely, but they have affronted <hi>Reson</hi> it self, nay they have baffled
                             <hi>Common sense;</hi> And for all this we may thank <hi>
                             <placeName type="cypher" subtype="place" ref="#Carboncia"
@@ -3151,12 +3150,12 @@
                             <placeName type="cypher" subtype="place" ref="#Polyhaima"
                                 >Polihaima</placeName>
                         </hi> that rotten-hearted City, who like a fat cheese is so full of Maggots;
-                        And indeed what could be expected else from these pseudopolitians but
-                        disorder, confusion, and ataxy, considering how their first reach of policy
+                        And indeed what could be expected else from these <ref type="editorial" target="#pseudopolitians">pseudopolitians</ref> but
+                        disorder, confusion, and <ref type="editorial" target="#ataxy">ataxy</ref>, considering how their first reach of policy
                         was to throw the ball of discord 'twixt the Subject and his Souvrain, whom
                         yet they had vowed to make the best belovedst Prince that ever was; Insomuch
                         that <hi>darknesse</hi> it self is no more opposit to <hi>light,</hi> as
-                        their actions were diametri call to their words, oaths, and protestations.
+                        their actions were <ref type="editorial" target="#diametricall">diametricall</ref> to their words, oaths, and protestations.
                     </p>
                 </sp>
                 <sp>
@@ -3164,44 +3163,44 @@
                     <p> Truly they are stupendous things that you have told me, but touching the
                         difference you speak of that they did put 'twixt Prince and Peeple, it was
                         the most compendious way to bring all things to confusion and ruine, to
-                        which purpose I shall relate unto you an <hi>Apolog;</hi> Ther hapned a
+                        which purpose I shall relate unto you an <hi><ref type="editorial" target="#Apolog">Apolog</ref>;</hi> Ther hapned a
                         shreud commotion and distemper in the <hi>Body Naturall</hi> 'twixt the
-                            <hi>Head</hi> and the <hi> Mem bers, </hi> not onely the <hi>noble parts
+                            <hi>Head</hi> and the <hi> Members, </hi> not onely the <hi>noble parts
                             (many</hi> of them) but the <hi>common</hi> inferiour organs banded
                         against Him in a high way of presumption; The <hi>heart</hi> which is the
-                        source of life with the <hi>pericardium</hi> about it did <hi>swell</hi>
+                        source of life with the <hi><ref type="editorial" target="#pericardium">pericardium</ref></hi> about it did <hi>swell</hi>
                         against him, the <hi>splene</hi> and <hi>gall</hi> flowed over, the
                             <hi>liver</hi> gathered ill blood, all the <hi>humors</hi> turned to
                             <hi>choller</hi> against him; the <hi>arms</hi> lifted up themselfs
                         against him, neither <hi>back, hamms,</hi> or <hi>knees</hi> wold bow to
                         him, nay the very <hi>feet</hi> offered to kick him; The <hi>ribbs</hi> and
-                            <hi>reins,</hi> the <hi> hypocondrium, </hi> the <hi>diaphragma,</hi>
-                        the <hi>miseraik</hi> and <hi>emulgent</hi> veins were fill'd with
-                            <hi>corrupt</hi> blood against him, nay the <hi> hypogastrium </hi> and
+                            <hi>reins,</hi> the <hi> <ref type="editorial" target="#hypocondrium">hypocondrium</ref>, </hi> the <hi>diaphragma,</hi>
+                        the <hi><ref type="editorial" target="#miseraik">miseraik</ref></hi> and <hi><ref type="editorial" target="#emulgent">emulgent</ref></hi> veins were fill'd with
+                            <hi>corrupt</hi> blood against him, nay the <hi> <ref type="editorial" target="#hypogastrium">hypogastrium</ref> </hi> and
                         the <hi>bowells</hi> made an <hi>intestine</hi> warr against him; While this
-                        feud lasted, it hapned that these tumultuary <hi>members</hi> fell out among
+                        feud lasted, it hapned that these <ref type="editorial" target="#tumultuary">tumultuary</ref> <hi>members</hi> fell out among
                         themselfs, <pb n="49" facs="tcp:98502:36"/> the <hi>hand</hi> wold have all
                         the fingers equall, nay the <hi>toes</hi> wold be all of an even length, and
                         the rest of the subservient <hi>members</hi> wold be <hi>Independent;</hi>
-                        They grew so foolish that they wold have the <hi>fundament</hi> to be where
+                        They grew so foolish that they wold have the <hi><ref type="editorial" target="#fundament">fundament</ref></hi> to be where
                         the <hi>mouth</hi> is, the <hi>brest</hi> where the <hi>back,</hi> the
-                            <hi>belly</hi> where the <hi>brain,</hi> and the <hi>yard</hi> where the
+                            <hi>belly</hi> where the <hi>brain,</hi> and the <hi><ref type="editorial" target="#yard">yard</ref></hi> where the
                             <hi>nose</hi> is; The <hi>sholders</hi> shold be said to be no more
                         backwards, nor the <hi>leggs</hi> downwards; a bloody quarrell fell out
                         'twixt the <hi>heart</hi> and the <hi>liver</hi> which of them received the
                         first formation, and whether of the two be the chiefest shop of
-                        languification, which question bred so much gall 'twixt the
+                        <ref type="editorial" target="#languification">languification</ref>, which question bred so much gall 'twixt the
                             <hi>Aristotelians</hi> and the <hi>Galenists;</hi> While this
-                            <hi>spleene</hi> and strange <hi>tympany</hi> of pride lasted, it causd
+                            <hi><ref type="editorial" target="#spleene">spleene</ref></hi> and strange <hi><ref type="editorial" target="#tympany">tympany</ref></hi> of pride lasted, it causd
                         such an ebullition and heat in the masse of <hi>blood,</hi> such a stiffnes
                         in the <hi>cartilages</hi> and <hi>gristles,</hi> such a lanknes in the
-                            <hi>arteries,</hi> that it put the whole <hi>compositum</hi> in a high
-                        burning Feaver or kind of ravening Frenzy, which in time grew Hepticall, and
+                            <hi>arteries,</hi> that it put the whole <hi><ref type="editorial" target="#compositum">compositum</ref></hi> in a high
+                        burning Feaver or kind of ravening Frenzy, which in time grew <ref type="editorial" target="#hepticall">Hepticall</ref>, and
                         so threatned a dissolution of the whole frame of the body. </p>
-                    <p> 'Tis to be feard that the same fate attends the <hi> Politicall </hi> body
+                    <p> 'Tis to be feard that the same fate attends the <hi>Politicall</hi> body
                         of your Nation as did the <hi>Naturall</hi> I spoke of; But matters may
                         mend, and as you began to find a Reformation in your self before you were
-                        trans muted to this shape, so the whole Nation may come to their old temper
+                        transmuted to this shape, so the whole Nation may come to their old temper
                         again; Therfore you shal do well, now that you are invited by so pregnant an
                         opportunity, and so reall a proffer, to shake off that Apish or Monky-fac'd
                         figure you now wear, and resume the noble erect shape of Man, to look
@@ -3213,28 +3212,28 @@
                 </sp>
                 <sp>
                     <speaker>Ape.</speaker>
-                    <p> Sir, you may as soon Quadrat a <hi>Circle,</hi> which the <hi> Philosopher
-                        </hi> holds to be impossible, as convert a <hi>Roundhead,</hi> for I have
+                    <p> Sir, you may as soon <ref type="editorial" target="#quadrat">Quadrat</ref> a <hi>Circle,</hi> which the <hi> Philosopher
+                        </hi> holds to be impossible, as convert a <hi><ref type="editorial" target="#Roundhead">Roundhead</ref>,</hi> for I have
                         felt his pulse so well, that when a crochet <pb n="50" facs="tcp:98502:37"/>
-                        hath got once into his noddle, 'tis like Quick-silver in a hot loaf, which
+                        hath got once into his <ref type="editorial" target="#noddle">noddle</ref>, 'tis like Quick-silver in a hot loaf, which
                         makes it skip up and down to the astonishment of the ignorant beholder; So
-                        when a ca prichio, or some fanaticall idaea hath once entred into the
+                        when a <ref type="editorial" target="#caprichio">caprichio</ref>, or some fanaticall idaea hath once entred into the
                         pericranium of this pack of peeple, it causeth such a <hi>Vertigo,</hi> that
                         all the Druggs of <hi>Egypt</hi> cannot cure them: Therfore, noble Prince,
                         you may please to practise your eloquence upon som other, but as for me you
                         spend your breath in vain, and all this while you have said as good as
-                        nothing, for I so far detest <hi>human kind,</hi> that, in the mind I am in,
-                        I had rather undergo an <hi>Annihilation,</hi> or to be reduced to a
-                            <hi>non-Entity,</hi> which is so horrid a thing to all created na tures,
+                        nothing, for I so far detest <hi>humankind,</hi> that, in the mind I am in,
+                        I had rather undergo an <hi><ref type="editorial" target="#annihilation">Annihilation</ref>,</hi> or to be reduced to a
+                            <hi>non-Entity,</hi> which is so horrid a thing to all created natures,
                         that the very devills themselfs abhorr it, then be as I was: Therfore I am
-                        resolved never to turn <hi>Man</hi> again, much lesse a <hi>Cherionian,</hi>
-                        for, <hi>in statu quo nunc,</hi> I hold him to be not onely the prophanest
-                        sect of <hi> Chri stians, </hi> but the worst race of <hi>Mankind;</hi> The
+                        resolved never to turn <hi>Man</hi> again, much lesse a <hi><persName type="cypher" subtype="sing" ref="#Gheriona"><sic>Cherionian</sic></persName><corr>Gherionian</corr>,</hi>
+                        for, <hi xml:lang="la"><ref type="editorial" target="#in_statu_quo_nunc">in statu quo nunc</ref>,</hi> I hold him to be not onely the prophanest
+                        sect of <hi> Christians, </hi> but the worst race of <hi>Mankind;</hi> The
                         wildest <hi>Moor, Arab,</hi> or <hi>Tartar</hi> is a Saint in comparison of
                         him. </p>
                     <p> But I espy an ill-favoured <hi>Snayl</hi> creeping hard by, with her house
                         upon her back, and stretching forth her ugly horns, which base creture those
-                        of my present species do naturally loath, ther being a perfect antipathy
+                        of my present species do naturally loath, ther being a perfect <ref type="editorial" target="#antipathy">antipathy</ref>
                         betwixt us, as well as with all <hi>Shell-fish.</hi>
                     </p>
                 </sp>
@@ -3254,20 +3253,20 @@
                         in your countenance, that you cannot prevail with any of those transformed
                         cretures with whom you have hitherto conferrd, to comply with your so
                         laudable desires of wearing again the shapes of <hi>Men;</hi> Therfore I
-                        wold wish you to try a con clusion upon a <hi>Female,</hi> which sex useth
-                        to be more soft and pliable, and ther is one just before you, That love ly
-                            <hi>white Hinde</hi> (though she hath som black spots about her shingle)
+                        wold wish you to try a conclusion upon a <hi>Female,</hi> which sex useth
+                        to be more soft and pliable, and ther is one just before you, That lovely
+                            <hi>white Hinde</hi> (though she hath som black spots about her <ref type="editorial" target="#shingle">shingle</ref>)
                         which I see browsing upon that hedge, she was once a <hi>Woman,</hi>
                         therfore try what you can do upon her. </p>
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
                     <p> Madame, By treating with this last Animal, I find the old Adage confirmd,
-                        that <hi>Simia erit Simia, quamvis induatur veste aurea,</hi> An Ape will be
+                        that <hi xml:lang="la"><quote type="#proverb">Simia erit Simia, quamvis induatur veste aurea</quote>,</hi> An Ape will be
                         an Ape though he be clad with Tissue, he will never shake off his brutish
-                        nature; But, most <hi>sagacious</hi> Queen, though <hi>Truth,</hi> as the
+                        nature; But, most <hi><ref type="editorial" target="#sagacious">sagacious</ref></hi> Queen, <quote type="#proverb">though <hi>Truth,</hi> as the
                         proverb runs, <hi>begets hatred oftentimes in the minds of those to whom it
-                            is spoken,</hi> yet, knowing well that noble spirits do disdain to have
+                            is spoken,</hi></quote> yet, knowing well that noble spirits do disdain to have
                         one thing in the <hi>mouth,</hi> and another in the <hi>heart,</hi> I will
                         take the boldnesse to make <pb n="52" facs="tcp:98502:38"/> a free discovery
                         of my mind, though I fear to incur therby your disfavor. </p>
@@ -3294,7 +3293,7 @@
                         deluded by me, and that I had don you but half a courtesie or a fained
                         promise; Now touching promises a noble mind shold not make any, that he hath
                         not the <hi>wil</hi> to do, or the <hi>power</hi> to perform, for the one
-                        proceeds from pure <hi>dissimulation,</hi> and the o ther from meer
+                        proceeds from pure <hi>dissimulation,</hi> and the other from meer
                             <hi>foolishnes:</hi> But know, that all that intervall of time you have
                         held a parly with those transmuted Animals you have tried already, they had
                         the same reach and full light of <hi>Reson</hi> as they had when they were
@@ -3307,7 +3306,7 @@
                 </sp>
                 <sp>
                     <speaker>Morphandra.</speaker>
-                    <p> It may well be that they find and feel more con tentment, and sweetnes in
+                    <p> It may well be that they find and feel more contentment, and sweetnes in
                         that life they now lead, wherof men have no sense or knowledg, therfore 'tis
                         no thing of wonder that they desire to continue so; But go and poursue the
                         point of your enterprise, for it may be you may find som other that will be
@@ -3316,14 +3315,14 @@
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> 'Tis observed by wise men, that they who can pre scribe <pb n="53"
+                    <p> 'Tis observed by wise men, that they who can prescribe <pb n="53"
                             facs="tcp:98502:38"/> a way of themselfs to live contentedly and well,
                         are to be plac'd in the first degree of vertu; And they which cannot do it
                         of themselfs, but are content to be directed by the counsell of wiser men,
                         are to be plac'd in the second degree; But they who are not capable to
                         counsell themselfs, nor receive counsell from others, are not worthy to be
                         rank'd in the nomber of <hi>Rational</hi> cretures; Of this last kind those
-                        silly Animals are with whom I have held discours, therfore 'tis no marvail
+                        silly Animals are with whom I have held discours, therfore 'tis no <ref type="editorial" target="#marvail">marvail</ref>
                         that my perswasions could not take place with them; But knowing it to be the
                         greatest part of humanity for one to commiserat and help another, I will
                         push on my endeavours in this point, and see what I can do with that lovely
@@ -3368,7 +3367,7 @@
                         for the strangenes of her scituation, for her policy, riches, and power; But
                         though she continu still a <hi>Virgin,</hi> yet she is married once every
                         year to <hi>Neptune</hi> whose minion she is, which makes her accounted so
-                        salacious; There I had my first birth, and was accounted one of the Beauties
+                        <ref type="editorial" target="#salacious">salacious</ref>; There I had my first birth, and was accounted one of the Beauties
                         of my time, till for som dissolut courses and wildnes of youth, it pleased
                             <hi>Morphandra</hi> to give me a second kind of generation, and
                         transmute me to this shape you behold. </p>
@@ -3385,7 +3384,7 @@
                 </sp>
                 <sp>
                     <speaker>Hinde.</speaker>
-                    <p>No; ther's a short and sudden Laconicall answer for you.</p>
+                    <p>No; ther's a short and sudden <ref type="editorial" target="#laconicall">Laconicall</ref> answer for you.</p>
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
@@ -3403,11 +3402,11 @@
                         inferiour kind of creation, being made only for multiplication and plesure;
                         Others have given out, that in point of generation <hi>woman</hi> by Natures
                         design is still meant for <hi>man,</hi> and that a female is a thing brought
-                        into the world beyond Nature's intention, either by the imperfection of
-                        seed, or some other defect; Which absurd opinion how contrary it is to the
+                        into the world beyond Nature's intention, either by the <ref type="editorial" target="#imperfection_of_seed">imperfection of
+                        seed</ref>, or some other defect; Which absurd opinion how contrary it is to the
                         just order of nature, is manifest to any one that hath but a crum of wit,
                         considering how we also concur to your generation, though som of your old
-                        doting Wisards have held the contrary, holding us to be meerly passive in
+                        doting <ref type="editorial" target="#wisards">Wisards</ref> have held the contrary, holding us to be meerly passive in
                         that point. </p>
                 </sp>
                 <sp>
@@ -3416,8 +3415,8 @@
                         attended Nature's Cabinet-councell doth affirm, that in the female ther is
                         no active principle of generation, but that she is meerly passive, affording
                         onely blood and the place of conception, the plastic formative vertu
-                        residing in the <hi>Male</hi> 's feed; But this opinion is exploded by our
-                        modern Physitians and Naturalists, who assert that in the female also ther
+                        residing in the <hi>Male</hi> 's <sic>feed</sic><corr>seed</corr>; But this opinion is exploded by our
+                        <ref type="editorial" target="#modern_physitians">modern Physitians</ref> and Naturalists, who assert that in the female also ther
                         is an active and plastic principle of generation, with a procreative
                         faculty, as appeers in the engendring of a <hi>Mule</hi> which is a mix'd
                         species proceeding from the <hi>Horse</hi> and the <hi>Asse,</hi> whose
@@ -3431,11 +3430,11 @@
                         therfore she must also be an active principle in the formation; If it be so,
                         what a wrong is it to the justice and rules of nature that <hi>Women</hi>
                         shold be held but little better than <hi>Slaves?</hi> how comes it that they
-                        shold be so vilipended and re vil'd? As that foolish <hi>Naturalist</hi> or
-                            <hi>Ninny,</hi> who wish'd ther were another way to propagat Mankind
+                        shold be so <ref type="editorial" target="#vilipended">vilipended</ref> and revil'd? As that foolish <hi>Naturalist</hi> or
+                            <hi><ref type="editorial" target="#Ninny">Ninny</ref>,</hi> who wish'd ther were another way to propagat Mankind
                         than by copulation with Women; Another blurted out, that if men could live
                         without the society of women, Angels wold come down and dwell among them;
-                        But <pb n="56" facs="tcp:98502:40"/> that <hi>stinking Cynick</hi> was the
+                        But <pb n="56" facs="tcp:98502:40"/> that <hi><ref type="editorial" target="#stinking_Cynick">stinking Cynick</ref></hi> was the
                         worst of all, who passing by a tree where a woman having been abus'd and
                         beaten by her husband, had done her self violently away, he wished <hi>that
                             every tree might bear such blessed fruit.</hi>
@@ -3443,7 +3442,7 @@
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> Such speeches as these proceeded from a kind of raillery or way of jesting,
+                    <p> Such speeches as these proceeded from a kind of <ref type="editorial" target="#raillery">raillery</ref> or way of jesting,
                         not from the judgment or wishes of the parties that spoke them, and it is
                         commonly seen that they who play upon them with their <hi>wits,</hi> have
                         them most in their <hi>wishes;</hi> For ther is no sober-minded man but doth
@@ -3453,7 +3452,7 @@
                 </sp>
                 <sp>
                     <speaker>Hinde.</speaker>
-                    <p> Ther is good reson to think so, for the Creator took the first woman out of
+                    <p> Ther is good reson to think so, for the Creator took the <ref type="editorial" target="#first_woman">first woman</ref> out of
                         the <hi>midst</hi> of man therby to be his <hi>equall,</hi> and without any
                         ostentation be it spoken she was made of a more refined matter,
                             <hi>viz.</hi> of the <hi>Rib,</hi> which is a purer substance than the
@@ -3462,7 +3461,7 @@
                         ingredients than <hi>You,</hi> because that if a <hi>man,</hi> be he never
                         of so fine a <hi>paste,</hi> wash his hands with the clearest water in
                         severall clean basons never so often, yet he will leave som foulnes and
-                        faeculence behind; but a <hi>Woman</hi> can do so and leave the water at
+                        <ref type="editorial" target="#faeculence">faeculence</ref> behind; but a <hi>Woman</hi> can do so and leave the water at
                         last so clear, so fair and limpid, as when it came from the fountain or
                         source it self in few times washing. </p>
                 </sp>
@@ -3477,7 +3476,7 @@
                     <p> A <hi>servitude</hi> indeed, or rather a tyranny, and we must purchase this
                         servitude with the weight of gold, you having made that fine Law, that when
                         any woman is to be your companion, she must bring mony <pb n="57"
-                            facs="tcp:98502:40"/> with her, which you call Dower or Matrimoniall
+                            facs="tcp:98502:40"/> with her, which you call <ref type="editorial" target="#dower">Dower</ref> or Matrimoniall
                         portion forsooth. </p>
                 </sp>
                 <sp>
@@ -3485,10 +3484,10 @@
                     <p> This Law is enacted for your good, for knowing that you, in regard of your
                         in-experience and weaknes, cannot tell how to conserve your estates, the
                         said Dower is consign'd to your husbands to improve it for your further
-                        profit, and to maintain you; Inso much that your husbands cannot be called
-                            <hi>Patrons</hi> of your goods, but your <hi>Procurators</hi> in
-                        conserving them, and if you chance to survive them they all re turn to you,
-                        and most commonly with som advan tage; In the interim we trudge and toyl
+                        profit, and to maintain you; Insomuch that your husbands cannot be called
+                            <hi>Patrons</hi> of your goods, but your <hi><ref type="editorial" target="#procurators">Procurators</ref></hi> in
+                        conserving them, and if you chance to survive them they all return to you,
+                        and most commonly with som advantage; In the interim we trudge and toyl
                         without, and you within doors, onely to conserve it, which is but an easie
                         task. </p>
                 </sp>
@@ -3497,16 +3496,15 @@
                     <p> You say very well in that, for unlesse ther be a good houswife at home to
                         keep, in vain doth the husband labour abroad to gather; But wheras you say
                         that we have not that prudence to manage an estate, and govern it, I pray
-                        call to mind the Kingdom of the <hi> Amazons, </hi> how long and how wisely
+                        call to mind the Kingdom of the <hi><ref type="editorial" target="#Amazons">Amazons</ref>,</hi> how long and how wisely
                         was it governed by women? Look upon that of <hi>Babylonia</hi> which was so
-                        much amplified by <hi>Semiramis,</hi> and that of <hi>Scythia</hi> by
-                            <hi>Tomiris,</hi> especially upon a late notable Queen in <hi> Ghe
-                            riona, </hi> who rul'd triumphantly near upon 45 years; And whereas you
+                        much amplified by <hi><ref type="editorial" target="#Semiramis">Semiramis</ref>,</hi> and that of <hi>Scythia</hi> by
+                            <hi><ref type="editorial" target="#Tomiris">Tomiris</ref>,</hi> especially upon <ref type="editorial" target="#late_notable_Queen">a late notable Queen</ref> in <hi><placeName type="cypher" subtype="place" ref="#Gheriona">Gheriona</placeName>, </hi> who rul'd triumphantly near upon 45 years; And whereas you
                         speak of the want of wisdom that we have, I pray what were the nine
-                            <hi>Muses</hi> the Inventrices of all Sciences? what were the three
-                            <hi>Graces?</hi> what were the twelve <hi>Sybills?</hi> what are the
-                        three <hi> spi rituall </hi> Vertues? nay what was <hi>Minerva</hi> the
-                        goddesse of Wisdom, born out of the brain of <hi>Iove</hi> himself? were
+                            <hi>Muses</hi> the <ref type="editorial" target="#inventrices">Inventrices</ref> of all Sciences? what were the three
+                            <hi>Graces?</hi> what were the twelve <hi><ref type="editorial" target="#sybills">Sybills</ref>?</hi> what are the
+                        three <hi> spirituall </hi> Vertues? nay what was <hi><ref type="editorial" target="#Minerva">Minerva</ref></hi> the
+                        goddesse of Wisdom, born out of the brain of <hi><ref type="editorial" target="#Iove">Iove</ref></hi> himself? were
                         they not all women? </p>
                 </sp>
                 <sp>
@@ -3515,7 +3513,7 @@
                         she had no <hi>woman</hi> to her mother, for so she had not prov'd so wise;
                         And touching the <hi>Muses, Graces,</hi> and <hi>Sybills</hi> you speak of,
                         you know as well that the three <hi>fatall</hi> Sisters, and
-                            <hi>Erynnis</hi> the mother of Discord, were all women as well, together
+                            <hi><ref type="editorial" target="#Erynnis">Erynnis</ref></hi> the mother of Discord, were all women as well, together
                         with the <pb n="58" facs="tcp:98502:41"/> three <hi>Furies</hi> of Hell; But
                         if you look upon <hi>Heven,</hi> you are but few there, for among the
                             <hi>Planets</hi> ther are but <hi>two</hi> of your sex, ( <hi>viz.
@@ -3532,13 +3530,13 @@
                         more erratic and wandring humour than women; Now Sir, touching that
                             <hi>wisdom</hi> you speak of, you have more opportunity to get it by
                         conversing with the world abroad, and so pourchasing <hi>Experience</hi>
-                        which is the <hi>mirroir of wisdom;</hi> Wheras we are kept within doores,
+                        which is the <hi xml:lang="fr">mirroir of wisdom;</hi> Wheras we are kept within doores,
                         and shut up 'twixt a few walls, whence you have a saying, <hi>That that
                             woman deserves onely respect and honour, whose actions and praises go
                             not out of the walls of her own house:</hi> And hereunto that you put us
                         to all the drudgery and servile offices at home, while you are joviall and
                         feast it abroad; nor do you onely coop us up so in a kind of prison, but you
-                        clap oftentimes a barba rous kind of lock upon us, wheras <hi>you,</hi>
+                        clap oftentimes a barbarous kind of lock upon us, wheras <hi>you,</hi>
                         though you have <hi>Inclosures</hi> of your own, yet you may go abroad when
                         you list, and, when your lust drives you, feed upon the <hi>Common</hi>
                         without controul; And is not this pure slavery in us, and tyranny in you?
@@ -3546,41 +3544,41 @@
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> Concerning the first, <hi>Apelles</hi> us'd to paint a good Houswife upon a
-                        Snayl, which intimated, that she shold be as slow from gadding abroad, and
+                    <p> Concerning the first, <hi><ref type="editorial" target="#Apelles">Apelles</ref></hi> us'd to paint a good Houswife upon a
+                        Snayl, which intimated, that she shold be as slow from <ref type="editorial" target="#gadding">gadding</ref> abroad, and
                         when she went she shold carry her house upon her back, that is, she shold
                         make all sure at home; Now to a good houswife, her House shold be as the
                         Sphere to a Star, (I do not mean a <hi>wandring</hi> Starr) wherin she shold
                         twincle with neatnes as a Star in its Orb; And how can you call that a
-                        prison wherof you keep the keys, and are commandresses in chief? The <hi>
+                        prison wherof you keep the keys, and are commandresses in chief? The <hi xml:lang="la">
                             Imperium <pb n="59" facs="tcp:98502:41"/> domesticum </hi> you rule
                         within doors, whither we bring all that we gain abroad, and it is your
                         office to improve and augment it, though many of you are so lavish that you
                         make the poor husband oftentimes to <hi>turn a noble to nine-pence,</hi> as
-                        is intimated by that famous picture of <hi>Polygnottus</hi> made of one
-                            <hi>Ocnus,</hi> who being a <hi>Cordwayner</hi> by his Trade, as he was
-                        making new Ropes, there was a <hi>Wisell</hi> hard by that gnawed off the
+                        is intimated by that famous picture of <hi><ref type="editorial" target="#Polygnottus">Polygnottus</ref></hi> made of one
+                            <hi><ref type="editorial" target="#Ocnus">Ocnus</ref>,</hi> who being a <hi><ref type="editorial" target="#cordwayner">Cordwayner</ref></hi> by his Trade, as he was
+                        making new Ropes, there was a <hi><ref type="editorial" target="#wisell">Wisell</ref></hi> hard by that gnawed off the
                         Cordage, by which was meant his <hi>Wife;</hi> For it is in the wife to
-                        husband what the man gets, according to the Poverb, <hi>Ask my wife whether
+                        husband what the man gets, according to the Poverb, <quote type="#proverb"><hi>Ask my wife whether
                             I thrive or no,</hi> for if she be prodigall she will bring her poor
-                        husband quickly to <hi>thwitten a mill-post into a pudding-prick.</hi>
+                        husband quickly to <hi>thwitten a mill-post into a pudding-prick.</hi></quote>
                     </p>
-                    <p> Touching the second point, of laying artificiall re straints upon your
+                    <p> Touching the second point, of laying artificiall restraints upon your
                         bodies, it is because som of you can be no further trusted than you are
                         seen; But this ill-favoured custom I confesse is us'd onely in that Country,
                         where women are more hot and lustfull than under other climes, for the
                         Naturalists observe without any partiality, that <hi>your</hi> sex is more
                         salacious than the <hi>Masculine,</hi> wherof ther might be produced a clowd
                         of examples, I will instance onely in two, and they of the highest rank,
-                            <hi>viz.</hi> in two <hi>Empresses,</hi> the one a <hi>Roman,</hi> the
+                            <hi>viz.</hi> in <ref type="editorial" target="#two_Empresses">two <hi>Empresses,</hi></ref> the one a <hi>Roman,</hi> the
                         other a <hi>German;</hi> the first was so cunning in her lust, that she wold
-                        take in no passenger into her Barge (for women are <hi>leaking</hi> vesells)
+                        take in no passenger into her Barge (for women are <ref type="editorial" target="#leaking_vesells"><hi>leaking</hi> vesells</ref>)
                         untill the Barge was freighted, for fear the resemblance of the child shold
                         discover the tru father, and then she wold take in all commers; The second
                         having buried a most gallant man she had to her husband, her Confessor
                         advised her with ghostly counsell, that for the future she shold live like a
                             <hi>Turtle</hi> during the remnant of her life, because it was
-                        impossible to find such an other Mate again among the whole masse of
+                        impossible to find such another Mate again among the whole masse of
                         Mankind; Wherto she answered, <hi> Father, since you will have me to lead
                             the life of a Bird, why not of a Sparrow as well as of another Bird?
                         </hi>
@@ -3589,22 +3587,22 @@
                 <sp>
                     <speaker>Hinde.</speaker>
                     <p> I shall confront your instances by two other exam ples, as memorable
-                        altogether, the first of <hi>Zenebia,</hi>
+                        altogether, the first of <hi><ref type="editorial" target="#Zenebia">Zenebia</ref>,</hi>
                         <pb n="60" facs="tcp:98502:42"/> who wold have no carnall copulation with
                         her husband, after she found her self once quick, but wold continue in an
                         admired course of continence all the time of her pregnancy; Moreover the
-                        Saint-like Empresse <hi>Bettrice,</hi> who in the verdant spring of her age
-                        after <hi>Henry</hi> her husbands death, lived ever after like a
+                        Saint-like Empresse <hi><ref type="editorial" target="#Bettrice">Bettrice</ref>,</hi> who in the verdant spring of her age
+                        after <hi><ref type="editorial" target="#Henry">Henry</ref></hi> her husbands death, lived ever after like a
                             <hi>Turtle</hi> as you speak of, by immuring her self in a Monastic
                         Cell, and burying her body alive as it were when he was gone; But what an
-                        extraordinary rare example was that of Queen <hi>Artemisia,</hi> who living
-                        chast ever after her husband <hi>Mausolus</hi> his death, got his ashes all
-                        put in urnes, wherof she wold take down a dramm every morning fasting, and
+                        extraordinary rare example was that of Queen <hi><ref type="editorial" target="#Artemisia">Artemisia</ref>,</hi> who living
+                        chast ever after her husband <hi><ref type="editorial" target="#Mausolus">Mausolus</ref></hi> his death, got his ashes all
+                        put in urnes, wherof she wold take down a <ref type="editorial" target="#dramm">dramm</ref> every morning fasting, and
                         next her heart, saying, That her body was the fittest place to be a
-                        Sepulcher to her most dear husband, notwithstanding that she had erected
+                        <ref type="editorial" target="#sepulcher">Sepulcher</ref> to her most dear husband, notwithstanding that she had erected
                         another <hi>outward</hi> Tomb for him, that continues to this day one of the
                         Wonders of the world: Furthermore you know, I believe, better then I, Sir,
-                        that at this day in many parts of the Orientall world, such is the rare love
+                        that at this day in many parts of <ref type="editorial" target="#the_Orientall_world">the Orientall world</ref>, such is the rare love
                         of wifes to their dead husbands, that they throw themselfs alive into the
                         Funerall Pile to accompany his body to the other life, though in the flower
                         of their years. </p>
@@ -3644,57 +3642,57 @@
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> The reson of this is, because ther are so many of you either shrews, or
-                        light and loose in the hilts, and 'tis a sad case when <hi>Viri fama jacet
-                            inter uxoris fempora;</hi> Touching the first, ther's an old proverb,
-                        that <hi>Every one knowes how to tame a shrew but he who hath her,</hi> and
-                        though ther might be multitude of examples produ ced, yet I will instance
-                        but in a few, the first two shall be <hi>Zappora</hi> and <hi>Xantippe,</hi>
-                        the one married to <hi>Moyses</hi> a holy man, the other to
-                            <hi>Socrates</hi> a great Philosopher, how cross-grain'd the one was,
+                    <p> The reson of this is, because ther are so many of you either <ref type="editorial" target="#shrews">shrews</ref>, or
+                        light and loose in the hilts, and 'tis a sad case when <hi xml:lang="la"><ref type="editorial" target="#Viri_fama_jacet_inter_uxoris_fempora">Viri fama jacet
+                            inter uxoris fempora</ref>;</hi> Touching the first, ther's an old proverb,
+                        that <hi><quote type="proverb">Every one knowes how to tame a shrew but he who hath her</quote>,</hi> and
+                        though ther might be multitude of examples produced, yet I will instance
+                        but in a few, the first two shall be <hi><ref type="editorial" target="#Zappora">Zappora</ref></hi> and <hi><ref type="editorial" target="#Xantippe">Xantippe</ref>,</hi>
+                        the one married to <hi><ref type="editorial" target="#Moyses">Moyses</ref></hi> a holy man, the other to
+                            <hi><ref type="editorial" target="#Socrates">Socrates</ref></hi> a great Philosopher, how cross-grain'd the one was,
                         the Sacred Oracles wil tell, and for the other, her husband comming one day
                         in when she was in an ill humour, she scolded him out of doors, and at his
                         going out she whipp'd up into an upper room, and poured down a potfull of
-                        piss upon his sconce, which made the poor patient husband shake his head,
+                        piss upon his <ref type="editorial" target="#sconce">sconce</ref>, which made the poor patient husband shake his head,
                         and break forth into this speech, <hi>I thought that after so much thunder
                             we should have rain.</hi> Another damnable scold having revil'd and
                         curs'd her husband a great while, all which time she had the Devill often in
                         her mouth, to whom she bann'd him, at last he said, Hold thy toung wife, and
                         threaten me no more with the Devil, for I know he will do me no hurt,
-                            <hi>because I have married his Kinswoman;</hi> This made the
-                        Epigrammatist to sing prettily, <q>
+                            <hi>because I have married his Kinswoman;</hi> This made <ref type="editorial" target="#the_Epigrammatist">the
+                        Epigrammatist</ref> to sing prettily, <q xml:lang="la">
                             <pb n="62" facs="tcp:98502:43"/>
                             <l>Conjugis ingentes animos linguamque domare,</l>
                             <l>Herculis est decimus-tertius iste labor.</l>
                         </q>
                     </p>
-                    <p> Hence grew that cautious proverb, <hi>Honest men do marry, but Wise men
-                            not.</hi>
+                    <p> Hence grew that cautious proverb, <hi><quote type="#proverb">Honest men do marry, but Wise men
+                            not</quote>.</hi>
                     </p>
                 </sp>
                 <sp>
                     <speaker>Hinde.</speaker>
-                    <p> I, we use to be the common subject of your drol leries, and you would want
+                    <p> I, we use to be the common subject of your <ref type="editorial" target="#drolleries">drolleries</ref>, and you would want
                         matter for your wits to work upon were it not for us; But, touching those
                         humours you pointed at before which are incident to us somtimes, they
                         proceed from the ill usage, and weaknes of the husbands, who know not how to
                         manage a wife, which is one of the prime points of Masculine prudence; We
-                        say proverbially, that a <hi>good Iack makes a good Gill,</hi> a discreet
+                        say proverbially, that <quote type="#proverb">a <hi>good Iack makes a good Gill,</hi></quote> a discreet
                         husband makes a good wife, though being the weaker vessell, and having no
                         other weapon than her toung she break out somtimes into humors; What a sad
                         thing is it for a woman to have a thing called a husband weaker than her
-                        self? how fullsom wold such a fool be? such silly coxcombs as are jealous
+                        self? how fullsom wold such a fool be? such silly <ref type="editorial" target="#coxcombs">coxcombs</ref> as are jealous
                         upon every sleight occasion, and restrain them so barbarously as was spoken
-                        before, deserve to wear such branch'd horns, such spilters and trochings on
+                        before, deserve to wear such <ref type="editorial" target="#branch'd_horns">branch'd horns</ref>, such <ref type="editorial" target="#spilters">spilters</ref> and <ref type="editorial" target="#trochings">trochings</ref> on
                         their heads, as that goodly Stagg bears which you see browsing among those
-                        trees, accompanied with those pretty <hi>Fawns, Prickets, Sorrells,
-                            Hemuses,</hi> and <hi>Girls,</hi> wherof som are mine which I brought
+                        trees, accompanied with those pretty <hi>Fawns, <ref type="editorial" target="#Prickets">Prickets</ref>, <ref type="editorial" target="#Sorrells">Sorrells</ref>,
+                            <ref type="editorial" target="#Hemuses">Hemuses</ref>,</hi> and <hi>Girls,</hi> wherof som are mine which I brought
                         into the world without any pain or help of Midwife, and quickly lost all
                         care of them afterwards. </p>
                 </sp>
                 <sp>
                     <speaker>Pererius.</speaker>
-                    <p> Well, let's give over these impertinent altercati ons <hi>pro &amp;
+                    <p> Well, let's give over these impertinent altercations <hi>pro &amp;
                             con,</hi> and go to the main busines; I told you that Queen
                             <hi>Morphandra</hi> is willing, at my intercession, to restore you unto
                         your former nature, and I have a lusty Galeon in port to convey you to <hi>
@@ -3726,22 +3724,22 @@
                         plesure is shorter in the act; moreover when we are <hi>full,</hi> we never
                         after keep company with the male for eight months; Concerning the
                             <hi>second, viz.</hi> our <hi>temperatnes,</hi> we never use to
-                        overcharge or cloy nature with ex cesse, besides our food is simple, those
+                        overcharge or cloy nature with excesse, besides our food is simple, those
                         green leafs and grasse you see are our nutriment, which our common mother
                         the Earth affords us so gently, we require no variety of Viands, which makes
                         that our breath is sweeter than the fairest Ladies in <hi>
                             <placeName type="cypher" subtype="place" ref="#Marcopolis"
-                                >Marcopolis</placeName>,</hi> and our <hi>fewmishes</hi> with what
+                                >Marcopolis</placeName>,</hi> and our <hi><ref type="editorial" target="#fewmishes">fewmishes</ref></hi> with what
                         else comes from within us is nothing so unsavoury; Nor need we that monthly
-                        purgation which is so improperly called <hi>Flowers,</hi> it being such rank
+                        purgation which is so improperly called <hi><ref type="editorial" target="#flowers">Flowers</ref>,</hi> it being such rank
                         poyson that it will crack a tru crystall glass; Nay 'tis observed, that if a
                         menstruous woman come near an alveary or hive of Bees, they forsake their
                         food all the while, finding the aire to be infected; Nor have we any
                             <hi>gall</hi> within us, and herein we are like the <hi>Dove</hi> among
                         Birds, and the <hi>Dolphin</hi> among fish; onely there's a kind of acid
-                        humor that nature hath put in our Singles, the smell wherof causeth our
+                        humor that nature hath put in our <ref type="editorial" target="#singles">Singles</ref>, the smell wherof causeth our
                         enemies, <hi>viz.</hi> the <hi>Doggs,</hi> to fly from us; Moreover, <pb
-                            n="64" facs="tcp:98502:44"/> we are not subject to abortions, and that
+                            n="64" facs="tcp:98502:44"/> we are not subject to r, and that
                         curse which the Creator inflicted upon <hi>Woman-kind,</hi> that they shold
                         bring forth their children with sorrow and pain, which we are free from; And
                         such is our love to Mankind, that when we have brought forth our young ones,
@@ -3752,47 +3750,47 @@
                         is next to that of an <hi>Elephant,</hi> (whose <hi>youth</hi> begins not
                         till he be threescore year old) according to the <hi>
                             <name type="cypher" subtype="adj" ref="#Tumontia">Tumontian</name>
-                        </hi> Proverb, <hi>A Hedg lasteth three years, a Dogg three hedges, a Horse
+                        </hi> Proverb, <hi><quote type="#proverb">A Hedg lasteth three years, a Dogg three hedges, a Horse
                             three doggs, a Man three horses, a Hart three men, an Elephant three
-                            harts;</hi> Histories are full of admirable examples how long som of of
-                        us have liv'd, let one serve for all, When <hi> Archesilaus </hi> dwelt in
-                            <hi>Licosura,</hi> as the <hi>Arcadian</hi> Annalls relate, he took a
+                            harts</quote>;</hi> Histories are full of admirable examples how long som of of
+                        us have liv'd, let one serve for all, When <hi> <ref type="editorial" target="#Archesilaus">Archesilaus</ref> </hi> dwelt in
+                            <hi><ref type="editorial" target="#Licosura">Licosura</ref>,</hi> as the <ref type="editorial" target="#Arcadian_Annalls"><hi>Arcadian</hi> Annalls</ref> relate, he took a
                             <hi>Hinde</hi> who wore a collar, wheron was engraven, <hi>I was a Fawn
-                            when Agapenor was taken in Troy,</hi> which by the computation that then
-                        was made, was above three hundred years; Nor had <hi>Aesculapius,</hi> that
+                            when <ref type="editorial" target="#Agapenor">Agapenor</ref> was taken in Troy,</hi> which by the computation that then
+                        was made, was above three hundred years; Nor had <hi><ref type="editorial" target="#Aesculapius">Aesculapius</ref>,</hi> that
                             <hi>Archiatros</hi> or god of Physic, arrived to so fair an age, and to
                         such a miraculous perfection in that <hi>Art,</hi> had he not been nurs'd
                         with <hi>Hinde</hi> 's milk; For length of time brings experience, and
                         wisdom with it along, and somtimes the gift of <hi>Prophesie,</hi> as was
-                        that antient <hi>Hinde</hi> of that great Captain <hi>Sertorius,</hi> whom
-                        'twas thought <hi>Diana</hi> had inspir'd with a <hi>fatidicall</hi> spirit;
+                        that antient <hi>Hinde</hi> of that great Captain <hi><ref type="editorial" target="#Sertorius">Sertorius</ref>,</hi> whom
+                        'twas thought <hi><ref type="editorial" target="#Diana">Diana</ref></hi> had inspir'd with a <hi><ref type="editorial" target="#fatidicall">fatidicall</ref></hi> spirit;
                         Insomuch that <hi>Sertorius</hi> never gave Battle, or attempted any great
                         designe without advising first with that <hi>Hart:</hi> Add hereunto, that
                         when after so fair an age we come to die, ther's nothing within and without
                         our dead bodies but is usefull for Mankind, how much are our very
                             <hi>skins</hi> valued? how medicinall is that kind of <hi>bone</hi>
                         which is found in the left ventricle of a <hi>Hart</hi> 's heart against the
-                            <hi>Hemerroids?</hi> how excellent is our <hi>marrow</hi> against the
+                            <hi><ref type="editorial" target="#hemerroids">Hemerroids</ref>?</hi> how excellent is our <hi>marrow</hi> against the
                             <hi>Gowt</hi> and <hi>Consumptions?</hi> how our <hi>blood</hi> fryed
                         with oyle, and applyed to the inferiour parts, presently <w cert="medium"
                             >steyeth</w> the loosnes of the belly, and <pb n="65"
                             facs="tcp:98502:44"/> being drunk in wine is a rare antidote against
-                        poyson? what exquisit vertues hath the Hart's <hi>horn,</hi> with other
+                        poyson? what exquisit vertues hath the <ref type="editorial" target="#Hart's_horn">Hart's <hi>horn,</hi></ref> with other
                         parts of the body, as the <hi>Naturalists</hi> observe? Wheras ther is
                         nothing in the most noisom carcases of <hi>Women</hi> that's good for any
-                        thing, except their <hi>hair,</hi> which is either but an excrescence, or
-                        excrement rather, usefull onely to make fantastic foolish <hi> Peri wigs,
+                        thing, except their <hi>hair,</hi> which is either but an <ref type="editorial" target="#excrescence">excrescence</ref>, or
+                        excrement rather, usefull onely to make fantastic foolish <hi> <ref type="editorial" target="#periwigs">Periwigs</ref>,
                         </hi> and it hath bin found, that this <hi>hair</hi> being buried in som
                         kind of dung turns to <hi>Snakes;</hi> Therfore, under favor, ther's none of
                         sane judgment, considering the advantages I have by this present shape, will
                         advise me to change it for that of a frail <hi>Woman;</hi> If I shold do so,
-                        I wold be more foolish then that Stagg in the Fable, who seeing a Horse with
+                        I wold be more foolish then <quote type="#fable">that Stagg in the Fable, who seeing a Horse with
                         rich trappings, and carrying a velvet saddle upon his back, repin'd at his
                         happines, and wish'd he were such a creture; The Forester taking notice of
                         it, put the velvet-saddle upon the Stagg's back the next day, and having
                         mounted him, he rid him divers heats up and down the Launds, till the poor
                         Stagg began to faint, and sink under his burthen, and then he repented
-                        himself of that foolish and inconsiderat wish he had made. </p>
+                        himself of that foolish and inconsiderat wish he had made.</quote> </p>
                 </sp>
             </div>
             <div n="5" type="section">
@@ -7335,12 +7333,11 @@
                             multiplicanda</ref>
                     </quote>, Entities are not to be multiplied in vain, so it may as well hold in
                         <hi> Ortography, That Letters are not to be multiplied to no purpose; </hi>
-                    Add hereunto <ref type="editorial" target="#topicalrule">the <hi
-                            xmlns="http://www.tei-c.org/ns/1.0">Topicall</hi> Rule, (as the Author
-                        observes els-where) <hi xmlns="http://www.tei-c.org/ns/1.0">
+                    Add hereunto <ref type="editorial" target="#topicalrule">the <hi>Topicall</hi> Rule,</ref> (as the Author
+                        observes els-where) <hi>
                             <quote type="#proverb">Frustra sit per plura quod fieri potest per
                                 pauciora</quote>,</hi> More is waste, when fewer will serve the
-                        turn.</ref>
+                        turn.
                 </p>
             </div>
             <div type="index">
