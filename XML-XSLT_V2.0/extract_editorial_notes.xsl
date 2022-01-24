@@ -53,7 +53,7 @@
                             
                             <tr>
                                 <td>
-                                    <xsl:value-of select="$target"/>
+                                    <xsl:value-of select="substring-after('#', $target)"/>
                                 </td>
                                 <td>
                                     <xsl:value-of select="$section"/>_<xsl:value-of select="$section_no"/>
@@ -65,10 +65,7 @@
                                     Enter Note
                                 </td>
                                 <td>
-                                    Enter Author Name
-                                </td>
-                                <td>
-                                    Enter Date
+                                    Enter Author ID (e.g. #AZ)
                                 </td>
                             </tr>
                         </xsl:for-each>
