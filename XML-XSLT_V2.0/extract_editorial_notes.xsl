@@ -45,7 +45,7 @@
                             <td>Date</td>
                         </tr>
                         
-                        <xsl:for-each select="//tei:ref">
+                        <xsl:for-each select="//tei:ref[@type='editorial']">
                             <xsl:variable name="target" select="./@target"/>
                             <xsl:variable name="section" select="ancestor::tei:div/@type[1]"/>
                             <xsl:variable name="section_no" select="ancestor::tei:div/@n"/>
@@ -53,7 +53,7 @@
                             
                             <tr>
                                 <td>
-                                    <xsl:value-of select="substring-after('#', $target)"/>
+                                    <xsl:value-of select="substring-after($target, '#')"/>
                                 </td>
                                 <td>
                                     <xsl:value-of select="$section"/>_<xsl:value-of select="$section_no"/>
