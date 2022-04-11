@@ -1,466 +1,724 @@
-<note type="editorial" xml:id="#Howell" resp="Enter Author Name">The Anglo-Welsh historian and historiographer James Howell (c.1594-1666) is an iconic figure of the 17th-century republic of letters. He befriended numerous intellectual figures including Ben Jonson, Kenelm Digby, and William Harvey. He served time in prison for his Royalist views under the regime of Oliver Cromwell. He is best remembered for his <hi>Familiar Letters</hi> and for his four-language dictionary <hi>Lexicon Tetraglotton</hi>.</note>
-<note type="editorial" xml:id="#senesco" resp="Enter Author Name">Howell's motto, printed on the title-pages of most of his works, translates to "I grow old, I do not grow weary," a testament to his prolific publishing career.</note>
-<note type="editorial" xml:id="#Wilson" resp="Enter Author Name">W[illiam?] Wilson was one of two known printers at the Palm Tree near Saint Dunstan's Church in Fleetstreet, where Howell published in quick succession Therologia and the fourth edition of his prophetic work on the late Long Parliament entitled Philanglus (1660) and a re-print of Dodona's Grove. The other printer is known to history only as T. L. For a comprehensive bibliography, see Joseph Jacobs's The Familiar Letters of James Howell(London, 1892).</note>
-<note type="editorial" xml:id="#Palmer" resp="Enter Author Name">William Palmer, bookseller at the Palm Tree in Fleetstreet, was involved in the publication of the fourth edition on Philanglus (1600), a French translation of Dodona's Grove, and works of occult medicine as well as theology, including the polemical anti-Puritan works of Peter Heylyn (1599-1662). These neighbors on the bookshelf provide a glimpse of the intellectual frame that surrounded Therologia at its first issue.</note>
-<note type="editorial" xml:id="#pererrations" resp="Enter Author Name">Classical term for an act or instance of wandering, from the latin pererrare (from errare [to err] and per [through]). Howell's pun on Pererius is on the nose but it clues readers to the linguistic wit he found amusing and conveys a larger point about genre. Perrerius is situated immediately both within the tradition of the errant knight questing on behalf of a queen or king and within that of the Odyssean wanderer. Prince Pererius's youth ties him perhaps also to Ulysses' princely son Telemachos, who wanders at the start of Homer's <hi>Odyssey</hi> in search not only of his father but of a secure lineage.</note>
-<note type="editorial" xml:id="#Circe" resp="Enter Author Name">Another clear Homeric reference, Circe is the witch who transforms Ulysses' men into swine. Here, she is given clear origins as daughter of the Sun/Sol. Howell's later comment about the etymology of her name is ambiguous: kirkoô in Greek means to ensnare with rings or hoop around, not to transmute or metamorphose.</note>
-<note type="editorial" xml:id="#vertiginous" resp="Enter Author Name">dizzying or confused</note>
-<note type="editorial" xml:id="#fancy" resp="Enter Author Name">Howell shares the opinion of Lady Margaret Cavendish, Duchess of Newcastle, who published in <hi>Poems, and Fancies</hi> (1653) that true artists write fancies, or imaginative original works. Unlike her, he does not believe in hiding his literary influences, as the dedication and preface to the reader go on to make clear who he deems to be his literary forebears.</note>
-<note type="editorial" xml:id="#Marie_de_la_Fontaine" resp="Enter Author Name">Wife of the famed French fabler, Jean de la Fontaine, who went on to publish a tale of Ulysses and Circe uncannily similar in its commitment to misanthropy and its defense of animal innocence. Howell implies he once received hospitality from Marie de la Fontaine.</note>
-<note type="editorial" xml:id="#closet" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#philosophers" resp="Enter Author Name">René Descartes, most notably, but also Marin Cureau de la Chambre, Robert Boyle, and Thomas Hobbes wrote on the management of the passions.</note>
-<note type="editorial" xml:id="#Howell" resp="Enter Author Name">J[ames] H[owell]</note>
-<note type="editorial" xml:id="#Upper_House" resp="Enter Author Name">It is not clear whether Howell is denoting a school or category of philosophers. Elsewhere, he uses the same phrase in praise of a contemporary philosopher, Marin Cureau de la Chambre, whom he claims to have met in Paris and considers to be "among the philosopher of the upper house that this Age affords." See James Howell, "To the Translator of this Very Worthy Piece," in Marin Cureau de la Chambre, <hi>The Art How to Know Men</hi>, trans. John Davies (London, 1665)</note>
-<note type="editorial" xml:id="#carine" resp="Enter Author Name">From the Latin 'carina' and French 'carine,' meaning the keel of a boat. Howell added the word to Thomas Blount's dictionary <hi>Glossographia</hi> (1656) and may have been intent on getting it into common use.</note>
-<note type="editorial" xml:id="#sciolist" resp="Enter Author Name">From the Latin 'sciolus,' meaning a person, usually an editor, of superficial knowledge; a pretender to knowledge. Used with some irony here, as Thomas Blount's preface to <hi>Glossographia</hi> (To Reader,sig. A4) complains about 'Every homebred Sciolist being at liberty to coyn and innovate new Words,' which Howell does mischievously throughout all of <hi>Therologia</hi>.</note>
-<note type="editorial" xml:id="#Aethiopia" resp="Enter Author Name">Significantly, Howell recognizes Ethiopia as a 'large antient Empire' and seems aware of a recent uprising that resulted in regicide, much like in his native England. In the examples that follow, including Constantinople in modern-day Turkey, Sweden, Portugal, Naples, and Morocco, Howell showcases his distinctive global awareness and labels an anti-royalist trend that worries him deeply. His use of cardiac metaphors – "man doth impair... in the motions and affections of his heart," "Touching the motions of the heart" – situates his critique of the English commonwealth and regicide in language provided by William Harvey's famous preface addressed to King James in De Motu Cordis or On the Circulation of the Blood (1628).</note>
-<note type="editorial" xml:id="#Balaam" resp="Enter Author Name">Howell alludes repeatedly to the Biblical tale of Balaam's Ass, especially in his chapter on the Artorian Ass or French peasant.</note>
-<note type="editorial" xml:id="#Aesop" resp="Enter Author Name">The Phyrgian Fabler refers to the classical poet and writer of fables, Aesop, a much-cited and alluded figure in the pages to come.</note>
-<note type="editorial" xml:id="#Bracciolini" resp="Enter Author Name">Poggio Bracciolini, clearly held in high esteem as one of two 'ingenious' Florentines who inspired the <hi>Therologia</hi>.</note>
-<note type="editorial" xml:id="#Gelli" resp="Enter Author Name">Giambattista Gelli, more than any other fabler, inspired the form of <hi>Therologia</hi>. His tale of Circe closely resembles this one of Morphandra.</note>
-<note type="editorial" xml:id="#Horace" resp="Enter Author Name">The 'Propheticall Lyric Poet' is almost certainly Horace.</note>
-<note type="editorial" xml:id="#infandous" resp="Enter Author Name">A neologism, meaning 'unspeakable' or 'nefarious'; Howell uses it throughout his texts, especially in <hi>Familiar Letters</hi>.</note>
-<note type="editorial" xml:id="#conterranean" resp="Enter Author Name">A neologism, meaning 'Earth-sharing.'</note>
-<note type="editorial" xml:id="#Barlowe" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Gaywood" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Mazarin" resp="Enter Author Name">Italian Cardinal, diplomat, and chief minister to France's Kings Louis XIII and Louis XIV after serving as papal diplomat to Pope Urban VIII and serving under Cardinal Richelieu.</note>
-<note type="editorial" xml:id="#Diogenes" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Digby" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Harvey" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Mark" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Midas" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#CharlesI" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#CharlesII" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#ChristinaI" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#ElizabethI" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#FredericV" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Rainsborough" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Deane" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#roundhead" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Luther" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#festival" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#rubriques" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#circe" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#analogical" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#god_of_nature" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cacodaemons" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#negromancy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#first_philosophy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#traduce" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tyrant" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sophister" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#parlement" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#anthropomorphs'd" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#ratiocination" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#voluntary_election" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#retaliation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#complements" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#belluine" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_lamb_with_the_lion" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#dragnet_or_tramnell" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#manducable" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#benignity" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#rennet" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#promontory_of_paradise" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#slented" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#deboshments" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#amphibious_creture" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#oimee" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tite_lusty_vessel" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#contentation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#epitome" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#microcosm" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#specifical_difference" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#his_own_tormentor" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#leviathan" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#magazin" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hull" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cargazon" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#excrementitious" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mummy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#viands" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#esculents" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#putrefaction" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#compositum" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#redintegrated" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_frail_vessel" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fuliginous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#infimous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#neerest_confederates" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#their_revolt" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mansion_of_mankind" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bonny-clabber" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#statu_quo_nunc" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#public_religion" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hive_of_bees" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#turgid" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#science" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tarpaling" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tyranny_of_meteors" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="@blanch_an_ethiop" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#eternity_of_torments" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#banians" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#souls_in_us" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pro_con" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#beeing" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#peasan" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#miracle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ammonius" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Origen" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#angels" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#unguentum_rubrum" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fabric" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#deceptio_visûs" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#viz" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#roturer" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ceres" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Bacchus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Neptune" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Venus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cope" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#repine" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tallies" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#demeans" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#communibus_annis" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#crowns" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#gabell" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#taillons," resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#suffragan" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#carowses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#anhelation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#catches" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#standells" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#coppice" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tintamarrs" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#winch" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#soloecism" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#calentures" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tovardillios" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#flamines" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sanguin" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#red-corner'd_cap" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#peers" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#phrygian_king" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#infallible" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#obstreperous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#medicaments" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#syncopes" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#singultient" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Merriman" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#exigents" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#erogations" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bastinadoed" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Cancer" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#grave_disputes" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Apuleius" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#strongest_man" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Poppaea" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#consumptions" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#dysenteries" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tilers" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#morphews" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ierusalem" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#these_lines" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#corpulent" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#intractable" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#crosse-grain'd" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#transfiguration" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cogitations" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#chimeras" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#crochets" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pedicular" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#veterenarians" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#malila" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#epilepsy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#comitiall_sicknesse" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#gourmandize" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#incantation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#apprehension" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#disasinated" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mimicall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fatuous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#stertmen" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#frigate" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sick_eagle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pestilence" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#puppifie" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#lycanthropy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#scotomia" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#vertigo" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#philosophers-pope" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#public_liturgy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#patheticall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sacraments" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#genuflexion" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#miscreants" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#addicted" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#nefandous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#vialls" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Cinq-ports" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Morpheus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Horngate" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#vagaries" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#appeerd" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#golden_branch" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Sybilla_Cumana" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Trojan_Prince" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Pluto" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Furies" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#blazing_star_1618" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#president" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cacodaemons" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Stygian" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#prolocutrix" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#League" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Revolt of the Hydraulian," resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Cassiopaea" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Tartarean" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#phlegetontic" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#parallax" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#forty_years" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Tartar" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Chinois" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Cosaque" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Pole" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#thirty_years_war" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Duke_of_Laroni" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Rhinarchos" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Selenian_Emperours" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Acherontic" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#native_king" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#supposititious" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pythonesses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Act_of_continuance" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#rakehells" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Myrmidons" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bandogs" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tenter" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Utopian_Reformations" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Alchoran" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#canons" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Sabboth" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mechanic" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#exotic_words" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#incarnation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tap-houses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#charnell-house" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bench" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Great_Charter" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#flitters" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#seminaeries" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Lazaretto" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#surplices" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#font" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#two-penny_ordinary" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pericranium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Dis" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Beelzebub" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#super-erogatory" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#religionem_ex_solo" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#regem_ex_solio" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#almanack" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Caroloman" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Charon" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mandamus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#non_obstante" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tarpalins" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ixion" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Windmills" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sectaries" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Prometheus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Caucasus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#predestination" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#election" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#reprobation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sapere_ad_sobrietatem" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Danaus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iupiter" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Uzza" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#candent" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Knights_of_the_Garter" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Knights_of_the_Bath" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#privy-councellors" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#lough" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#blew-caps" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hispid" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Wea_is_me" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#everlasting_villain" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iudas" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iack_Cade" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Wat_Tyler" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iack_Straw" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ket_the_Tanner" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#gran_Villain" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#french_barly-broth" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#indentures" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#corroding" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#evangelizing_Gherionian_ladies" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Cerberus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#mattens" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#noctivagation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#expergefaction" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#reminiscence" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#prerogatives" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#irremeable" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#instantaneous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#heteroclites" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#quack-salvers" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#plot_of_Nitre" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pestiferous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pseudopolitians" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#ataxy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#diametricall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Apolog" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#pericardium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hypocondrium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#miseraik" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#emulgent" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hypogastrium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tumultuary" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fundament" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#yard" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#languification" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#spleene" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tympany" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#compositum" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hepticall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#quadrat" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Roundhead" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#noddle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#caprichio" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#annihilation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#in_statu_quo_nunc" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#antipathy" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#shingle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sagacious" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#marvail" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#salacious" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#laconicall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#imperfection_of_seed" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#wisards" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#modern_physitians" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#vilipended" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ninny" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#stinking_Cynick" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#raillery" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#first_woman" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#faeculence" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#dower" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#procurators" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Amazons" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Semiramis" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Tomiris" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#late_notable_Queen" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#inventrices" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sybills" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Minerva" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iove" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Erynnis" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Apelles" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#gadding" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Polygnottus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Ocnus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cordwayner" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#wisell" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#two_Empresses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#leaking_vesells" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Zenebia" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Bettrice" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Henry" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Artemisia" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Mausolus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#dramm" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sepulcher" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_Orientall_world" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#shrews" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Viri_fama_jacet_inter_uxoris_fempora" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Zappora" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Xantippe" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Moyses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Socrates" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sconce" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_Epigrammatist" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#drolleries" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#coxcombs" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#branch'd_horns" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#spilters" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#trochings" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Prickets" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Sorrells" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Hemuses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fewmishes" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#flowers" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#singles" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Archesilaus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Licosura" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Arcadian_Annalls" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Agapenor" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Aesculapius" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Sertorius" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Diana" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#fatidicall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hemerroids" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Hart's_horn" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#excrescence" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#periwigs" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sympathetical_powder" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bill_of_exchange" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#vindicatif" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#negromantic" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#insulsity" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#reverà" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#zaphyrian" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#solar_fire" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#lunar_complexion" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#atoms" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#circumambient" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#foraminous" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#effluvium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#autopticall_glasses" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Iockies" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#intromitted" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cognation" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#prolegomena" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#learned_Doctor_H." resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#adventitious" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#extravenated" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#balsamicall" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#virtual_contact" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#little_spirits" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cicatrize" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#knowing_captain" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#coruscant" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#septemvirat" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#truculency" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#bore" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#sowd" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#proh_scelus" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#encomium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#thirty_years_war" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#northern_king" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#successor" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#imperial_eagle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#cantonizeth" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_philosopher" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#trismegistus_circle" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Therlu" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#abadesse" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#macarell" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#quelque_chose" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#hispid" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#carbuncles" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#falling_sickness" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#in_travell" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#tissick" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#the_Poet" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Pliny" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="Amphybium" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Amphybium2" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Plato" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Heisterbach" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#immarcescible" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#encia" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#topicalrule" resp="Enter Author Name">Enter Note</note>
-<note type="editorial" xml:id="#Horace" resp="Enter Author Name">Enter Note</note>
+<note type="editorial" xml:id="Howell" resp="#AZ">The Anglo-Welsh historian and historiographer James Howell (c.1594-1666) is an iconic figure of the 17th-century republic of letters. He befriended numerous intellectual figures including Ben Jonson, Kenelm Digby, and William Harvey. He served time in prison for his Royalist views under the regime of Oliver Cromwell. He is best remembered for his <hi>Familiar Letters</hi> and for his four-language dictionary <hi>Lexicon Tetraglotton</hi>.</note>
+<note type="editorial" xml:id="senesco" resp="#AZ">Howell's motto, printed on the title-pages of most of his works, translates to "I grow old, I do not grow weary," a testament to his prolific publishing career.</note>
+<note type="editorial" xml:id="Wilson" resp="#AZ">W[illiam?] Wilson was one of two known printers at the Palm Tree near Saint Dunstan's Church in Fleetstreet, where Howell published in quick succession Therologia and the fourth edition of his prophetic work on the late Long Parliament entitled Philanglus (1660) and a re-print of Dodona's Grove. The other printer is known to history only as T. L. For a comprehensive bibliography, see Joseph Jacobs's The Familiar Letters of James Howell(London, 1892).</note>
+<note type="editorial" xml:id="Palmer" resp="#AZ">William Palmer, bookseller at the Palm Tree in Fleetstreet, was involved in the publication of the fourth edition on <hi>Philanglus</hi> (1600), a French translation of <hi>Dodona's Grove</hi>, and works of occult medicine as well as theology, including the polemical anti-Puritan works of Peter Heylyn (1599-1662). These neighbors on the bookshelf provide a glimpse of the intellectual frame that surrounded Therologia at its first issue.</note>
+<note type="editorial" xml:id="pererrations" resp="#AZ">Classical term for an act or instance of wandering, from the latin pererrare (from errare [to err] and per [through]). Howell's pun on Pererius is on the nose but it clues readers to the linguistic wit he found amusing and conveys a larger point about genre. Perrerius is situated immediately both within the tradition of the errant knight questing on behalf of a queen or king and within that of the Odyssean wanderer. Prince Pererius's youth ties him perhaps also to Ulysses' princely son Telemachos, who wanders at the start of Homer's <hi>Odyssey</hi> in search not only of his father but of a secure lineage.</note>
+<note type="editorial" xml:id="Circe" resp="#AZ">Another clear Homeric reference, Circe is the witch who transforms Ulysses' men into swine. Here, she is given clear origins as daughter of the Sun/Sol. Howell's later comment about the etymology of her name is ambiguous: kirkos in Greek means to ensnare with rings or hoop around, not to transmute or metamorphose.</note>
+<note type="editorial" xml:id="vertiginous" resp="#AZ">dizzying or confused</note>
+<note type="editorial" xml:id="fancy" resp="#AZ">Howell shares the opinion of Lady Margaret Cavendish, Duchess of Newcastle, who published in <hi>Poems, and Fancies</hi> (1653) that true artists write fancies, or imaginative original works. Unlike her, he does not believe in hiding his literary influences, as the dedication and preface to the reader go on to make clear who he deems to be his literary forebears.</note>
+<note type="editorial" xml:id="Marie_de_la_Fontaine" resp="#AZ">Wife of the famed French fabler, Jean de la Fontaine, who went on to publish a tale of Ulysses and Circe uncannily similar in its commitment to misanthropy and its defense of animal innocence. Howell implies he once received hospitality from Marie de la Fontaine.</note>
+<note type="editorial" xml:id="closet" resp="#AZ">A general term for a private and secluded room, closet could refer to a cabinet of curiosities, a room for private study, a privy or toilet, or a chapel. References to ladies' closets were common in the titles and prefatory materials to printed works targeting female audiences, e.g. John Shirley's <hi>The Accomplished Ladies Rich Closet of Rarities</hi> (London, 1687). Howell joins a larger movement of writing for the growingly literate female population.</note>
+<note type="editorial" xml:id="philosophers" resp="#AZ">Rene Descartes, most notably, but also Marin Cureau de la Chambre, Robert Boyle, and Thomas Hobbes wrote on the management of the passions.</note>
+<note type="editorial" xml:id="Howell" resp="#AZ">J[ames] H[owell]</note>
+<note type="editorial" xml:id="Upper_House" resp="#AZ">It is not clear whether Howell denotes here a school of philosophers. Elsewhere, he uses the same phrase simply in praise of a contemporary, Marin Cureau de la Chambre, whom he claims to have met in Paris and considers to be "among the philosopher of the upper house that this Age affords." See James Howell, "To the Translator of this Very Worthy Piece," in Marin Cureau de la Chambre, <hi>The Art How to Know Men</hi>, trans. John Davies (London, 1665)</note>
+<note type="editorial" xml:id="carine" resp="#AZ">From the Latin 'carina' and French 'carine,' meaning the keel of a boat. Howell adds the word to Thomas Blount's dictionary <hi>Glossographia</hi> (1656) and may have been intent on getting it into common use.</note>
+<note type="editorial" xml:id="sciolist" resp="#AZ">From the Latin 'sciolus,' meaning a person, usually an editor, of superficial knowledge; a pretender to knowledge. Used with some irony here, as Thomas Blount's preface to <hi>Glossographia</hi> (To Reader,sig. A4) complains about 'Every homebred Sciolist being at liberty to coyn and innovate new Words,' which Howell does mischievously throughout all of <hi>Therologia</hi>.</note>
+<note type="editorial" xml:id="Aethiopia" resp="#AZ">Significantly, Howell recognizes Ethiopia as a 'large antient Empire' and seems aware of a recent uprising that resulted in regicide, much like in his native England. In the examples that follow, including Constantinople in modern-day Turkey, Sweden, Portugal, Naples, and Morocco, Howell showcases his distinctive global awareness and labels an anti-royalist trend that worries him deeply. His use of cardiac metaphors (e.g "man doth impair... in the motions and affections of his heart," "Touching the motions of the heart") situates his critique of the English commonwealth and regicide in language provided by William Harvey's famous preface addressed to King James in <hi>De Motu Cordis</hi> (1628).</note>
+<note type="editorial" xml:id="Balaam" resp="#AZ">Howell alludes repeatedly to the Biblical tale of Balaam's Ass from the <hi> Book of Numbers </hi> 22-24, especially in the later chapter on the Artorian Ass or French peasant.</note>
+<note type="editorial" xml:id="Aesop" resp="#AZ">The Phyrgian Fabler refers to the classical poet and writer of fables, Aesop, a major influence on humanist literature and ubiquitous in the following pages.</note>
+<note type="editorial" xml:id="Bracciolini" resp="#AZ">Poggio Bracciolini (1380-1459), a Renaissance Humanist, is famed for recovering lost manuscripts, among them Lucretius' <hi>De Rerum Naturae</hi>, and for his books of facetious fabliaux. Likely for the latter, he is held in high esteem as one of two ingenious Florentines who inspired Howell's <hi>Therologia</hi>.</note>
+<note type="editorial" xml:id="Gelli" resp="#AZ">Giambattista Gelli (1498-1563), a Florentine scholar known for delivering public explanations on Dante's <hi>Divine Comedy </hi> at the request of Duke Cosimo I, inspired the form of <hi>Therologia</hi> with his tale <hi>La Circe</hi> (1549), whose eleven-chapter long dialogues between Ulysses, Circe, and various humans-turned-beasts are the obvious model which Howell closely follows and adapts to seventeenth century Europe. The influence of Dante also transits through Gelli to Howell.</note>
+<note type="editorial" xml:id="Horace_Ode" resp="#AZ">The 'Propheticall Lyric Poet' is Horace, and the quote from his <hi> Carminae </hi> is a common chestnut about the moral regress of humankind.</note>
+<note type="editorial" xml:id="infandous" resp="#AZ">A neologism, meaning 'unspeakable' or 'nefarious'; Howell uses it throughout his texts, especially in <hi>Epistolae Ho-Elianae</hi> v. xii. 15: "This infandous custom of swearing..raignes in England lately more then any wher else."</note>
+<note type="editorial" xml:id="conterranean" resp="#AZ">A latin neologism, meaning 'Earth-sharing,' first used in Howell's 4th volume of <hi>Familiar Letters</hi> (1655): "He said, that if Women were not conterranean and mingled with men, Angels would descend and dwell among us" (vi, 16).</note>
+<note type="editorial" xml:id="Barlowe" resp="#AZ">Francis Barlow (c. 1626-1704), an engraver known as one of the most prolific book illustrators, is a pioneer in the history of the comic book, the landscape painting, and British sport painting.</note>
+<note type="editorial" xml:id="Gaywood" resp="#AZ">Richard Gaywood (fl. 1650-1680), an English engraver, was a student of Wenceslaus Hollar and friend of Francis Barlow, known for his portraiture and etchings of birds.</note>
+<note type="editorial" xml:id="Mazarin" resp="#AZ">Italian cardinal, diplomat, and chief minister to France's Kings Louis XIII and Louis XIV, Jules Mazarin (1602-1661) served also as papal diplomat to Pope Urban VIII and served under Cardinal Richelieu.</note>
+<note type="editorial" xml:id="Diogenes" resp="#AZ">Fourth-century BC philospher, known as the Cynic and famed for claiming to be a cosmopolitan and citizen of the world.</note>
+<note type="editorial" xml:id="Digby" resp="#AZ">The famed cavalier philosopher and adventurer, Kenelm Digby (1603-1655), was known as a leading Catholic intellectual and Blackloist. His interests in the powder of sympathy sparked Howell's in turn, as seen in Section 7 of <hi>Therologia</hi></note>
+<note type="editorial" xml:id="Harvey" resp="#AZ">The text features a passing reference to Dr. William Harvey, widely deemed the discoverer of the circulation of the blood and first embryonic anatomist, in particular to Harvey's claim that all things are born and generated from the seeds or eggs ("ex ovo omnia") of parents, which aimed to debunk notions of spontaneous or virtual generation. See the dialogue between Pererius and the Bees (section 11, p. 141) for the theological and existential implications of that debate.</note>
+<note type="editorial" xml:id="Mark" resp="#AZ">Saint Mark, author and apostle of one of the synoptic Gospels, became a special figure of veneration and patronage in Venice when two merchants stole his reliquary remains from Alexandria, Egypt and enshrined them in a Basilica devoted to his name. Mark's symbolic association with lions give a certain ironic overtone to Howell's decision to represent the Venetian courtisane as a hind.</note>
+<note type="editorial" xml:id="Midas" resp="#AZ">Widely remembered in Greek mythology as the king who died of his ability to turn everything he touches to gold.</note>
+<note type="editorial" xml:id="CharlesI" resp="#AZ">Howell alludes severally to King Charles I of England, of the House of Stuart (1600-1649), whose execution and decapitation by Puritan regicides prompted the Cromwellian interregnum and Howell's own imprisonment in the Tower. Howell had reason to be emotionally attached to the young king, whose match to the Spanish Infanta, Anna Maria, Howell himself tried but failed to facilitate.</note>
+<note type="editorial" xml:id="CharlesII" resp="#AZ">King Charles II of England, grandson of James I and Charles I, returned to power by invitation of Parliament after the demise of Oliver Cromwell and the brief-lived Puritan republic. His restoration to power provided Howell with the political environment needed to thrive; Charles II appointed him historiographer royal.</note>
+<note type="editorial" xml:id="ChristinaI" resp="#AZ">Queen Christina I, monarch of the Swedish Empire, is remembered for her unconventional love of philosophy, her patronage of Rene Descartes, her role in the Catholic Counter-Reformation, her distaste for marriage, and her strenuous ten-hour work-days during her twenty-year reign. She famously abdicated the throne to her first cousin Charles and is one of few women buried in the Vatican grotto. She is remembered by the Cuprinian Wolf in Section 8 of Therologia as a 'generous Queen' who 'lately' (in 1654) embarked on a six-year tour of Europe, often donning men's clothing to preserve anonymity.</note>
+<note type="editorial" xml:id="ElizabethI" resp="#AZ">The famed virgin Queen of England, last of the Tudor line, Elizabeth I is remembered favorably by the Venetian Hind of Section 4 as "a late notable Queen in Gheronia, who rul'd triumphantly near upon 45 years" (57), in the company of classical women rulers such as Semiramis and Tomiris. The Key to Morphandra appears keen to highlight these examples of feminine rule.</note>
+<note type="editorial" xml:id="FredericV" resp="#AZ">In the Holy Roman Empire, a count palatine or palsgrave (from German Pfalsgraf) was an official of the royal palace. The Golden Bull of 1356 made the palsgrave of the Rhine an Elector Palatine, or member of the electoral college selecting the Holy Roman Emperor, a position of significant power. The Calvinist and mystic Frederick V played that role from 1610 to 1623, serving briefly also as King of Bohemia from 1619 to 1620 until an Imperial edict deprived him of the Palatinate and sent to him into exile at The Hague. He married the eldest daughter of King James VI and I of Scotland and England, and his son Prince Rupert is remembered as one of Restoration England's most influential public, military, and scientific figures.</note>
+<note type="editorial" xml:id="Rainsborough" resp="#AZ">Denotes either Colonial Thomas Rainsborough (1610-1648) or his brother Major William Rainsborowe (1612-1673), both of whom were leading figures in the radical Leveller movement and vocal in the Putney Debates, when the New Model Army debated and discussed the formation of a new English constitution based upon male suffrage.</note>
+<note type="editorial" xml:id="Deane" resp="#AZ">Trusted supporter of Lord Generall Oliver Cromwell during the English Civil War, Richard Deane enjoyed a significant military career, rising from artillery to Lord High Admiral of the English Navy, and signing, along the way, the execution warrant for the bheading of King Charles I. He is remembered in Therologia among the tortured "Gherionian Sectaries, who had destroyed from top to bottom all of Government" (40).</note>
+<note type="editorial" xml:id="roundhead" resp="#AZ">A term used to deride supporters of constitutional monarchy and parliamentary rule, as opposed to absolute monarchy. The term is often contrasted with the Cavaliers, or supporters of royalism. The reference may be to the many Puritans who wore their hair closely cropped and flat around the head rather than curled and long like the men of court, although many Roundheads began to grow their long in rebellion after the royalist Archbishop William Laud promulgated a statute instructing the clergy to wear their hair short.</note>
+<note type="editorial" xml:id="Luther" resp="#AZ">As explained, Therlu is an anagram (or jumbling of the letters) of Martin Luther, the famous Augustinian canon who ignited the Protestant Reformation. It is not clear why Howell choses to anagramatize Luther's name and not those of other figures he equally dislikes. The answer may lie in the Greek 'ther' meaning 'beast' (as in Ther-ologia), identifying Luther with the beasts and possibly as The Beast that accompanies the Whore of Babylon in Revelation 17, a trope of religious polemic writing in the late Reformation.</note>
+<note type="editorial" xml:id="festival" resp="#AZ">Imitating the language of contemporary navigators and conquerors as well as the register of English liturgy, Pererius declares the discovery of Morphandra's Island a historic event or religioius holiday worthy of yearly commemoration.</note>
+<note type="editorial" xml:id="rubriques" resp="#AZ">Traditionally printed in red, rubrics served as major headings of chapters or sections in books and manuscripts, especially in liturgical texts and almanacs, a kind of chronological handbook of important anniversaires, forecasts, and astronomical calculations.</note>
+<note type="editorial" xml:id="circe" resp="#AZ">An enchantress in Greek mythology best remembered from Homer's Odyssey for transforming the heroic crew into swine before succumbing to Odysseus's charm and bearing him two sons, Latinus and Telegonus. Howell's presentation of Morphandra as a daughter of Circe is a nod to to Therologia's relationship to his source, Giambattista Gelli's <hi>Circe </hi>.</note>
+<note type="editorial" xml:id="analogical" resp="#AZ">An allusion to the mode of retributive justice explored most famously in Dante Alighieri's Inferno, where the nature of the offense dictates by way of parallel the form of the punishment. Morphandra casually associates one already laden philosophical term - analogical - with another - sympathetic - but does not elaborate on the distinction or similarity.</note>
+<note type="editorial" xml:id="god_of_nature" resp="#AZ">Morphandra's God of Nature is presented as the universal figure of natural law that we find in much Scholastic philosophy or in similar realms of natural theology, rather than an explicitly Christian or Trinitiarian divinity.</note>
+<note type="editorial" xml:id="cacodaemons" resp="#AZ">Morphandra invests considerable energy during this first encounter to deflect accusations of sorcery and witchcraft with which she is apparently often charged by "shallow-pated common people." Howell here reminds us of the ongoing, perhaps growing hardships facing writers of this period to celebrate and reuse pagan literary traditions to new, Christian ends.</note>
+<note type="editorial" xml:id="negromancy" resp="#AZ">Literally 'black magic', as opposed to (though often conflated) with 'necro-mancy', or magic invoking and communicating with the spirits of the dead, a practice associated with Odysseus' visit to Hades and the prediction of future events. Morphandra makes clear her collaboration with 'white magic,' showcasing Howell's familiarity with the arguments of Sir Francis Bacon with regard to preserving good magic.</note>
+<note type="editorial" xml:id="first_philosophy" resp="#AZ"><hi>Prima philosophia</hi>, or first philosophy, denoted the branch of knowledge concerned with first principles such as matter, light, and privation, often thought of today as metaphysics. Morphandra's case for magic as the first philosophy may not have been unpopular in Howell's time, even if a broader movement of proto-scientists was at work to distinguish past ideas from modern practices. </note>
+<note type="editorial" xml:id="traduce" resp="#AZ">Betrayed and translated, as in the Italian dictum 'traduttore, traditore' (to translate is to betray).</note>
+<note type="editorial" xml:id="tyrant" resp="#AZ">Howell underscores that the Greeks understood 'tyrannos' to apply indifferently to good and bad usurpers alike and warped around 1300 CE to signifiy a cruel or oppresive ruler, as opposed to one without a legal right.</note>
+<note type="editorial" xml:id="sophister" resp="#AZ">Another example of semantic change, sophister used to carry a positive valence as a master of a craft or a prudent man but took on pejorative meaning in Athens where, by contrast with the true philosopher, the sophister gave instruction in exchange for pay.</note>
+<note type="editorial" xml:id="parlement" resp="#AZ">Morphandra's prayer for Parliament marks Howell's first nod to the civil wars and the rise of constitutional monarchy in the English Commonwealth. It strikes a surprisingly irenic note in this otherwise staunchly royalist, at times absolutist text.</note>
+<note type="editorial" xml:id="anthropomorphs'd" resp="#AZ">The neologism anthropomorphosis, possibly first coined in 1613, and here liberally adapted into a verb form (to anthropomorphose) by Howell, usually referred to the figurative attribution of human characteristics to non-human entities, such as God, or the literal transformation of a non-human into a human. Pererius, wittingly or unwittingly, reverses the direction to designate the transformation of a human into a human.</note>
+<note type="editorial" xml:id="ratiocination" resp="#AZ">The act or process of deductive, often syllogistic, reasoning.</note>
+<note type="editorial" xml:id="voluntary_election" resp="#AZ">A note again of Morphandra's placement as a figure of natural universal law of a Scholastic flavor. Her insistence on the act of the unforced will is also part and parcel of the discourse of free government in this period, as anti-despotic and abolitionist thinkers insisted on the importance of the people's voluntary election of their governors, as opposed to tyranny and slavery.</note>
+<note type="editorial" xml:id="retaliation" resp="#AZ">Another instance of semantic change that Howell insists of presenting at the start of the text. Understood today as a form of pay-back or revenge, retaliation means, on Pererius's tongue, a form of reciprocity or compensation.</note>
+<note type="editorial" xml:id="complements" resp="#AZ">A disdain for flattery is a feature associated with Puritans of the period, while the overuse of praise was deemed typical of courtly environments.</note>
+<note type="editorial" xml:id="belluine" resp="#AZ">Characteristics of beasts, from the Latin <hi>bellua</hi> for 'beast,' with a possible pun on <hi>bellum</hi>, 'war.'</note>
+<note type="editorial" xml:id="the_lamb_with_the_lion" resp="#AZ">Morphandra's take on the prophecy of Isaiah 11:6 (King James Version): "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them."</note>
+<note type="editorial" xml:id="dragnet_or_tramnell" resp="#AZ">Respectively, a net dragged over the bottom of a body of water to entrap fish or over a field to sweep ground game, and a long narrow fishing-net with two mesh walls, also known as a bag-net.</note>
+<note type="editorial" xml:id="manducable" resp="#AZ">Chewable or eatable, often in reference to the Eucharist or consecrated host and with specific allusion to the champing of jaws. Morphandra's knowledge of fishmonger jargon and high theological vocabulary cultivates not only her intellectual aura but Pererius's sense of being, indeed, in a pre-lapsarian 'promontory of Paradise.'</note>
+<note type="editorial" xml:id="benignity" resp="#AZ">Kindness or disposition or manner, often used of the climate, of medicines, or of planets in this period.</note>
+<note type="editorial" xml:id="rennet" resp="#AZ">An acidic curdled milk found in the stomach of unweaned calves and other ruminants, used to curdle larger batches of milk and make cheese. The proto-veganism of Morphandra's Island fits within larger debates among religious reformers about the proper care of the planet and dominion over nature, as well as with understandings of pre-lapsarian consumption (see, for instance, Milton's Paradise Lost (1667)).</note>
+<note type="editorial" xml:id="promontory_of_paradise" resp="#AZ">A piece of land jutting out into the sea, here used figuratively, as though the created world were a sea, and Paradise a continent of which the Island of Morphandra is a part. Pererius's imagery recalls medieval voyage literature of the likes of Saint Brendan, whose voyaging monks erred on the sea in earch of the terra repromissionis sanctum, or promised land of the saints. The evocation of the genre prepares the sharp contrast with the former Hydraulian mariner.</note>
+<note type="editorial" xml:id="slented" resp="#AZ">To split or cleave, to rend. Here a dialectical usage almost unique to Howell but also found in the writings of Joshua Sylvester, translator of Guillaume de Salluste du Bartas' biblical epic <hi> Devine Weekes </hi>.</note>
+<note type="editorial" xml:id="deboshments" resp="#AZ">An archaic spelling of 'debauchments', a depravity or corruption in morals, found also in Shakespeare's King Lear, 1.4.220: "Men so disorder'd, so debosh'd, and bold."</note>
+<note type="editorial" xml:id="amphibious_creture" resp="#AZ">Amphibia are beings at home equally in water and on land. Figuratively, the term was common in religious polemics to denote individuals who held ambiguous positions. See J. Whalley Gods Plentie (1615), 32: "Aske these amphibia what names they would have, what are you Papists? no,... are you Protestants? no."</note>
+<note type="editorial" xml:id="oimee" resp="#AZ">A borrowing from Italian oime, borrowed in turn from Greek oimos, meaning 'alas!' The biblical linguist T. Lewis O. Davies notes in 1888 that the "Anglicized form... seems to have puzzled a former reader of Howell, for in my copy obscene is suggested in a marginal annotation in an apparently contermporary handwriting" (A Supplementary English Glossary, 449).</note>
+<note type="editorial" xml:id="tite_lusty_vessel" resp="#AZ">In a potentially awkward bit of rhetoric, Pererius affects the speech patterns and mannerisms of a sailor, describing his ship with adjectives reserved for wenches and calling the place where vessels may safely lie at anchor 'the Road' in keeping with the Middle Dutch reede.</note>
+<note type="editorial" xml:id="contentation" resp="#AZ">Contentment, often with regard to accepntance of a situation.</note>
+<note type="editorial" xml:id="epitome" resp="#AZ">A summary or condensation, a compendium or miniature. The otter alludes to a Platonic and Scholastic tendency to describe humankind as the pinnacle and summary of all created things.</note>
+<note type="editorial" xml:id="microcosm" resp="#AZ">A traditionally Platonic idea that human nature contains in minature the divine or universal nature (macrocosm). The term was commonly used as a synonym for 'man' or 'mankind.'</note>
+<note type="editorial" xml:id="specifical_difference" resp="#AZ">A scholastic term for differences that result in distinction and separation within or among species. Reason was often considered humanity's specifical difference among animals.</note>
+<note type="editorial" xml:id="his_own_tormentor" resp="#AZ">Extremely common phrase in sermons and moral treatises, whose religious register and gravity the Hydraulian Otter employs as he invokes 'cruciatory passions' and martyrdom.</note>
+<note type="editorial" xml:id="leviathan" resp="#AZ">Biblical sea-creature often pictured as a whale, now associated with Thomas Hobbes's 1651 book of the same name, examining English civil structures. Pererius again tries to present as a nautical kindred, alluding to the crampons and harping-irons of whalers and heroizing the work of mariners as cavaliers riding post upon the ocean.</note>
+<note type="editorial" xml:id="magazin" resp="#AZ">Usually, a storehouse for food or storage room for weapons, but in mid-16th century Europe also a ship which supplies provisions. The otter's subsequent conceit of man as a ship laden with adversity (and, quite literally, other shit) overturns Pererius's efforts to ennoble nautical life and language.</note>
+<note type="editorial" xml:id="hull" resp="#AZ">The full frame of a ship, often shorthand for a dismantled, worn out, or battered vessel retained as a store-vessel or for housing quarantined crews (i.e. hulk).</note>
+<note type="editorial" xml:id="cargazon" resp="#AZ">From the Spanish cargazon, or load of a ship. The otter repeats a metaphor Howell first used for himself: "for my body is but a cargazon of corrupt humours" (Familiar Letters Volume II, ed. W. H. Bennet (London, 1890), XI, 126).</note>
+<note type="editorial" xml:id="excrementitious" resp="#AZ">A medical term, meaning of the nature of dregs, ordure, and excreta. The otter showcases his scatological vocabulary and argues that human corpses stink because human bodies are born and engendered so near the anus.</note>
+<note type="editorial" xml:id="mummy" resp="#AZ">Dried and embalmed human flesh, evoked (and likely used as a powder or pulpy mass) in various medicinal preparations of the early modern period. The otter, in a morbidly absurd moment, acknowledges humans may be useful to humans when dead, but not nearly as much as dead otters and therefore he shall remain an otter.</note>
+<note type="editorial" xml:id="viands" resp="#AZ">Broadly construed, provisions or food, but more specifically meats (from the latin vivenda)</note>
+<note type="editorial" xml:id="esculents" resp="#AZ">An eatable food, especially vegetables, from the Latin esca.</note>
+<note type="editorial" xml:id="putrefaction" resp="#AZ">The process of corruption or, literally, making rotten; or the foul-smelling decomposition that results therefrom. The consumption of food was seen as conducive of putrefaction, especially food past its prime. See Thomas Elyot, <hi>The Castell of Helthe</hi> (1537): "It shall be necessary for them... to be circumspecte in eatynge meate, that shortely wylle receyve putrifaction."</note>
+<note type="editorial" xml:id="compositum" resp="#AZ">A common reference to human nature as a composite of body and soul/spirit/mind, much used for instance by Descartes.</note>
+<note type="editorial" xml:id="redintegrated" resp="#AZ">To restore a person to a previous state, in particular to a state of wholeness or unity; often used in the passive voice, e.g. to be redintegrated.</note>
+<note type="editorial" xml:id="the_frail_vessel" resp="#AZ">The frail vessel metaphor for the vulnerable human body is a bromide of the period's religious literature, troping at once on naval vessels and glass or earthenware vessels. The early Quaker, Isaac Penington, Jr., for instance, writes in 1654 of the human body as 'a poor frail vessel; a vessel long in making, and yet when made, very brittle" (<hi>Divine Essays</hi>, "The Invalidity of the Flesh," 65), while the martyrologist Samuel Clarke, relating in 1652 the life of Queen Joan of Navarre, recalls some of her last words: "now I may enter into the desired haven towards which this frail vessel of mine hath been a long time steering" (<hi>A Martyrologie</hi>, 66).</note>
+<note type="editorial" xml:id="fuliginous" resp="#AZ">Sooty, smoky, or smog-like.</note>
+<note type="editorial" xml:id="infimous" resp="#AZ">Latin, superlative of inferus or lowest, and hence related to inferno; in French, infime, denoting the very lowest or basest. The Otter emphasizes and exagerates the lowness of the Low Countries (or Nether-lands) in order to link it more closely with Hell, which was often conceived as lying at the deepest center of the geographical Earth.</note>
+<note type="editorial" xml:id="neerest_confederates" resp="#AZ">The closest allies, with a special dig at the confederate political order of the Dutch Republic, which began in 1588 when negotiations by the Earl of Leicester failed to make the northern provinces a protectorate of England under Elizabeth I and cemented the independent status of the Republic. That history is invoked in the very next line.</note>
+<note type="editorial" xml:id="their_revolt" resp="#AZ">The Act of Abjuration (Dutch: Plakkaat van Verlatinghe, Spanish: Acta de Abjuracion) was signed at the Hague in 1581. It declared independence from Spain's King Philip I for each magistrate whose Province had signed the Treaty of Utrecht. After several failed bids to be subsumed under other monarchies such as France and England, the States General assumed sovereignty, making the seven United Provices a republic.</note>
+<note type="editorial" xml:id="mansion_of_mankind" resp="#AZ">A possible allusion to Josuah Sylvester's famous translation of Guillaume de Saluste du Bartas's popular biblical epic, the <hi>Devine Weekes</hi>: "Doubtless (great God) 'tis doubtless thine owne hand / Whereon this Mansion of Mankind doth stand."</note>
+<note type="editorial" xml:id="bonny-clabber" resp="#AZ">Milk that has soured and clotted; an Anglicization of Irish bainne clabair.</note>
+<note type="editorial" xml:id="statu_quo_nunc" resp="#AZ">In the same state as at present; i.e. were things as they are now.</note>
+<note type="editorial" xml:id="public_religion" resp="#AZ">In 1571, at the Synod of Emden, the Dutch Reformed Church established presbyterian church government and became the state religion of the Netherlands. The 17th century Dutch Golden Age was influenced by English Puritanism and is remembered for a high degree of freedom of thought, which the Otter here presents as lukewarm devotion.</note>
+<note type="editorial" xml:id="hive_of_bees" resp="#AZ">Bees were a common image for monarchical regimes, as were ants. Pererius, who outs himself later as a monarchist, makes a poor choice of analogue for the Dutch Republic, although one is reminded of the later Anglo-Dutch writer Bernard Mandeville's <hi>Fable of the Bees; or Private Vices, Publick Benefits</hi> (1714), which argued that self-interest and private vice give rise to social behaviors that Pererius here deems virtuous.</note>
+<note type="editorial" xml:id="turgid" resp="#AZ">Swelling or swollen, ironically also used of language, like Pererius's praise of the Dutch as perceived by the Otter, i.e. pompous, bombastic.</note>
+<note type="editorial" xml:id="science" resp="#AZ">A form of high, abstracted knowledge, as distinguished from ars and techne, and not yet couched in concepts of experimentation and hypothetico-deduction.</note>
+<note type="editorial" xml:id="tarpaling" resp="#AZ">Perhaps from tar + pall, evoking a tarred canvas like a funeral shroud, a tarpaulin is waterproof cloth used to make sailors's hats and thus a nickname for a mariner.</note>
+<note type="editorial" xml:id="tyranny_of_meteors" resp="#AZ">Astronomical and astrological events, such as meteors and comets, were believed to impact human health and social behaviors, even inducing revolutions and meteorological events.</note>
+<note type="editorial" xml:id="" resp="#AZ">A proverb used to express an impossible event. In bearing the mark of a racial essentialism typical of the period, it proves either needlessly redundant or suggestive of a notional distinction between 'Negro' and 'Ethiop' that would be relatively uncommon in the era and might betoken geographical or ethnic sensitivity on the part of the Hydraulian mariner.</note>
+<note type="editorial" xml:id="eternity_of_torments" resp="#AZ">It is unclear whether the Otter, prior to his transformation, held to the Dutch Reformed Church's Calvinist doctrine of double predestination and believed that a person was from all time predetermined to heaven or hell.</note>
+<note type="editorial" xml:id="banians" resp="#AZ">The belief in reincarnation or a better world for animals reminds us of the Netherlands' reputation for free-thinking and the mariner's possible familiarity with the Banians, who, though unidentified in Howell's Key to Morphandra, likely refer to the Hindu caste of Baniya traders and merchants, clearly distinguished by their clothing. dietary choices, and manner of conducting trade.</note>
+<note type="editorial" xml:id="souls_in_us" resp="#AZ">Belief in the sentience and souls of animals was also a feature of Epicurean thought, increasingly in vogue throughout the 1650s as writers such as Margaret Cavendish and Walter Charleton recovered Lucretius' epicurean epic poem <hi>De Rerum Naturae</hi></note>
+<note type="editorial" xml:id="pro_con" resp="#AZ">For and against a position or claim. It was common in the period to commend even-handedness as a noble and hard-earned skill in rhetorical debate and encourage the consideration of arguments from both sides (<hi>ad utramque partem</hi>). Pererius, unsuccessful in his attempt to convert the Otter, praises Morphandra for making the Otter so capable, rather than praise the animal directly.</note>
+<note type="editorial" xml:id="beeing" resp="#AZ">Pererius's confidence may seem ill placed, but Howell introduces a foreshadowing pun on "bee" in "beeing." The Bees, a convent of nuns, will indeed be the only interlocutors who are swayed by his discourse and agree to return with Pererius.</note>
+<note type="editorial" xml:id="peasan" resp="#AZ">Someone who works the land, usually a member of the agricultural working class, from the French 'paysan.' Typically but not always used with derision to imply a rude, small-minded, or rustic individual.</note>
+<note type="editorial" xml:id="miracle" resp="#AZ">Pererius alludes to the Biblical tale of Balaam's Ass (<hi> Book of Numbers </hi> 22-24), widely depicted in this period by painters as renowned as Rembrandt. Balaam goes against the way of the Lord, but his donkey recognizes an angel barring their path. Balaam tries to press the donkey forward forcefully three times, until finally the donkey opens its mouth and speaks, admonishing Balaam for his severe abuse. The angel then reveals itself to Balaam. The story is one of humbling and learning to heed the voice of God. Pererius seems ill-equipped to do such heeding.</note>
+<note type="editorial" xml:id="Ammonius" resp="#AZ">Howell is thinking here of the third-century author of the Ammonian Sections and forerunner of the Eusebian gospel harmony, Ammonius of Alexandria,  whom some would distinguish from the Hellenic Neoplatonist of the same name and city, Ammonius Saccas. A big thank you to Dr. Jeremiah Coogan for noting that the saying about the donkey is found in the <hi>Suda</hi> a Byzantine encyclopedia, where the Ammonius described does not match the profile of the Alexandrian philosopher: (1639) ??????????, ???????????, ??????????? ?? ????????? ?????- ??? ??? ??? ?? ??????? ????????? ??? ?? ???? ??? ??? ???????, ???? ??? ?????? ????? ?? ??????? ?? ???? ?� ??????? ?????. ?? ?? ??? ???? ????? ?? ??? ????? ?? ????????. ??? ??? ?????? ????? ??? ????? ????? ????????? ??? ????? ??????? ??? ?? ???? ??? ??? ?????� (5) ? ?? ???? ?????? ???? ?? ????????? ?????? ?? ???????????. ???� ? ??? ????????????? ?? ? ???????? ??? ?? ???? ?????????� ? ?? ????? ??? ??? ??????? ???????? ??? ????????? ??? ????????? ?????? ????????? ??????. ????? ?? ??????????, ? ????????? ?????????? ???? ?????? ????????. (10)</note>
+<note type="editorial" xml:id="Origen" resp="#AZ">One of the most influential early Christian theologians, Origen of Alexandria was being recovered in the late English Reformation, in part for his views on apokatastasis, or universal salvation, including the salvation of the damned. The question of restoration and restitution (the literal meaning of apokatastasis) is ever in the background of this Dantean text, where the transformed refuse to be reunited or restituted to their origins.</note>
+<note type="editorial" xml:id="angels" resp="#AZ">Angels were a common gold-based currency in England, based on the French < hi>angelot</hi>. We hereby learn that Pererius is likely from England or Gheriona.</note>
+<note type="editorial" xml:id="unguentum_rubrum" resp="#AZ">Literally a 'red ointment,' denoting some gold-based medical ointment. The reference was common in the period, as in Humphry Browne's A Map of the Microcosme (1642) on doctors: "You must supple their hands with some unguentum rubrum... which is in your purse, or else they will hardly feele your pulse, but rather will extinguish the lampe of your life then preserve it" (143-44)</note>
+<note type="editorial" xml:id="fabric" resp="#AZ">A building or construction, an edifice.</note>
+<note type="editorial" xml:id="deceptio_visus" resp="#AZ">An optical illusion or trompe-l'oeil effect, literally a deception of the eye.</note>
+<note type="editorial" xml:id="viz" resp="#AZ">That is to say; namely; to wit. A legal abbreviation of videlicet, used to introduce an elaboration or explanation.</note>
+<note type="editorial" xml:id="roturer" resp="#AZ">Belonging to the common, non-noble and non-clery social class in France.</note>
+<note type="editorial" xml:id="Ceres" resp="#AZ">Goddess of grain crops and fertility in the Roman pantheon. Pererius reveals the compound etymology behind the pseudonym 'Art-onia': Ceres's bread (artos) and Bacchus's wine (oinos).</note>
+<note type="editorial" xml:id="Bacchus" resp="#AZ">Roman deity of wine. France's proud relationship to Bacchus goes beyond wine. Edmond Ronsard, founding poet of the Pleiade and leading figure of the French renaissance, was instrumental in making Bacchus an iconic figure of poetic renewal and national pride through poems such as the <hi>Bacchanales</hi> (1552), the <hi>Dithyrambes</hi> (1553) and the <hi>Hinne de Bacchus</hi> (1554).</note>
+<note type="editorial" xml:id="Neptune" resp="#AZ">Neptune takes pride of place in French monumental iconography, for instance, at the <hi>bassin de Neptune</hi>, a lavish fountain at the <hi>Palais de Versailles</hi> built in the late 1670s. France's reputation for high-quality salt crystals comes from the Atlantic salt-marshes south of Bretagne, between the cities of Guerande and Oleron, and from the Mediterranean salt flats between Marseille and Salins de l'Aude. </note>
+<note type="editorial" xml:id="Venus" resp="#AZ">France was known for the delicacy of its embroidered linen smocks (or <hi>chemises</hi>) and was seen as a leading country in men's and women's fashions.</note>
+<note type="editorial" xml:id="cope" resp="#AZ">The over-arching vault of Heaven, with a possible pun on the garments used by monks and other clerics, to whom the Artonian Asse now turns his attention.</note>
+<note type="editorial" xml:id="repine" resp="#AZ">To grumble or complain. Complaints about tithing obligations to the Church are a common feature of Huguenot writings; the Artonian Ass distances himself from them only to better lean into a critique of state-based taxation that becomes a critique of clerical-courtly conspiracies in greed.</note>
+<note type="editorial" xml:id="tallies" resp="#AZ">An understandable mispelling of the French <hi>tailles</hi>, which was the most lucrative tax employed by the French monarchs since Francis I. It was a direct tax, levied annually, against those who were <hi>taillable</hi>, including all peasantry and most bourgeois, but no clergy or nobles.</note>
+<note type="editorial" xml:id="demeans" resp="#AZ">The landed possessions of the French monarchy, which surely amounted to an astounding net worth.</note>
+<note type="editorial" xml:id="communibus_annis" resp="#AZ">Latin phrase denoting 'in normal or average years.'</note>
+<note type="editorial" xml:id="crowns" resp="#AZ">French currency in 1640 underwent a massive revolution, shifting from the franc (or livre tournois) to the gold louis d'or (worth 60 livres) and the silver ecu (worth 60 sou). The English crown is invoked here perhaps for the benefit of English readers, perhaps for the English Pererius.</note>
+<note type="editorial" xml:id="gabell" resp="#AZ">The third most lucrative French tax, a salt tax, after the tailles and the aides.</note>
+<note type="editorial" xml:id="taillons," resp="#AZ">Various 'accessory' taxes under the 'tailles'. To the Ass's point, the taillons was invented in 1549 by Henri II and remained in effect at the time of Howell's writing.</note>
+<note type="editorial" xml:id="suffragan" resp="#AZ">Used to denote a bishop who is subsidiary or subordinate to a metropolitan or archbishop.</note>
+<note type="editorial" xml:id="carowses" resp="#AZ">Drinks liberally, with a nod again to the Bacchic spirit of France, albeit inequitably enjoyed.</note>
+<note type="editorial" xml:id="anhelation" resp="#AZ">A panting asperation for an object of desire, more often used in a holy or sacred meaning.</note>
+<note type="editorial" xml:id="catches" resp="#AZ">A simple melody sung in a round, often with three voices. Music was often associated with luxury and leisure.</note>
+<note type="editorial" xml:id="standells" resp="#AZ">Young saplings and small trees left to stand for sustainable timbering, as per legal statute of England's King Henry VIII in 1543.</note>
+<note type="editorial" xml:id="coppice" resp="#AZ">A small forest or wood planted or reserved for lumber, as in the term coppice-wood.</note>
+<note type="editorial" xml:id="tintamarrs" resp="#AZ">From the French <hi>tintamare</hi>, a hubbub or noisy discord, a term popularized by John Florio's translation of Montaigne's <hi>Essais</hi> and a favorite of Howell's (see Dendrologia, 64: "He preservd Ampelona...without the least tintamarre or noise of commotion.")</note>
+<note type="editorial" xml:id="winch" resp="#AZ">To start back, recoil; an obsolete verb form, similar to the modern 'wince.'</note>
+<note type="editorial" xml:id="soloecism" resp="#AZ">A breach of decorum or proper behavior. Pererius periodically returns to the defense of firm authoritarianism in government, but seldom wins on that point.</note>
+<note type="editorial" xml:id="calentures" resp="#AZ">From the Spanish calentura, a fever or high heat, a sunstroke, often associated with sailors in the tropics whose delirria included imagining the open sea as a green field and wanting to leap into it.</note>
+<note type="editorial" xml:id="tovardillios" resp="#AZ">Spanish term for a fevered dizziness or vertigo, as found in Howell's <hi>Tetraglotton</hi> (127v). The Spanish-Latin dictionary of Pedro de Salas and Bartholome Bravo confirms an alternate spelling (tavardillo) and translates it as <hi>morbis tabificus</hi>, a Hippocratean term for any kind of consumption, and <hi>febris aestuans</hi>, an inflamed fever.</note>
+<note type="editorial" xml:id="flamines" resp="#AZ">Latin plural of flamen: in Roman history, a priest devoted to one particular deity (e.g. a flamen of Jupiter) and, in extended usage but somewhat derogatorily, a heathen clergyman. The Asse here alludes to Cardinal Armand Jean du Plessis de Richelieu and his successor Cardinal Jules Mazarin.</note>
+<note type="editorial" xml:id="sanguin" resp="#AZ">Bloody. The dominantly Galenic physiology of the period divided the body's fluids into four humours, whose preponderance determined a person's temperament. A preponderance of blood determined a sanguine temperament, various interpretations of which co-existed at the time. The Asse's reference points less to a specific psycho-physiological theory and more to a pun on the bloody-minded cardinals, known as they were for wearing red surplices. Their policy decisions led to the deaths of many in foreign and civil wars.</note>
+<note type="editorial" xml:id="red-corner'd_cap" resp="#AZ">The three-cornered biretta is a square cap with three peaks, sometimes surmounted by a tuft, worn commonly by clergy. The red color, again, symbolizes the special rank of the cardinal.</note>
+<note type="editorial" xml:id="peers" resp="#AZ">Elites, persons of high rank; as opposed to the modern meaning, a person of equal status, a companion.</note>
+<note type="editorial" xml:id="phrygian_king" resp="#AZ">Book XI of Ovid's <hi>Metamorphoses</hi> recalls how King Midas, famed for his golden touch and thus the richest of men, once dissented with the judgment of Apollo and was punished by having his human ears replaced with asinine ones. The Artonian Ass mocks humanist learning by suggesting that the punishment can be read instead as a mark of virtue, namely bold defiance against authoritarianism.</note>
+<note type="editorial" xml:id="infallible" resp="#AZ">Unerring, incapable of error; a term usually reserved for the Roman Catholic papacy when it pronounces on matters of doctrine <hi>ex cathedra</hi> or from the Seat of St. Peter. The term may be a sly dig, as the ass refers to pagan practices of cephalomancy, as alluded to in Rabelais' <hi>Pantagruel</hi>,where the head of a donkey (or a goat) was boiled or cooked over coals for divination, including climate predictions.</note>
+<note type="editorial" xml:id="obstreperous" resp="#AZ">Noisy, clamorous.</note>
+<note type="editorial" xml:id="medicaments" resp="#AZ">Medical substances or medical treatments; the Artonian Ass overturns the idea that humor and laughter are good medicine.</note>
+<note type="editorial" xml:id="syncopes" resp="#AZ">As early as 1400, a technical term for a heart failure and the ensuing duress or death.</note>
+<note type="editorial" xml:id="singultient" resp="#AZ">A neologism of Howell's meaning 'sobbing' with a sense also of hiccuping, perhaps capitalizing on the popularization of 'singult' by Edmund Spenser's <hi>Faerie Queene<hi>.</note>
+<note type="editorial" xml:id="Merriman" resp="#AZ">A common tendency in the period was to anthropomorphize as 'Doctors' the six medical categories of the "non-naturals": air quality; exercise and rest; sleeping and waking; diet; excretion; and the passions. Doctor 'Merriman,' a common term for humor and good cheer, falls under the latter.</note>
+<note type="editorial" xml:id="exigents" resp="#AZ">Emergencies, extremities.</note>
+<note type="editorial" xml:id="erogations" resp="#AZ">Expenditures, usually in the context of gift-giving or alms, but in Howell's writings regularly in the context of taxation.</note>
+<note type="editorial" xml:id="bastinadoed" resp="#AZ">To pummel a person or animal with a stick, typically as a form of punishment on the feet or heels.</note>
+<note type="editorial" xml:id="Cancer" resp="#AZ">The dimmest of the zodiac, the constellation of Cancer contains two stars named after donkeys, Asellus Australis (the southern donkey) and Asellus Borealis (the northern donkey).</note>
+<note type="editorial" xml:id="grave_disputes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Apuleius" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="strongest_man" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Poppaea" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="consumptions" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dysenteries" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tilers" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="morphews" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ierusalem" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="these_lines" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="corpulent" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="intractable" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="crosse-grain'd" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="transfiguration" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cogitations" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="chimeras" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="crochets" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pedicular" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="veterenarians" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="malila" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="epilepsy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="comitiall_sicknesse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gourmandize" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="incantation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="apprehension" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="disasinated" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mimicall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fatuous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="stertmen" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="frigate" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sick_eagle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pestilence" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="puppifie" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lycanthropy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="scotomia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vertigo" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="philosophers-pope" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="public_liturgy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="patheticall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sacraments" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="genuflexion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="miscreants" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="addicted" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="nefandous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vialls" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Cinq-ports" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Morpheus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Horngate" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vagaries" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="appeerd" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="golden_branch" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Sybilla_Cumana" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Trojan_Prince" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pluto" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Furies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="blazing_star_1618" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="president" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cacodaemons" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Stygian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="prolocutrix" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="League" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Revolt of the Hydraulian," resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Cassiopaea" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Tartarean" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="phlegetontic" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="parallax" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="forty_years" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Tartar" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Chinois" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Cosaque" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pole" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="thirty_years_war" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Duke_of_Laroni" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Rhinarchos" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Selenian_Emperours" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Acherontic" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="native_king" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="supposititious" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pythonesses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Act_of_continuance" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="rakehells" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Myrmidons" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="bandogs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tenter" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Utopian_Reformations" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Alchoran" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="canons" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Sabboth" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mechanic" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="exotic_words" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="incarnation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tap-houses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="charnell-house" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="bench" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Great_Charter" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="flitters" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="seminaeries" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Lazaretto" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="surplices" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="font" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="two-penny_ordinary" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pericranium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Dis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Beelzebub" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="super-erogatory" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="religionem_ex_solo" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="regem_ex_solio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="almanack" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Caroloman" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Charon" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mandamus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="non_obstante" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tarpalins" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ixion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Windmills" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sectaries" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Prometheus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Caucasus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="predestination" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="election" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="reprobation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sapere_ad_sobrietatem" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Danaus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iupiter" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Uzza" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="candent" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Knights_of_the_Garter" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Knights_of_the_Bath" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="privy-councellors" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lough" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="blew-caps" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hispid" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Wea_is_me" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="everlasting_villain" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iudas" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iack_Cade" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Wat_Tyler" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iack_Straw" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ket_the_Tanner" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gran_Villain" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="french_barly-broth" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="indentures" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="corroding" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="evangelizing_Gherionian_ladies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Cerberus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mattens" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="noctivagation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="expergefaction" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="reminiscence" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="prerogatives" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="irremeable" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="instantaneous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="heteroclites" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="quack-salvers" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="plot_of_Nitre" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pestiferous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pseudopolitians" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ataxy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="diametricall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Apolog" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pericardium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hypocondrium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="miseraik" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="emulgent" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hypogastrium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tumultuary" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fundament" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="yard" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="languification" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="spleene" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tympany" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="compositum" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hepticall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="quadrat" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Roundhead" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="noddle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="caprichio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="annihilation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="in_statu_quo_nunc" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="antipathy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="shingle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sagacious" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="marvail" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="salacious" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="laconicall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="imperfection_of_seed" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="wisards" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="modern_physitians" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vilipended" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ninny" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="stinking_Cynick" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="raillery" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="first_woman" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="faeculence" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dower" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="procurators" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Amazons" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Semiramis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Tomiris" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="late_notable_Queen" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="inventrices" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sybills" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Minerva" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iove" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Erynnis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Apelles" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gadding" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Polygnottus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ocnus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cordwayner" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="wisell" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="two_Empresses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="leaking_vesells" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Zenebia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Bettrice" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Henry" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Artemisia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Mausolus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dramm" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sepulcher" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_Orientall_world" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="shrews" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Viri_fama_jacet_inter_uxoris_fempora" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Zappora" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Xantippe" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Moyses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Socrates" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sconce" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_Epigrammatist" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="drolleries" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="coxcombs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="branch'd_horns" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="spilters" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="trochings" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Prickets" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Sorrells" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Hemuses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fewmishes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="flowers" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="singles" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Archesilaus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Licosura" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Arcadian_Annalls" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Agapenor" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Aesculapius" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Sertorius" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Diana" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fatidicall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hemerroids" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Hart's_horn" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="excrescence" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="periwigs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Syrenian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mart" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="motion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Mercury" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="carack" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="simples" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sallets" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="copper-coin" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="elogiums" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="impostumes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_poet" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="brittish_epigrammatist" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="clinches" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="drollery" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="receipts" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pope_AlexanderVI" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="aphorisms" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="universalls" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="happines" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Alexander_the_Great" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="meridian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="traduce" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="derogate" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cogg" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cageole" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dittany" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="celandine" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hemlock" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="rue" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="origanum" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mandragora" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pismires" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hite" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ague" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cephalagia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hemicrania" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="scotomy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vertigo" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="palsy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="epilepsy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="phrenitis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="phrenzy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="catarrs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="apoplexy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pluritis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="peripneumonia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="empyema" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ptisis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="haemocrises" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="syncope" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="inappetentia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="wolf" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pica" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="malacia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="singultus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hicock" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="jaundies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dropsie" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cirrhus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="iliaca_passio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="astrictio_alvi" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lineteria" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pappy_stools" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dysenteria" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tenesmus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Hypocondriacall_melancholy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="reins" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="calculus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mictus_fanguinis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="diabete" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="incontinentia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ardor" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="iscuria" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="strangury" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lues_venerea" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="St_Anthony's_Fire" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="chancre" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="botches" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gutta_serena" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ophthalmia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="epiphola" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="aegilops" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="surditas" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sonitus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ozana" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="polypus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="faetor_narium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="coryza" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sternutatio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="laesus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ranula_sublingua" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="squinzy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="chlorosis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="suppressio_mensium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fluor_muliebris" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="histerica_passio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hydrops" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="clausura" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sterilitas" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="obortus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="faetus_mortuus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="secundina_retenta" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="proscidentia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="felo_de_se" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Lachesis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lenitifs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="saturnin" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="maw" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="arguments_from_Creation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ubiquitary" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="refulgence" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="operatio_sequitur_esse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="complacency" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="subsistences" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="adumbrat" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="antipodes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="carreer" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Aquinas" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dictamens" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="enemy_of_the_Crosse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pattage" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pursines" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="milt" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="culling" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="inveighs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hocos-pocos" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_Fox_and_the_Crow" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cosen" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="signor" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cautelous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="redintegrated" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="propagatresse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pomona" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pandora" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="conventicle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="junkets" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Umbria" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fulgurations" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="synteresis" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="twenty_Geese" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="covetousnes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="strapado" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gibbet" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="syndic" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="precipitates" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="quod_vult" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="romance" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="subdolous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="palliat" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Sir_Politic_Woodbies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="interregnums" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="panniers" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Hans" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="congeniall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Aristotle's_Politiques" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Optimacy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="martingale" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="soloecism" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="alopecia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="milt" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="heriot" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sympathetical_powder" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="bill_of_exchange" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="vindicatif" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="negromantic" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="insulsity" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="revera" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="zaphyrian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="solar_fire" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lunar_complexion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="atoms" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="circumambient" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="foraminous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="effluvium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="autopticall_glasses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Iockies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="intromitted" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cognation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="prolegomena" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_learned_Doctor_H." resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="adventitious" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="extravenated" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="balsamicall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="virtual_contact" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="little_spirits" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cicatrize" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="knowing_captain" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="coruscant" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="septemvirat" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="truculency" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="bore" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="sowd" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="proh_scelus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="encomium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="thirty_years_war" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="northern_king" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="successor" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="imperial_eagle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="transvolves" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cantonizeth" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="the_philosopher" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lubricity" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Trismegistus's_circle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Therlu" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="abadesse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="macarell" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="quelque_chose" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hispid" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="carbuncles" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="falling_sickness" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="in_travell" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="tissick" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="amber_sodd" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="nitor" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="unlycanthropize" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="warlick" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Romulus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Lupus _Fulvius" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Lupus_Servatus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Lupus_de_Oliveto" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cratch" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="lycanthropy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="opinionative" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="concatenation" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pliny's_elephant" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Ptolomey's_stagg" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Plutarch's_Dogg" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="guittern" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Caligula's_horse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="drowth" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dijudication" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="bracks" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="thrumbs" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="obliquities" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Eheu_nos_miseri" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Morris" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Taborer" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="pseudodoxall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gingling" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="twits" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="fatuous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="rammish" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="trindles" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Kibes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Kings-Evill" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Fellons" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Aegistus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="conterranean" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cacodaemon" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Horace_Eclogue" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="conterraneans" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="amnestia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Hobbes" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="traverses" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mitre" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="witches" resp="#AZ">"In Scotland in 1649, after a decade of drought, war, and revolution, when 'the prices of victual and corn of all sorts were higher than ever heretofore any[one] living could remember,' the Scots Parliament decided 'that the sin of witchcraft daily increases in this land' and so, to avert further disasters, issued some five hundred commissions to try suspected witches, resulting in more executions for sorcery during the famine of 1649-1650 than at any other time in Scottish history." See Geoffrey Parker, "Crisis and Catastrophe: The Global Crisis of the Seventeenth Century Reconsidered," <hi>The American Historical Review</hi> 113, no. 4 (2008): 1053-79).</note>
+<note type="editorial" xml:id="slaves" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="hispid" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="cruentous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Misanthropos" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Virbius" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="confectionary" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="mongibells" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="concupiscible" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="beeing" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="oeconomy" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="gregarian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="harbingers" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="supine" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="drummer" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="alvearies" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="immundicities" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="plebeans" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="randevous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pliny" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="chylus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="diareticall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="transmigration" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="ephemeran" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="infusion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="traduction" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="amphybium" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Divinae_particula_aurae" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Amphybium2" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="trigony" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dissector" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="axiom" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="extraction" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="prolificall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="conformative" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="majoration" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="autopicall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="septenary_slip" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="punctillio" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="extrinsecall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="neotericall" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="quaere" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="indagations" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="inextensive" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Caesarius_Heisterbach" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="adhaesion" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="School-men" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="frustraneous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="modus_operandi" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="coppilling" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="muffle" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="defaecated" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="dram" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="immarcescible" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="utopian" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="limbeck" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="elixir" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="herculean" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="interim" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="flexanimous" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Pindarus" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="Chronogrammaticall_Verse" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="encia" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
+<note type="editorial" xml:id="topicalrule" resp="Enter Author ID (e.g. #AZ)">Enter Note</note>
