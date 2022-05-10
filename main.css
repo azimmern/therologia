@@ -25,15 +25,16 @@ body {
 footer {
   width: 100%;
   height: 50%;
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   font-size: small;
   line-height: normal;
 }
 
 footer div h3,
 footer div p{
-  font-family:'Gill Sans';
+  font-family:'Open Sans';
 }
+
 footer div a{
   font-family: 'IM Fell English';
   font-size: medium;
@@ -86,13 +87,13 @@ footer div a:hover{
 }
 
 #toc li {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   text-transform: 'uppercase';
   font-size: smaller;
 }
 
 #toggle-cypher-button {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   text-transform:uppercase;
 }
 
@@ -120,7 +121,7 @@ footer div a:hover{
 
 
 .about h4{
-  font-family:'Gill Sans';
+  font-family:'Open Sans';
   font-size: medium;
   color:whitesmoke;
   text-align:center;
@@ -129,7 +130,7 @@ footer div a:hover{
 }
 
 .about p{
-  font-family:'Gill Sans';
+  font-family:'Open Sans';
   color:whitesmoke;
   font-size:1rem;
   text-align:left;
@@ -159,14 +160,13 @@ footer div a:hover{
   font-size: 4rem;
 }
 
-.citation {
+/* .citation {
   border-bottom:rgb(210, 105, 30) dotted .1rem;
-}
+} */
 
 .sic {
   border-bottom:#20364c dashed .1rem;
 }
-
 
 .sic,
 .correction {
@@ -189,18 +189,18 @@ footer div a:hover{
 }
 
 .decypher {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   background: darkslategrey;
   color: whitesmoke;
   padding: .1rem .2rem .1rem .2rem;
 
 }
 
-.fable {
+/* .fable {
   padding: .1rem, .1rem;
   border-bottom: 1px dotted;
   border-style: groove;
-}
+} */
 
 
 .footnote_btn {
@@ -216,25 +216,25 @@ footer div a:hover{
 }
 
 .footnote h5{
-  font-family: 'Gill Sans MT';
+  font-family: 'IM Fell English';
   font-size:small;
   text-align: center;
 }
 
 .footnote p{
-  font-family: 'IM Fell English';
+  font-family: 'Open Sans', sans-serif;
   font-size: smaller;
 }
 
 .footnote-close {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   font-variant: small-caps;
   float:left;
   padding: 1px;
 }
 
 .home {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   color: whitesmoke;
   background-size: cover;
   background-repeat: no-repeat;
@@ -256,7 +256,7 @@ footer div a:hover{
 }
 
 .home div p {
-  font-family: "Gill Sans";
+  font-family: "Open Sans";
 }
 
 .key-to-morphandra{
@@ -279,7 +279,7 @@ footer div a:hover{
   list-style: none;
   width: 100%;
   align-items:center;
-  font-family:'Gill Sans';
+  font-family:'Open Sans';
 }
 
 .navbar ul li{
@@ -306,7 +306,7 @@ footer div a:hover{
   color: whitesmoke;
   align-items: center;
   justify-content: center;
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
 }
 .navbar-toggler-icon:hover {
   color: skyblue;
@@ -315,7 +315,7 @@ footer div a:hover{
 .nav-item {
   padding-left: 5px;
   /* border-bottom: .5px solid gray; */
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   text-transform: uppercase;
   font-size: medium;
   color: gray;
@@ -332,26 +332,26 @@ footer div a:hover{
 
 .page_number {
   color: var(--graphite);
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   font-size: small;
   display: block;
   text-align: center;
 }
 
-.proverb {
+/* .proverb {
   border-bottom: 1px dotted var(--trench-blue);
-}
+} */
 
 
-.q {
+/* .q {
   display: block;
   padding: .1rem .4rem;
   border-bottom: 1px gray;
-}
+} */
 
-.receipt {
+/* .receipt {
   border-bottom: 1px dotted darkturquoise;
-}
+} */
 
 section {
   display: flex;
@@ -369,7 +369,7 @@ section p {
 
 
 .section-title {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
 }
 
 .sic {
@@ -379,7 +379,7 @@ section p {
 }
 
 .speaker {
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   display: block;
   text-align: center;
 }
@@ -390,7 +390,7 @@ section p {
 
 .stage {
   display: block;
-  font-family: 'Gill Sans';
+  font-family: 'Open Sans';
   text-align: center;
 
 }
